@@ -1,0 +1,3515 @@
+{
+    "results": [
+        {
+            "tweet_id": "1818364618412376140",
+            "creation_date": "Tue Jul 30 19:14:43 +0000 2024",
+            "text": "Read The Parasitic Mind",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 19953,
+            "retweet_count": 1935,
+            "reply_count": 2568,
+            "quote_count": 183,
+            "retweet": false,
+            "views": 1436537,
+            "timestamp": 1722366883,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818364618412376140",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 1093,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818362369896304843",
+            "creation_date": "Tue Jul 30 19:05:47 +0000 2024",
+            "text": "RT @visegrad24: BREAKING:\n\nThe streets of Caracas are packed to the brim with protesters out to support opposition leader Mar\u00eda Corina Mach\u2026",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 3624,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 31,
+            "timestamp": 1722366347,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1818359984222355881",
+            "extended_entities": null,
+            "conversation_id": "1818362369896304843",
+            "retweet_status": {
+                "tweet_id": "1818359984222355881",
+                "creation_date": "Tue Jul 30 18:56:18 +0000 2024",
+                "text": "BREAKING:\n\nThe streets of Caracas are packed to the brim with protesters out to support opposition leader Mar\u00eda Corina Machado during her first major speech since the election.\n\n#VenezuelaLibre \ud83c\uddfb\ud83c\uddea \n\nVia @AlertaMundoNews https://t.co/xsuAcIl583",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818354487859261440/pu/vid/avc1/320x562/1zpnYS2T2O98wbwm.mp4?tag=12",
+                        "bitrate": 632000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818354487859261440/pu/vid/avc1/364x640/Uvkne3R9JpVOOvSh.mp4?tag=12",
+                        "bitrate": 950000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Thu Jan 30 06:48:04 +0000 2020",
+                    "user_id": "1222773302441148416",
+                    "username": "visegrad24",
+                    "name": "Visegr\u00e1d 24",
+                    "follower_count": 1090333,
+                    "following_count": 1558,
+                    "favourites_count": 46801,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Visegrad",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1798263200648994816/qFYydb3B_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222773302441148416/1715766741",
+                    "description": "Aggregating and curating news, politics and current affairs. #BTC",
+                    "external_url": "https://t.co/GzBTWQG8Lb",
+                    "number_of_tweets": 46759,
+                    "bot": false,
+                    "timestamp": 1580366884,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 15705,
+                "retweet_count": 3625,
+                "reply_count": 616,
+                "quote_count": 245,
+                "retweet": false,
+                "views": 693008,
+                "timestamp": 1722365778,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false,
+                                "graphql_source_user": {
+                                    "user_results": {
+                                        "result": {
+                                            "__typename": "User",
+                                            "rest_id": "1590160642610282497",
+                                            "is_blue_verified": true,
+                                            "profile_image_shape": "Circle",
+                                            "affiliates_highlighted_label": {},
+                                            "legacy": {
+                                                "can_dm": true,
+                                                "can_media_tag": true,
+                                                "advertiser_account_service_levels": [
+                                                    "analytics"
+                                                ],
+                                                "advertiser_account_type": "promotable_user",
+                                                "analytics_type": "disabled",
+                                                "created_at": "Wed Nov 09 01:53:47 +0000 2022",
+                                                "description": "Medio de Comunicaci\u00f3n. Noticias desde todo el mundo. TODAS NUESTRAS REDES: https://t.co/dbxpYYAXFi",
+                                                "entities": {
+                                                    "url": {
+                                                        "urls": [
+                                                            {
+                                                                "display_url": "alertamundialnoticias.com",
+                                                                "expanded_url": "https://alertamundialnoticias.com/",
+                                                                "indices": [
+                                                                    0,
+                                                                    23
+                                                                ],
+                                                                "url": "https://t.co/xMKWyDaaSh"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "description": {
+                                                        "hashtags": [],
+                                                        "symbols": [],
+                                                        "urls": [
+                                                            {
+                                                                "display_url": "linktr.ee/alertamundonews",
+                                                                "expanded_url": "https://linktr.ee/alertamundonews",
+                                                                "indices": [
+                                                                    75,
+                                                                    98
+                                                                ],
+                                                                "url": "https://t.co/dbxpYYAXFi"
+                                                            }
+                                                        ],
+                                                        "user_mentions": []
+                                                    }
+                                                },
+                                                "fast_followers_count": 0,
+                                                "favourites_count": 11744,
+                                                "followers_count": 1182730,
+                                                "friends_count": 8980,
+                                                "geo_enabled": false,
+                                                "has_custom_timelines": true,
+                                                "has_extended_profile": true,
+                                                "id_str": "1590160642610282497",
+                                                "is_translator": false,
+                                                "location": "Global",
+                                                "media_count": 9677,
+                                                "name": "Alerta Mundial",
+                                                "normal_followers_count": 1182730,
+                                                "pinned_tweet_ids_str": [
+                                                    "1818354510647247294"
+                                                ],
+                                                "profile_background_color": "F5F8FA",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590160642610282497/1701915922",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1592272889289621504/-GmXxMaP_normal.jpg",
+                                                "profile_interstitial_type": "",
+                                                "profile_link_color": "1DA1F2",
+                                                "protected": false,
+                                                "screen_name": "AlertaMundoNews",
+                                                "statuses_count": 20754,
+                                                "translator_type_enum": "None",
+                                                "url": "https://t.co/xMKWyDaaSh",
+                                                "verified": false,
+                                                "withheld_in_countries": []
+                                            },
+                                            "super_follow_eligible": false,
+                                            "super_followed_by": false,
+                                            "super_following": false,
+                                            "private_super_following": false,
+                                            "exclusive_tweet_following": false
+                                        }
+                                    }
+                                }
+                            },
+                            "display_url": "pic.twitter.com/xsuAcIl583",
+                            "expanded_url": "https://twitter.com/AlertaMundoNews/status/1818354510647247294/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818354487859261440",
+                            "indices": [
+                                220,
+                                243
+                            ],
+                            "media_key": "7_1818354487859261440",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818354487859261440/pu/img/DPi9aSNh_TF91ZP_.jpg",
+                            "original_info": {
+                                "width": 364,
+                                "height": 640,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 364,
+                                    "h": 640
+                                }
+                            },
+                            "source_status_id_str": "1818354510647247294",
+                            "source_user_id_str": "1590160642610282497",
+                            "type": "video",
+                            "url": "https://t.co/xsuAcIl583",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    91,
+                                    160
+                                ],
+                                "duration_millis": 30116,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818354487859261440/pu/pl/CNN5FnIX8Rw6M86U.m3u8?tag=12",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818354487859261440/pu/vid/avc1/320x562/1zpnYS2T2O98wbwm.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 632000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818354487859261440/pu/vid/avc1/364x640/Uvkne3R9JpVOOvSh.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 950000
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818359984222355881",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 316,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818361587717357934",
+            "creation_date": "Tue Jul 30 19:02:40 +0000 2024",
+            "text": "#1 in Venezuela",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "es",
+            "favorite_count": 76964,
+            "retweet_count": 13496,
+            "reply_count": 2889,
+            "quote_count": 368,
+            "retweet": false,
+            "views": 2040681,
+            "timestamp": 1722366160,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818360239718346772",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818361587717357934",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818360239718346772",
+                "creation_date": "Tue Jul 30 18:57:19 +0000 2024",
+                "text": "\ud835\udd4f is the #1 News App on the AppStore in Venezuela \ud83c\uddfb\ud83c\uddea \n\nThe people of Venezuela are receiving all the unfiltered and truthful news right here on this platform in real-time. https://t.co/Epyal7rubL",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/480x270/hLdJmtztOVv0pA_k.mp4?tag=16",
+                        "bitrate": 288000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/640x360/H2F_Ko8HqyPTsi7i.mp4?tag=16",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/1280x720/TlRJoGi76zP-GkP-.mp4?tag=16",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/1920x1080/X2kAQ1vF1Xz2d5hu.mp4?tag=16",
+                        "bitrate": 10368000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Wed May 05 12:03:43 +0000 2021",
+                    "user_id": "1389913567671975937",
+                    "username": "cb_doge",
+                    "name": "DogeDesigner",
+                    "follower_count": 716764,
+                    "following_count": 996,
+                    "favourites_count": 86011,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Dogecoin.com",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389913567671975937/1711058670",
+                    "description": "UX/UI & Graphic Designer at Dogecoin & MyDoge Inc./ \ud835\udd4f Creator",
+                    "external_url": "https://t.co/E0fsFaNdeI",
+                    "number_of_tweets": 34512,
+                    "bot": false,
+                    "timestamp": 1620216223,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 7200,
+                "retweet_count": 1431,
+                "reply_count": 352,
+                "quote_count": 19,
+                "retweet": false,
+                "views": 2125128,
+                "timestamp": 1722365839,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/Epyal7rubL",
+                            "expanded_url": "https://twitter.com/cb_doge/status/1818360239718346772/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818360174115274752",
+                            "indices": [
+                                172,
+                                195
+                            ],
+                            "media_key": "13_1818360174115274752",
+                            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1818360174115274752/img/9zj2iAGmvPnYWk73.jpg",
+                            "original_info": {
+                                "width": 1920,
+                                "height": 1080,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/Epyal7rubL",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 10010,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/pl/aNVD2iGnF_nlAmg3.m3u8?tag=16",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/480x270/hLdJmtztOVv0pA_k.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 288000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/640x360/H2F_Ko8HqyPTsi7i.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/1280x720/TlRJoGi76zP-GkP-.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818360174115274752/vid/avc1/1920x1080/X2kAQ1vF1Xz2d5hu.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 10368000
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818360239718346772",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 84,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 570,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818358540098322792",
+            "creation_date": "Tue Jul 30 18:50:34 +0000 2024",
+            "text": "Wow",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "qst",
+            "favorite_count": 97909,
+            "retweet_count": 24664,
+            "reply_count": 3052,
+            "quote_count": 506,
+            "retweet": false,
+            "views": 2981828,
+            "timestamp": 1722365434,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818356096752664719",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818358540098322792",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818356096752664719",
+                "creation_date": "Tue Jul 30 18:40:51 +0000 2024",
+                "text": "WOW! An aerial shot of the citizen assembly called today by Venezuelan opposition leader, Mar\u00eda Corina Machado. \n\nThousands of Venezuelans have gathered to show their support and demand democratic change in the country. https://t.co/U65gBj3jjU",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818356072899387392/pu/vid/avc1/320x568/wsBEUFJKKo_J5UF2.mp4?tag=12",
+                        "bitrate": 632000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818356072899387392/pu/vid/avc1/360x640/n2lbUZC9S_pR-_SF.mp4?tag=12",
+                        "bitrate": 950000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Wed Sep 03 01:44:04 +0000 2008",
+                    "user_id": "16106584",
+                    "username": "stillgray",
+                    "name": "Ian Miles Cheong",
+                    "follower_count": 1068160,
+                    "following_count": 2604,
+                    "favourites_count": 233657,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Earth",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1758737917638508544/lmdvybKp_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/16106584/1662227888",
+                    "description": "I say the quiet part out loud.",
+                    "external_url": null,
+                    "number_of_tweets": 484253,
+                    "bot": false,
+                    "timestamp": 1220406244,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 13954,
+                "retweet_count": 4271,
+                "reply_count": 485,
+                "quote_count": 356,
+                "retweet": false,
+                "views": 3207755,
+                "timestamp": 1722364851,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/U65gBj3jjU",
+                            "expanded_url": "https://twitter.com/stillgray/status/1818356096752664719/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818356072899387392",
+                            "indices": [
+                                220,
+                                243
+                            ],
+                            "media_key": "7_1818356072899387392",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818356072899387392/pu/img/eQSwopqIyAYzixd9.jpg",
+                            "original_info": {
+                                "width": 360,
+                                "height": 640,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 360,
+                                    "h": 640
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/U65gBj3jjU",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 8704,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356072899387392/pu/pl/zUR4nm3GUra1eihV.m3u8?tag=12",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356072899387392/pu/vid/avc1/320x568/wsBEUFJKKo_J5UF2.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 632000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356072899387392/pu/vid/avc1/360x640/n2lbUZC9S_pR-_SF.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 950000
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818356096752664719",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 416,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 1192,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818358007652401310",
+            "creation_date": "Tue Jul 30 18:48:27 +0000 2024",
+            "text": "RT @stillgray: Venezuelan opposition leader Mar\u00eda Corina Machado declares: \u201cMilitary servicemen saw with their own eyes the triumph of a co\u2026",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 1956,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 34,
+            "timestamp": 1722365307,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1818356560634298494",
+            "extended_entities": null,
+            "conversation_id": "1818358007652401310",
+            "retweet_status": {
+                "tweet_id": "1818356560634298494",
+                "creation_date": "Tue Jul 30 18:42:42 +0000 2024",
+                "text": "Venezuelan opposition leader Mar\u00eda Corina Machado declares: \u201cMilitary servicemen saw with their own eyes the triumph of a country against a tyranny. Now your duty is to defend popular sovereignty and protect the people of Venezuela.\u201d https://t.co/Uadfg2OXeI",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/vid/avc1/320x568/2BNKC4OMxR2hl2EE.mp4?tag=12",
+                        "bitrate": 632000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/vid/avc1/480x852/73bt9DYPyN_LDkYf.mp4?tag=12",
+                        "bitrate": 950000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/vid/avc1/720x1280/NF5ziJ7Y1ZjR2PMU.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Wed Sep 03 01:44:04 +0000 2008",
+                    "user_id": "16106584",
+                    "username": "stillgray",
+                    "name": "Ian Miles Cheong",
+                    "follower_count": 1068160,
+                    "following_count": 2604,
+                    "favourites_count": 233657,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Earth",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1758737917638508544/lmdvybKp_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/16106584/1662227888",
+                    "description": "I say the quiet part out loud.",
+                    "external_url": null,
+                    "number_of_tweets": 484253,
+                    "bot": false,
+                    "timestamp": 1220406244,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 12088,
+                "retweet_count": 1957,
+                "reply_count": 246,
+                "quote_count": 50,
+                "retweet": false,
+                "views": 609539,
+                "timestamp": 1722364962,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/Uadfg2OXeI",
+                            "expanded_url": "https://twitter.com/stillgray/status/1818356560634298494/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818356490840760320",
+                            "indices": [
+                                234,
+                                257
+                            ],
+                            "media_key": "7_1818356490840760320",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818356490840760320/pu/img/582PxK5I7bMtMFdc.jpg",
+                            "original_info": {
+                                "width": 720,
+                                "height": 1280,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/Uadfg2OXeI",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 54984,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/pl/hRhAPxulTHQI6_oF.m3u8?tag=12",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/vid/avc1/320x568/2BNKC4OMxR2hl2EE.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 632000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/vid/avc1/480x852/73bt9DYPyN_LDkYf.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 950000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818356490840760320/pu/vid/avc1/720x1280/NF5ziJ7Y1ZjR2PMU.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818356560634298494",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 167,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818356844752175574",
+            "creation_date": "Tue Jul 30 18:43:49 +0000 2024",
+            "text": "If this gains momentum, the rightfully elected President will replace the fraudster",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 90626,
+            "retweet_count": 24274,
+            "reply_count": 3373,
+            "quote_count": 672,
+            "retweet": false,
+            "views": 3938391,
+            "timestamp": 1722365029,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818355452054557065",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818356844752175574",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818355452054557065",
+                "creation_date": "Tue Jul 30 18:38:17 +0000 2024",
+                "text": "BREAKING:\n\nVenezuelan Army Captains Javier and Juan Carlos Nieto Quintero send a message to all soldiers:\n\n\u201cIt\u2019s time to make the right decisions at a historical moment (\u2026) It\u2019s evident we have a new president-elect\"\n\nTime for the army to intervene \ud83c\uddfb\ud83c\uddea https://t.co/W1ojs5Ak56",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/vid/avc1/476x270/XRHa0cNVfYWvvpHb.mp4?tag=12",
+                        "bitrate": 256000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/vid/avc1/636x360/5MeiTXWl5Oqv1_DZ.mp4?tag=12",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/vid/avc1/848x480/QIpxBSm_A8WQPD8t.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Thu Jan 30 06:48:04 +0000 2020",
+                    "user_id": "1222773302441148416",
+                    "username": "visegrad24",
+                    "name": "Visegr\u00e1d 24",
+                    "follower_count": 1090333,
+                    "following_count": 1558,
+                    "favourites_count": 46801,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Visegrad",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1798263200648994816/qFYydb3B_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222773302441148416/1715766741",
+                    "description": "Aggregating and curating news, politics and current affairs. #BTC",
+                    "external_url": "https://t.co/GzBTWQG8Lb",
+                    "number_of_tweets": 46759,
+                    "bot": false,
+                    "timestamp": 1580366884,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 42662,
+                "retweet_count": 11717,
+                "reply_count": 1231,
+                "quote_count": 1031,
+                "retweet": false,
+                "views": 5055679,
+                "timestamp": 1722364697,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false,
+                                "graphql_source_user": {
+                                    "user_results": {
+                                        "result": {
+                                            "__typename": "User",
+                                            "rest_id": "1618824899501473800",
+                                            "is_blue_verified": true,
+                                            "profile_image_shape": "Circle",
+                                            "affiliates_highlighted_label": {},
+                                            "legacy": {
+                                                "can_dm": true,
+                                                "can_media_tag": true,
+                                                "advertiser_account_service_levels": [
+                                                    "analytics"
+                                                ],
+                                                "advertiser_account_type": "promotable_user",
+                                                "analytics_type": "disabled",
+                                                "created_at": "Fri Jan 27 04:15:20 +0000 2023",
+                                                "description": "Reportando la distop\u00eda de nuestro tiempo. Suscr\u00edbete en nuestro canal de Youtube: https://t.co/UamSihq1pH",
+                                                "entities": {
+                                                    "url": {
+                                                        "urls": [
+                                                            {
+                                                                "display_url": "informeorwell.com",
+                                                                "expanded_url": "http://www.informeorwell.com",
+                                                                "indices": [
+                                                                    0,
+                                                                    23
+                                                                ],
+                                                                "url": "https://t.co/PgFs14tgS4"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "description": {
+                                                        "hashtags": [],
+                                                        "symbols": [],
+                                                        "urls": [
+                                                            {
+                                                                "display_url": "youtube.com/@informeorwell\u2026",
+                                                                "expanded_url": "https://youtube.com/@informeorwell?si=X2xVJT3BiLurLBgH",
+                                                                "indices": [
+                                                                    82,
+                                                                    105
+                                                                ],
+                                                                "url": "https://t.co/UamSihq1pH"
+                                                            }
+                                                        ],
+                                                        "user_mentions": []
+                                                    }
+                                                },
+                                                "fast_followers_count": 0,
+                                                "favourites_count": 346,
+                                                "followers_count": 113799,
+                                                "friends_count": 0,
+                                                "geo_enabled": false,
+                                                "has_custom_timelines": false,
+                                                "has_extended_profile": true,
+                                                "id_str": "1618824899501473800",
+                                                "is_translator": false,
+                                                "location": "Miami, FL ",
+                                                "media_count": 1445,
+                                                "name": "Informe Orwell",
+                                                "normal_followers_count": 113799,
+                                                "pinned_tweet_ids_str": [
+                                                    "1722740979436794284"
+                                                ],
+                                                "profile_background_color": "F5F8FA",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618824899501473800/1694610383",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1718090373782761472/Ydg110rg_normal.jpg",
+                                                "profile_interstitial_type": "",
+                                                "profile_link_color": "1DA1F2",
+                                                "protected": false,
+                                                "screen_name": "InformeOrwell",
+                                                "statuses_count": 3359,
+                                                "translator_type_enum": "None",
+                                                "url": "https://t.co/PgFs14tgS4",
+                                                "verified": false,
+                                                "withheld_in_countries": []
+                                            },
+                                            "super_follow_eligible": false,
+                                            "super_followed_by": false,
+                                            "super_following": false,
+                                            "private_super_following": false,
+                                            "exclusive_tweet_following": false
+                                        }
+                                    }
+                                }
+                            },
+                            "display_url": "pic.twitter.com/W1ojs5Ak56",
+                            "expanded_url": "https://twitter.com/InformeOrwell/status/1818352945681121645/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818352894753599488",
+                            "indices": [
+                                252,
+                                275
+                            ],
+                            "media_key": "7_1818352894753599488",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818352894753599488/pu/img/GN-vmPAZK-DO5DrR.jpg",
+                            "original_info": {
+                                "width": 848,
+                                "height": 480,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 848,
+                                    "h": 480
+                                }
+                            },
+                            "source_status_id_str": "1818352945681121645",
+                            "source_user_id_str": "1618824899501473800",
+                            "type": "video",
+                            "url": "https://t.co/W1ojs5Ak56",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    53,
+                                    30
+                                ],
+                                "duration_millis": 129295,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/pl/509R5oj0ImKKyEvp.m3u8?tag=12",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/vid/avc1/476x270/XRHa0cNVfYWvvpHb.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/vid/avc1/636x360/5MeiTXWl5Oqv1_DZ.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818352894753599488/pu/vid/avc1/848x480/QIpxBSm_A8WQPD8t.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818355452054557065",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 1792,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 1732,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818353856058982433",
+            "creation_date": "Tue Jul 30 18:31:57 +0000 2024",
+            "text": "RT @DurantQuotesBot: There is always, in any society, a minority whose instincts rejoice in the permission to persecute; it is a release fr\u2026",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 317,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 34,
+            "timestamp": 1722364317,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1818353393251098823",
+            "extended_entities": null,
+            "conversation_id": "1818353856058982433",
+            "retweet_status": {
+                "tweet_id": "1818353393251098823",
+                "creation_date": "Tue Jul 30 18:30:06 +0000 2024",
+                "text": "There is always, in any society, a minority whose instincts rejoice in the permission to persecute; it is a release from civilization.",
+                "media_url": null,
+                "video_url": null,
+                "user": {
+                    "creation_date": "Tue Jan 18 01:19:21 +0000 2022",
+                    "user_id": "1483247571082440704",
+                    "username": "DurantQuotesBot",
+                    "name": "Will Durant (Quotes)",
+                    "follower_count": 22815,
+                    "following_count": 26,
+                    "favourites_count": 20,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1483247662979633154/8oeSPSIg_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483247571082440704/1642468957",
+                    "description": "Daily quotes from the historian of civilization! (This account is not the author's; he died in 1981. I am only @BrennanColberg, a reader of his.)",
+                    "external_url": null,
+                    "number_of_tweets": 1234,
+                    "bot": false,
+                    "timestamp": 1642468761,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 5161,
+                "retweet_count": 317,
+                "reply_count": 219,
+                "quote_count": 10,
+                "retweet": false,
+                "views": 692266,
+                "timestamp": 1722364206,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": null,
+                "conversation_id": "1818353393251098823",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 91,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818350867869057284",
+            "creation_date": "Tue Jul 30 18:20:04 +0000 2024",
+            "text": "https://t.co/nw9PI7Ad2u",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "zxx",
+            "favorite_count": 7832,
+            "retweet_count": 1087,
+            "reply_count": 315,
+            "quote_count": 32,
+            "retweet": false,
+            "views": 918415,
+            "timestamp": 1722363604,
+            "video_view_count": null,
+            "in_reply_to_status_id": "1818349351636484215",
+            "quoted_status_id": null,
+            "binding_values": [
+                {
+                    "key": "domain",
+                    "value": {
+                        "string_value": "www.dea.gov"
+                    }
+                },
+                {
+                    "key": "thumbnail_image_alt_text",
+                    "value": {
+                        "string_value": "DEA Logo"
+                    }
+                },
+                {
+                    "key": "vanity_url",
+                    "value": {
+                        "scribe_key": "vanity_url",
+                        "string_value": "dea.gov"
+                    }
+                },
+                {
+                    "key": "title",
+                    "value": {
+                        "string_value": "Nicol\u00e1s Maduro Moros and 14 current and former Venezuelan officials charged with narco-terrorism,..."
+                    }
+                },
+                {
+                    "key": "card_url",
+                    "value": {
+                        "scribe_key": "card_url",
+                        "string_value": "https://t.co/nw9PI7Ad2u"
+                    }
+                }
+            ],
+            "expanded_url": "https://www.dea.gov/press-releases/2020/03/26/nicolas-maduro-moros-and-14-current-and-former-venezuelan-officials",
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818349351636484215",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 106,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818350802278465977",
+            "creation_date": "Tue Jul 30 18:19:49 +0000 2024",
+            "text": "https://t.co/XkK6B7pwWG",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "zxx",
+            "favorite_count": 6165,
+            "retweet_count": 715,
+            "reply_count": 194,
+            "quote_count": 19,
+            "retweet": false,
+            "views": 496313,
+            "timestamp": 1722363589,
+            "video_view_count": null,
+            "in_reply_to_status_id": "1818349351636484215",
+            "quoted_status_id": null,
+            "binding_values": [
+                {
+                    "key": "vanity_url",
+                    "value": {
+                        "scribe_key": "vanity_url",
+                        "string_value": "state.gov"
+                    }
+                },
+                {
+                    "key": "domain",
+                    "value": {
+                        "string_value": "www.state.gov"
+                    }
+                },
+                {
+                    "key": "title",
+                    "value": {
+                        "string_value": "Nicol\u00e1s Maduro Moros Reward Poster (Accessible - English) - United States Department of State"
+                    }
+                },
+                {
+                    "key": "card_url",
+                    "value": {
+                        "scribe_key": "card_url",
+                        "string_value": "https://t.co/XkK6B7pwWG"
+                    }
+                }
+            ],
+            "expanded_url": "https://www.state.gov/nicolas-maduro-moros-new-target/2021-12-22-rewards-poster-for-nicolas-maduro-moros-accessible-final/",
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818349351636484215",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 84,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818349351636484215",
+            "creation_date": "Tue Jul 30 18:14:03 +0000 2024",
+            "text": "This is real https://t.co/3KjTZiVJG0",
+            "media_url": [
+                "https://pbs.twimg.com/media/GTwTGNLWUAAzvEf.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 159586,
+            "retweet_count": 39699,
+            "reply_count": 7402,
+            "quote_count": 2529,
+            "retweet": false,
+            "views": 7191215,
+            "timestamp": 1722363243,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/3KjTZiVJG0",
+                        "expanded_url": "https://twitter.com/elonmusk/status/1818349351636484215/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": [
+                                    {
+                                        "x": 449,
+                                        "y": 910,
+                                        "h": 218,
+                                        "w": 218
+                                    }
+                                ]
+                            }
+                        },
+                        "id_str": "1818349346888241152",
+                        "indices": [
+                            13,
+                            36
+                        ],
+                        "media_key": "3_1818349346888241152",
+                        "media_url_https": "https://pbs.twimg.com/media/GTwTGNLWUAAzvEf.jpg",
+                        "original_info": {
+                            "width": 1094,
+                            "height": 1428,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 300,
+                                    "w": 1094,
+                                    "h": 613
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 59,
+                                    "w": 1094,
+                                    "h": 1094
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1094,
+                                    "h": 1247
+                                },
+                                {
+                                    "x": 178,
+                                    "y": 0,
+                                    "w": 714,
+                                    "h": 1428
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1094,
+                                    "h": 1428
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1094,
+                                "h": 1428
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/3KjTZiVJG0"
+                    }
+                ]
+            },
+            "conversation_id": "1818349351636484215",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 3956,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818345766642938274",
+            "creation_date": "Tue Jul 30 17:59:48 +0000 2024",
+            "text": "Moving up!",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 85177,
+            "retweet_count": 6320,
+            "reply_count": 4175,
+            "quote_count": 268,
+            "retweet": false,
+            "views": 7162581,
+            "timestamp": 1722362388,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818344895188554039",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818345766642938274",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818344895188554039",
+                "creation_date": "Tue Jul 30 17:56:20 +0000 2024",
+                "text": "\ud835\udd4f &gt; Facebook &amp; Instagram https://t.co/IfeUzfQbiK",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GTwOsGvbAAACtAb.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Wed May 05 12:03:43 +0000 2021",
+                    "user_id": "1389913567671975937",
+                    "username": "cb_doge",
+                    "name": "DogeDesigner",
+                    "follower_count": 716764,
+                    "following_count": 996,
+                    "favourites_count": 86011,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Dogecoin.com",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389913567671975937/1711058670",
+                    "description": "UX/UI & Graphic Designer at Dogecoin & MyDoge Inc./ \ud835\udd4f Creator",
+                    "external_url": "https://t.co/E0fsFaNdeI",
+                    "number_of_tweets": 34512,
+                    "bot": false,
+                    "timestamp": 1620216223,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 1769,
+                "retweet_count": 252,
+                "reply_count": 392,
+                "quote_count": 29,
+                "retweet": false,
+                "views": 7181745,
+                "timestamp": 1722362180,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/IfeUzfQbiK",
+                            "expanded_url": "https://twitter.com/cb_doge/status/1818344895188554039/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1818344500437385216",
+                            "indices": [
+                                32,
+                                55
+                            ],
+                            "media_key": "3_1818344500437385216",
+                            "media_url_https": "https://pbs.twimg.com/media/GTwOsGvbAAACtAb.jpg",
+                            "original_info": {
+                                "width": 800,
+                                "height": 779,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 235,
+                                        "w": 800,
+                                        "h": 448
+                                    },
+                                    {
+                                        "x": 11,
+                                        "y": 0,
+                                        "w": 779,
+                                        "h": 779
+                                    },
+                                    {
+                                        "x": 59,
+                                        "y": 0,
+                                        "w": 683,
+                                        "h": 779
+                                    },
+                                    {
+                                        "x": 205,
+                                        "y": 0,
+                                        "w": 390,
+                                        "h": 779
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 800,
+                                        "h": 779
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 800,
+                                    "h": 779
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/IfeUzfQbiK",
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818344895188554039",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 41,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 585,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818340245139554333",
+            "creation_date": "Tue Jul 30 17:37:52 +0000 2024",
+            "text": "It sure looks like the FBI leadership engaged in perjury \u2026",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 61060,
+            "retweet_count": 12672,
+            "reply_count": 3203,
+            "quote_count": 412,
+            "retweet": false,
+            "views": 6663669,
+            "timestamp": 1722361072,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818311922560774188",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818340245139554333",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818311922560774188",
+                "creation_date": "Tue Jul 30 15:45:19 +0000 2024",
+                "text": "BREAKING: The FBI is now claiming that the Trump shooter Thomas Matthew Crooks had an unspecified \"social media account\" in 2019/2020 (when he was 14/15 years old) that posted \"anti-immigrant and anti-semitic\" content. \n\nThis is not consistent with Gab's understanding of the https://t.co/UPPJSAkPqp",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GTvwmFhXAAATEjw.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Tue Aug 23 05:43:07 +0000 2016",
+                    "user_id": "767960339547774976",
+                    "username": "BasedTorba",
+                    "name": "Andrew Torba",
+                    "follower_count": 410533,
+                    "following_count": 709,
+                    "favourites_count": 5416,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1814738509527207936/fYNg4cvL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/767960339547774976/1711650600",
+                    "description": "Christian, Father of 3, CEO of https://t.co/hsCA13uWAn",
+                    "external_url": "https://t.co/zeqgpIje1h",
+                    "number_of_tweets": 838,
+                    "bot": false,
+                    "timestamp": 1471930987,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 23632,
+                "retweet_count": 7903,
+                "reply_count": 1155,
+                "quote_count": 943,
+                "retweet": false,
+                "views": 8627860,
+                "timestamp": 1722354319,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/UPPJSAkPqp",
+                            "expanded_url": "https://twitter.com/BasedTorba/status/1818311922560774188/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1818311411681918976",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_key": "3_1818311411681918976",
+                            "media_url_https": "https://pbs.twimg.com/media/GTvwmFhXAAATEjw.jpg",
+                            "original_info": {
+                                "width": 1322,
+                                "height": 1718,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1322,
+                                        "h": 740
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1322,
+                                        "h": 1322
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1322,
+                                        "h": 1507
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 859,
+                                        "h": 1718
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1322,
+                                        "h": 1718
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1322,
+                                    "h": 1718
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/UPPJSAkPqp",
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818311922560774188",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 3759,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 2402,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818296731655721420",
+            "creation_date": "Tue Jul 30 14:44:57 +0000 2024",
+            "text": "Wow\n https://t.co/P26JfTjPPJ",
+            "media_url": null,
+            "video_url": [
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/vid/avc1/320x568/y01UfD16DbDFGddN.mp4?tag=16",
+                    "bitrate": 632000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/vid/avc1/480x852/T0DJwszp_Tg6dFoC.mp4?tag=16",
+                    "bitrate": 950000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/vid/avc1/576x1024/EU2f-Zxxq0lUo8Sq.mp4?tag=16",
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4"
+                }
+            ],
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "und",
+            "favorite_count": 263785,
+            "retweet_count": 55114,
+            "reply_count": 27762,
+            "quote_count": 9982,
+            "retweet": false,
+            "views": 24081451,
+            "timestamp": 1722350697,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "graphql_source_user": {
+                                "user_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "rest_id": "1560341081576939524",
+                                        "is_blue_verified": true,
+                                        "profile_image_shape": "Circle",
+                                        "affiliates_highlighted_label": {},
+                                        "legacy": {
+                                            "can_dm": false,
+                                            "can_media_tag": true,
+                                            "advertiser_account_service_levels": [
+                                                "analytics"
+                                            ],
+                                            "advertiser_account_type": "promotable_user",
+                                            "analytics_type": "disabled",
+                                            "created_at": "Thu Aug 18 19:01:35 +0000 2022",
+                                            "description": "It\u2019s always darkest just before the dawn. MARRIED.. No Dms.",
+                                            "entities": {
+                                                "description": {
+                                                    "hashtags": [],
+                                                    "symbols": [],
+                                                    "urls": [],
+                                                    "user_mentions": []
+                                                }
+                                            },
+                                            "fast_followers_count": 0,
+                                            "favourites_count": 27609,
+                                            "followers_count": 237245,
+                                            "friends_count": 1638,
+                                            "geo_enabled": false,
+                                            "has_custom_timelines": true,
+                                            "has_extended_profile": true,
+                                            "id_str": "1560341081576939524",
+                                            "is_translator": false,
+                                            "location": "",
+                                            "media_count": 3114,
+                                            "name": "Insurrection Barbie",
+                                            "normal_followers_count": 237245,
+                                            "pinned_tweet_ids_str": [
+                                                "1760443689107705910"
+                                            ],
+                                            "profile_background_color": "F5F8FA",
+                                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560341081576939524/1681050926",
+                                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1813640743438729216/JtAtJLGW_normal.jpg",
+                                            "profile_interstitial_type": "",
+                                            "profile_link_color": "1DA1F2",
+                                            "protected": false,
+                                            "screen_name": "DefiyantlyFree",
+                                            "statuses_count": 362001,
+                                            "translator_type_enum": "None",
+                                            "verified": false,
+                                            "withheld_in_countries": []
+                                        },
+                                        "super_follow_eligible": true,
+                                        "super_followed_by": false,
+                                        "super_following": false,
+                                        "private_super_following": false,
+                                        "exclusive_tweet_following": false
+                                    }
+                                }
+                            }
+                        },
+                        "display_url": "pic.twitter.com/P26JfTjPPJ",
+                        "expanded_url": "https://twitter.com/DefiyantlyFree/status/1818085447786000601/video/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "id_str": "1818085374008160256",
+                        "indices": [
+                            5,
+                            28
+                        ],
+                        "media_key": "13_1818085374008160256",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1818085374008160256/img/AFI5VDYESxioYgcR.jpg",
+                        "original_info": {
+                            "width": 576,
+                            "height": 1024,
+                            "focus_rects": []
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 576,
+                                "h": 1024
+                            }
+                        },
+                        "source_status_id_str": "1818085447786000601",
+                        "source_user_id_str": "1560341081576939524",
+                        "type": "video",
+                        "url": "https://t.co/P26JfTjPPJ",
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 146307,
+                            "variants": [
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/pl/VjLTqJYRsDbqGgup.m3u8?tag=16",
+                                    "content_type": "application/x-mpegURL"
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/vid/avc1/320x568/y01UfD16DbDFGddN.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 632000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/vid/avc1/480x852/T0DJwszp_Tg6dFoC.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 950000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818085374008160256/vid/avc1/576x1024/EU2f-Zxxq0lUo8Sq.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 2176000
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1818296731655721420",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 29651,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818280489041727627",
+            "creation_date": "Tue Jul 30 13:40:25 +0000 2024",
+            "text": "RT @cb_doge: Just a reminder:\n\nIf you're a website admin and still using the old \uea00 icon, please update it to \ud835\udd4f. https://t.co/QGY8m2fsjV",
+            "media_url": null,
+            "video_url": [
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/320x320/g6DJR6-ymnWsOwWw.mp4?tag=16",
+                    "bitrate": 432000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/540x540/_HsCOxqun1VvQjl1.mp4?tag=16",
+                    "bitrate": 832000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/720x720/dUXk1pIGTd6_BDxX.mp4?tag=16",
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/1080x1080/6kaUuvZ1PsRfeDV_.mp4?tag=16",
+                    "bitrate": 8768000,
+                    "content_type": "video/mp4"
+                }
+            ],
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 714,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 78,
+            "timestamp": 1722346825,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1818279624885015035",
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "graphql_source_user": {
+                                "user_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "rest_id": "1389913567671975937",
+                                        "is_blue_verified": true,
+                                        "profile_image_shape": "Circle",
+                                        "affiliates_highlighted_label": {
+                                            "label": {
+                                                "url": {
+                                                    "urlType": "DeepLink",
+                                                    "url": "https://twitter.com/MyDogeOfficial"
+                                                },
+                                                "badge": {
+                                                    "url": "https://pbs.twimg.com/profile_images/1656530956801523719/SC7nEKMa_bigger.png"
+                                                },
+                                                "userLabelType": "BusinessLabel",
+                                                "userLabelDisplayType": "Badge",
+                                                "description": "MyDoge"
+                                            }
+                                        },
+                                        "legacy": {
+                                            "can_dm": true,
+                                            "can_media_tag": false,
+                                            "advertiser_account_service_levels": [
+                                                "smb"
+                                            ],
+                                            "advertiser_account_type": "promotable_user",
+                                            "analytics_type": "disabled",
+                                            "created_at": "Wed May 05 12:03:43 +0000 2021",
+                                            "description": "UX/UI & Graphic Designer at Dogecoin & MyDoge Inc./ \ud835\udd4f Creator",
+                                            "entities": {
+                                                "url": {
+                                                    "urls": [
+                                                        {
+                                                            "display_url": "MyDoge.com",
+                                                            "expanded_url": "http://MyDoge.com",
+                                                            "indices": [
+                                                                0,
+                                                                23
+                                                            ],
+                                                            "url": "https://t.co/E0fsFaNdeI"
+                                                        }
+                                                    ]
+                                                },
+                                                "description": {
+                                                    "hashtags": [],
+                                                    "symbols": [],
+                                                    "urls": [],
+                                                    "user_mentions": []
+                                                }
+                                            },
+                                            "fast_followers_count": 0,
+                                            "favourites_count": 86011,
+                                            "followers_count": 716764,
+                                            "friends_count": 996,
+                                            "geo_enabled": true,
+                                            "has_custom_timelines": true,
+                                            "has_extended_profile": true,
+                                            "id_str": "1389913567671975937",
+                                            "is_translator": false,
+                                            "location": "Dogecoin.com",
+                                            "media_count": 16846,
+                                            "name": "DogeDesigner",
+                                            "normal_followers_count": 716764,
+                                            "pinned_tweet_ids_str": [],
+                                            "profile_background_color": "F5F8FA",
+                                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389913567671975937/1711058670",
+                                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+                                            "profile_interstitial_type": "",
+                                            "profile_link_color": "1DA1F2",
+                                            "protected": false,
+                                            "screen_name": "cb_doge",
+                                            "statuses_count": 34512,
+                                            "translator_type_enum": "None",
+                                            "url": "https://t.co/E0fsFaNdeI",
+                                            "verified": false,
+                                            "withheld_in_countries": []
+                                        },
+                                        "super_follow_eligible": true,
+                                        "super_followed_by": false,
+                                        "super_following": false,
+                                        "private_super_following": false,
+                                        "exclusive_tweet_following": false
+                                    }
+                                }
+                            }
+                        },
+                        "display_url": "pic.twitter.com/QGY8m2fsjV",
+                        "expanded_url": "https://twitter.com/cb_doge/status/1818279624885015035/video/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "id_str": "1818279569025368064",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "media_key": "13_1818279569025368064",
+                        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1818279569025368064/img/cAIyMKpTAiAqdc7E.jpg",
+                        "original_info": {
+                            "width": 1080,
+                            "height": 1080,
+                            "focus_rects": []
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1080,
+                                "h": 1080
+                            }
+                        },
+                        "source_status_id_str": "1818279624885015035",
+                        "source_user_id_str": "1389913567671975937",
+                        "type": "video",
+                        "url": "https://t.co/QGY8m2fsjV",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 5460,
+                            "variants": [
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/pl/n2I-cmSl87OcEsX3.m3u8?tag=16",
+                                    "content_type": "application/x-mpegURL"
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/320x320/g6DJR6-ymnWsOwWw.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 432000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/540x540/_HsCOxqun1VvQjl1.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 832000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/720x720/dUXk1pIGTd6_BDxX.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 1280000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/1080x1080/6kaUuvZ1PsRfeDV_.mp4?tag=16",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 8768000
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1818280489041727627",
+            "retweet_status": {
+                "tweet_id": "1818279624885015035",
+                "creation_date": "Tue Jul 30 13:36:59 +0000 2024",
+                "text": "Just a reminder:\n\nIf you're a website admin and still using the old \uea00 icon, please update it to \ud835\udd4f. https://t.co/QGY8m2fsjV",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/320x320/g6DJR6-ymnWsOwWw.mp4?tag=16",
+                        "bitrate": 432000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/540x540/_HsCOxqun1VvQjl1.mp4?tag=16",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/720x720/dUXk1pIGTd6_BDxX.mp4?tag=16",
+                        "bitrate": 1280000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/1080x1080/6kaUuvZ1PsRfeDV_.mp4?tag=16",
+                        "bitrate": 8768000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Wed May 05 12:03:43 +0000 2021",
+                    "user_id": "1389913567671975937",
+                    "username": "cb_doge",
+                    "name": "DogeDesigner",
+                    "follower_count": 716764,
+                    "following_count": 996,
+                    "favourites_count": 86011,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Dogecoin.com",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389913567671975937/1711058670",
+                    "description": "UX/UI & Graphic Designer at Dogecoin & MyDoge Inc./ \ud835\udd4f Creator",
+                    "external_url": "https://t.co/E0fsFaNdeI",
+                    "number_of_tweets": 34512,
+                    "bot": false,
+                    "timestamp": 1620216223,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 22535,
+                "retweet_count": 714,
+                "reply_count": 1252,
+                "quote_count": 88,
+                "retweet": false,
+                "views": 1724417,
+                "timestamp": 1722346619,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/QGY8m2fsjV",
+                            "expanded_url": "https://twitter.com/cb_doge/status/1818279624885015035/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818279569025368064",
+                            "indices": [
+                                99,
+                                122
+                            ],
+                            "media_key": "13_1818279569025368064",
+                            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1818279569025368064/img/cAIyMKpTAiAqdc7E.jpg",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1080,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/QGY8m2fsjV",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    1,
+                                    1
+                                ],
+                                "duration_millis": 5460,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/pl/n2I-cmSl87OcEsX3.m3u8?tag=16",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/320x320/g6DJR6-ymnWsOwWw.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 432000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/540x540/_HsCOxqun1VvQjl1.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/720x720/dUXk1pIGTd6_BDxX.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 1280000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/amplify_video/1818279569025368064/vid/avc1/1080x1080/6kaUuvZ1PsRfeDV_.mp4?tag=16",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 8768000
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818279624885015035",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 139,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818269133298950253",
+            "creation_date": "Tue Jul 30 12:55:17 +0000 2024",
+            "text": "\ud83d\ude02 https://t.co/nlvLlqBeoj",
+            "media_url": null,
+            "video_url": [
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1818159601105145856/pu/vid/avc1/320x434/JFA4_C8ktiXTQHec.mp4?tag=12",
+                    "bitrate": 632000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1818159601105145856/pu/vid/avc1/358x486/XgAWyw1KtqbXTBp4.mp4?tag=12",
+                    "bitrate": 950000,
+                    "content_type": "video/mp4"
+                }
+            ],
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "qme",
+            "favorite_count": 278429,
+            "retweet_count": 41004,
+            "reply_count": 8599,
+            "quote_count": 2916,
+            "retweet": false,
+            "views": 26495682,
+            "timestamp": 1722344117,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "graphql_source_user": {
+                                "user_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "rest_id": "1403784319122907136",
+                                        "is_blue_verified": true,
+                                        "profile_image_shape": "Circle",
+                                        "affiliates_highlighted_label": {},
+                                        "legacy": {
+                                            "can_dm": true,
+                                            "can_media_tag": false,
+                                            "advertiser_account_service_levels": [
+                                                "analytics"
+                                            ],
+                                            "advertiser_account_type": "promotable_user",
+                                            "analytics_type": "disabled",
+                                            "created_at": "Sat Jun 12 18:40:46 +0000 2021",
+                                            "description": "The LORD is Good",
+                                            "entities": {
+                                                "url": {
+                                                    "urls": [
+                                                        {
+                                                            "display_url": "rumble.com/behizy",
+                                                            "expanded_url": "http://rumble.com/behizy",
+                                                            "indices": [
+                                                                0,
+                                                                23
+                                                            ],
+                                                            "url": "https://t.co/XKPqDoQFzt"
+                                                        }
+                                                    ]
+                                                },
+                                                "description": {
+                                                    "hashtags": [],
+                                                    "symbols": [],
+                                                    "urls": [],
+                                                    "user_mentions": []
+                                                }
+                                            },
+                                            "fast_followers_count": 0,
+                                            "favourites_count": 24198,
+                                            "followers_count": 234117,
+                                            "friends_count": 305,
+                                            "geo_enabled": false,
+                                            "has_custom_timelines": true,
+                                            "has_extended_profile": true,
+                                            "id_str": "1403784319122907136",
+                                            "is_translator": false,
+                                            "location": "",
+                                            "media_count": 4925,
+                                            "name": "George",
+                                            "normal_followers_count": 234117,
+                                            "pinned_tweet_ids_str": [],
+                                            "profile_background_color": "F5F8FA",
+                                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403784319122907136/1623523796",
+                                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1670624208655892481/uU5d4aKR_normal.jpg",
+                                            "profile_interstitial_type": "",
+                                            "profile_link_color": "1DA1F2",
+                                            "protected": false,
+                                            "screen_name": "BehizyTweets",
+                                            "statuses_count": 23266,
+                                            "translator_type_enum": "None",
+                                            "url": "https://t.co/XKPqDoQFzt",
+                                            "verified": false,
+                                            "withheld_in_countries": []
+                                        },
+                                        "super_follow_eligible": false,
+                                        "super_followed_by": false,
+                                        "super_following": false,
+                                        "private_super_following": false,
+                                        "exclusive_tweet_following": false
+                                    }
+                                }
+                            }
+                        },
+                        "display_url": "pic.twitter.com/nlvLlqBeoj",
+                        "expanded_url": "https://twitter.com/BehizyTweets/status/1818159627042755042/video/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "id_str": "1818159601105145856",
+                        "indices": [
+                            2,
+                            25
+                        ],
+                        "media_key": "7_1818159601105145856",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818159601105145856/pu/img/yMwONKE39BSMdcNH.jpg",
+                        "original_info": {
+                            "width": 358,
+                            "height": 486,
+                            "focus_rects": []
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 358,
+                                "h": 486
+                            }
+                        },
+                        "source_status_id_str": "1818159627042755042",
+                        "source_user_id_str": "1403784319122907136",
+                        "type": "video",
+                        "url": "https://t.co/nlvLlqBeoj",
+                        "video_info": {
+                            "aspect_ratio": [
+                                179,
+                                243
+                            ],
+                            "duration_millis": 59401,
+                            "variants": [
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1818159601105145856/pu/pl/Y1czlpi8PWnMlHlB.m3u8?tag=12",
+                                    "content_type": "application/x-mpegURL"
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1818159601105145856/pu/vid/avc1/320x434/JFA4_C8ktiXTQHec.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 632000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1818159601105145856/pu/vid/avc1/358x486/XgAWyw1KtqbXTBp4.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 950000
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1818269133298950253",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 23348,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818164250637951118",
+            "creation_date": "Tue Jul 30 05:58:31 +0000 2024",
+            "text": "This is crazy",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 118237,
+            "retweet_count": 23497,
+            "reply_count": 9406,
+            "quote_count": 1272,
+            "retweet": false,
+            "views": 10712258,
+            "timestamp": 1722319111,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1817978215606206838",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818164250637951118",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1817978215606206838",
+                "creation_date": "Mon Jul 29 17:39:17 +0000 2024",
+                "text": "Since January 2020 the debt has ballooned by 50% from $23 trillion to $35 trillion.\n\nInterest on the debt is also skyrocketed with higher rates, averaging around 5% lately. \n\nInterest on the debt is on pace for $1.5 trillion next year, about 30% of all govt revenue collected. https://t.co/WfNGOGcEjo",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GTrAa9VWgAA5paB.png"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Tue Mar 02 01:47:11 +0000 2021",
+                    "user_id": "1366565625401909249",
+                    "username": "WallStreetSilv",
+                    "name": "Wall Street Silver",
+                    "follower_count": 1402999,
+                    "following_count": 644,
+                    "favourites_count": 119487,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "\ud83d\udc49",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1482179968083836928/7prxRZ4M_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1366565625401909249/1673370883",
+                    "description": "Finance, economics, news, memes and silver. Contact us via Linktree if we need to credit a source or remove content. Follow and Tap the .... (\ud83d\udd14 +Notify)",
+                    "external_url": "https://t.co/6tmmbgxIA3",
+                    "number_of_tweets": 41384,
+                    "bot": false,
+                    "timestamp": 1614649631,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": "Business"
+                },
+                "language": "en",
+                "favorite_count": 6823,
+                "retweet_count": 2854,
+                "reply_count": 1176,
+                "quote_count": 903,
+                "retweet": false,
+                "views": 11366303,
+                "timestamp": 1722274757,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.twitter.com/WfNGOGcEjo",
+                            "expanded_url": "https://twitter.com/WallStreetSilv/status/1817978215606206838/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1817976968970665984",
+                            "indices": [
+                                277,
+                                300
+                            ],
+                            "media_key": "3_1817976968970665984",
+                            "media_url_https": "https://pbs.twimg.com/media/GTrAa9VWgAA5paB.png",
+                            "original_info": {
+                                "width": 977,
+                                "height": 833,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 977,
+                                        "h": 547
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 833,
+                                        "h": 833
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 731,
+                                        "h": 833
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 417,
+                                        "h": 833
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 977,
+                                        "h": 833
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 977,
+                                    "h": 833
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/WfNGOGcEjo",
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1817978215606206838",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 1069,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 3438,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818085240595693728",
+            "creation_date": "Tue Jul 30 00:44:34 +0000 2024",
+            "text": "They should mix up the propaganda more. This is way too obvious. \n\nJust like when they were parroting before the debate that Biden was \u201csharp as a tack\u201d \ud83e\udd23",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 306186,
+            "retweet_count": 63090,
+            "reply_count": 22567,
+            "quote_count": 3866,
+            "retweet": false,
+            "views": 25205850,
+            "timestamp": 1722300274,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818083579445866884",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818085240595693728",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818083579445866884",
+                "creation_date": "Tue Jul 30 00:37:58 +0000 2024",
+                "text": "Supercut of NPC\u2019s being programmed to say \u201cweird.\u201d https://t.co/ehOg48ZiJZ",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/vid/avc1/480x270/hOS6dMyaub69qf-S.mp4?tag=12",
+                        "bitrate": 256000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/vid/avc1/640x360/ied3nn1UVSE_Enhg.mp4?tag=12",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/vid/avc1/1280x720/rCYJTkSbebCwHUIb.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Thu Dec 25 21:38:44 +0000 2008",
+                    "user_id": "18379614",
+                    "username": "RubinReport",
+                    "name": "Dave Rubin",
+                    "follower_count": 1525004,
+                    "following_count": 928,
+                    "favourites_count": 43416,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "\ud83d\udc0a\ud83d\ude0e\ud83c\uddfa\ud83c\uddf8",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1767485864576212993/WvJWo89s_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18379614/1685469233",
+                    "description": "Florida Man",
+                    "external_url": "https://t.co/qtqYLXwZin",
+                    "number_of_tweets": 102155,
+                    "bot": false,
+                    "timestamp": 1230241124,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 53788,
+                "retweet_count": 14567,
+                "reply_count": 4549,
+                "quote_count": 4197,
+                "retweet": false,
+                "views": 27413433,
+                "timestamp": 1722299878,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false,
+                                "graphql_source_user": {
+                                    "user_results": {
+                                        "result": {
+                                            "__typename": "User",
+                                            "rest_id": "49698174",
+                                            "is_blue_verified": true,
+                                            "profile_image_shape": "Circle",
+                                            "affiliates_highlighted_label": {},
+                                            "legacy": {
+                                                "can_dm": true,
+                                                "can_media_tag": true,
+                                                "advertiser_account_service_levels": [],
+                                                "advertiser_account_type": "promotable_user",
+                                                "analytics_type": "enabled",
+                                                "created_at": "Mon Jun 22 17:30:02 +0000 2009",
+                                                "description": "Biased. Journalist. Telegram: https://t.co/lpowB2yrIb Founder: Grabien, The Pub, NewsLists & BioSpa",
+                                                "entities": {
+                                                    "url": {
+                                                        "urls": [
+                                                            {
+                                                                "display_url": "linktr.ee/tomselliott",
+                                                                "expanded_url": "https://linktr.ee/tomselliott",
+                                                                "indices": [
+                                                                    0,
+                                                                    23
+                                                                ],
+                                                                "url": "https://t.co/zP8FgclRaQ"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "description": {
+                                                        "hashtags": [],
+                                                        "symbols": [],
+                                                        "urls": [
+                                                            {
+                                                                "display_url": "t.me/tomselliott",
+                                                                "expanded_url": "http://t.me/tomselliott",
+                                                                "indices": [
+                                                                    30,
+                                                                    53
+                                                                ],
+                                                                "url": "https://t.co/lpowB2yrIb"
+                                                            }
+                                                        ],
+                                                        "user_mentions": []
+                                                    }
+                                                },
+                                                "fast_followers_count": 0,
+                                                "favourites_count": 36048,
+                                                "followers_count": 180418,
+                                                "friends_count": 554,
+                                                "geo_enabled": true,
+                                                "has_custom_timelines": true,
+                                                "has_extended_profile": true,
+                                                "id_str": "49698174",
+                                                "is_translator": false,
+                                                "location": "Madrid, Spain",
+                                                "media_count": 11060,
+                                                "name": "Tom Elliott",
+                                                "normal_followers_count": 180418,
+                                                "pinned_tweet_ids_str": [
+                                                    "1779514129868267995"
+                                                ],
+                                                "profile_background_color": "000000",
+                                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/49698174/1479775446",
+                                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+                                                "profile_interstitial_type": "",
+                                                "profile_link_color": "3B94D9",
+                                                "protected": false,
+                                                "screen_name": "tomselliott",
+                                                "statuses_count": 63962,
+                                                "translator_type_enum": "None",
+                                                "url": "https://t.co/zP8FgclRaQ",
+                                                "verified": false,
+                                                "withheld_in_countries": []
+                                            },
+                                            "super_follow_eligible": true,
+                                            "super_followed_by": false,
+                                            "super_following": false,
+                                            "private_super_following": false,
+                                            "exclusive_tweet_following": false
+                                        }
+                                    }
+                                }
+                            },
+                            "display_url": "pic.twitter.com/ehOg48ZiJZ",
+                            "expanded_url": "https://twitter.com/tomselliott/status/1818064256497238195/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818062042718224384",
+                            "indices": [
+                                51,
+                                74
+                            ],
+                            "media_key": "7_1818062042718224384",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818062042718224384/pu/img/vehxP0U7tvOw127j.jpg",
+                            "original_info": {
+                                "width": 1920,
+                                "height": 1080,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080
+                                }
+                            },
+                            "source_status_id_str": "1818064256497238195",
+                            "source_user_id_str": "49698174",
+                            "type": "video",
+                            "url": "https://t.co/ehOg48ZiJZ",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 121888,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/pl/zcWWs3w7enWJ0asj.m3u8?tag=12&v=fdf",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/vid/avc1/480x270/hOS6dMyaub69qf-S.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/vid/avc1/640x360/ied3nn1UVSE_Enhg.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062042718224384/pu/vid/avc1/1280x720/rCYJTkSbebCwHUIb.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818083579445866884",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 11670,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 17020,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818083969721659861",
+            "creation_date": "Tue Jul 30 00:39:31 +0000 2024",
+            "text": "https://t.co/wg1cbLVvho",
+            "media_url": null,
+            "video_url": [
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/vid/320x320/jwmx_W0bQTTNe8BD.mp4?tag=12",
+                    "bitrate": 432000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/vid/540x540/pzb6M3kvfrGbL92q.mp4?tag=12",
+                    "bitrate": 832000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/vid/720x720/ToLcDYKc_nBjB_FI.mp4?tag=12",
+                    "bitrate": 1280000,
+                    "content_type": "video/mp4"
+                }
+            ],
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "zxx",
+            "favorite_count": 442577,
+            "retweet_count": 34710,
+            "reply_count": 12151,
+            "quote_count": 2194,
+            "retweet": false,
+            "views": 47748479,
+            "timestamp": 1722299971,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "graphql_source_user": {
+                                "user_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "rest_id": "1258538731054739456",
+                                        "is_blue_verified": false,
+                                        "profile_image_shape": "Circle",
+                                        "affiliates_highlighted_label": {},
+                                        "legacy": {
+                                            "can_dm": true,
+                                            "can_media_tag": true,
+                                            "advertiser_account_service_levels": [
+                                                "analytics"
+                                            ],
+                                            "advertiser_account_type": "promotable_user",
+                                            "analytics_type": "disabled",
+                                            "created_at": "Thu May 07 23:26:52 +0000 2020",
+                                            "description": "",
+                                            "entities": {
+                                                "description": {
+                                                    "hashtags": [],
+                                                    "symbols": [],
+                                                    "urls": [],
+                                                    "user_mentions": []
+                                                }
+                                            },
+                                            "fast_followers_count": 0,
+                                            "favourites_count": 10423,
+                                            "followers_count": 84518,
+                                            "friends_count": 69,
+                                            "geo_enabled": true,
+                                            "has_custom_timelines": false,
+                                            "has_extended_profile": true,
+                                            "id_str": "1258538731054739456",
+                                            "is_translator": false,
+                                            "location": "",
+                                            "media_count": 1082,
+                                            "name": "Erc X",
+                                            "normal_followers_count": 84518,
+                                            "pinned_tweet_ids_str": [
+                                                "1696260581358010854"
+                                            ],
+                                            "profile_background_color": "F5F8FA",
+                                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258538731054739456/1664586053",
+                                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1301647033099526147/FVUNWrlC_normal.jpg",
+                                            "profile_interstitial_type": "",
+                                            "profile_link_color": "1DA1F2",
+                                            "protected": false,
+                                            "screen_name": "ErcXspace",
+                                            "statuses_count": 5298,
+                                            "translator_type_enum": "None",
+                                            "verified": false,
+                                            "withheld_in_countries": []
+                                        },
+                                        "super_follow_eligible": false,
+                                        "super_followed_by": false,
+                                        "super_following": false,
+                                        "private_super_following": false,
+                                        "exclusive_tweet_following": false
+                                    }
+                                }
+                            }
+                        },
+                        "display_url": "pic.twitter.com/wg1cbLVvho",
+                        "expanded_url": "https://twitter.com/ErcXspace/status/1426188761461841932/video/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "id_str": "1426188676569210880",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "media_key": "7_1426188676569210880",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426188676569210880/pu/img/Hoy7-ldlvELQbvM5.jpg",
+                        "original_info": {
+                            "width": 1280,
+                            "height": 1280,
+                            "focus_rects": []
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1280,
+                                "h": 1280
+                            }
+                        },
+                        "source_status_id_str": "1426188761461841932",
+                        "source_user_id_str": "1258538731054739456",
+                        "type": "video",
+                        "url": "https://t.co/wg1cbLVvho",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 55833,
+                            "variants": [
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/pl/HtcMul65vqZthWEU.m3u8?tag=12",
+                                    "content_type": "application/x-mpegURL"
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/vid/320x320/jwmx_W0bQTTNe8BD.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 432000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/vid/540x540/pzb6M3kvfrGbL92q.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 832000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1426188676569210880/pu/vid/720x720/ToLcDYKc_nBjB_FI.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 1280000
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1818083969721659861",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 9962,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1818083055384322327",
+            "creation_date": "Tue Jul 30 00:35:53 +0000 2024",
+            "text": "The people of Venezuela want change!",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 192149905,
+                "following_count": 680,
+                "favourites_count": 64335,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1690621312",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 48449,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 329561,
+            "retweet_count": 65345,
+            "reply_count": 7898,
+            "quote_count": 1349,
+            "retweet": false,
+            "views": 24574684,
+            "timestamp": 1722299753,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1818062415889604758",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1818083055384322327",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1818062415889604758",
+                "creation_date": "Mon Jul 29 23:13:52 +0000 2024",
+                "text": "\ud83c\uddfb\ud83c\uddeaMAR\u00cdA CORINA MACHADO: WE HAVE 73% OF THE VOTES CAST\n\n\"We have all the minutes published, printed, and verified.\n\nThey will have to ratify the truth.\n\nThe truth is what we all saw yesterday in the streets of Venezuela.\n\nAll minutes are verified, inspected, tallied, scanned, https://t.co/kE1JqDhVGI",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/vid/avc1/480x270/Y25fP9Gxd0URRddo.mp4?tag=12",
+                        "bitrate": 256000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/vid/avc1/640x360/ml3b6Xi4rtzBXBuA.mp4?tag=12",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/vid/avc1/1280x720/NDcTTBOyoDZ3FlOn.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Thu Oct 22 14:42:25 +0000 2020",
+                    "user_id": "1319287761048723458",
+                    "username": "MarioNawfal",
+                    "name": "Mario Nawfal",
+                    "follower_count": 1572690,
+                    "following_count": 27368,
+                    "favourites_count": 131791,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319287761048723458/1687204248",
+                    "description": "Unfiltered Unbiased Verified 24x7 Breaking News | NO BIAS, NO ECHO CHAMBERS: Host of the Largest Show on \ud835\udd4f | Founder & Investor",
+                    "external_url": "https://t.co/Lru9VAixI8",
+                    "number_of_tweets": 53162,
+                    "bot": false,
+                    "timestamp": 1603377745,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 12827,
+                "retweet_count": 3384,
+                "reply_count": 366,
+                "quote_count": 173,
+                "retweet": false,
+                "views": 22951722,
+                "timestamp": 1722294832,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": "1818061794033783212",
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.twitter.com/kE1JqDhVGI",
+                            "expanded_url": "https://twitter.com/MarioNawfal/status/1818062415889604758/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1818062104127045632",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_key": "7_1818062104127045632",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1818062104127045632/pu/img/neENN-rh_7-faqAc.jpg",
+                            "original_info": {
+                                "width": 1920,
+                                "height": 1080,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/kE1JqDhVGI",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 61290,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/pl/9MyHKgWa_2tmdCee.m3u8?tag=12&v=65d",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/vid/avc1/480x270/Y25fP9Gxd0URRddo.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/vid/avc1/640x360/ml3b6Xi4rtzBXBuA.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1818062104127045632/pu/vid/avc1/1280x720/NDcTTBOyoDZ3FlOn.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1818062415889604758",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 478,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 2983,
+            "source": null,
+            "community_note": null
+        }
+    ],
+    "continuation_token": "DAABCgABGTwkzwQ__-oKAAIZOyDoAFbhFwgAAwAAAAIAAA"
+}

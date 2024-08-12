@@ -1,0 +1,3440 @@
+{
+    "results": [
+        {
+            "tweet_id": "1822802959404835108",
+            "creation_date": "Mon Aug 12 01:11:06 +0000 2024",
+            "text": "Streaming Test https://t.co/zZ6GXctYFu",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 16078,
+            "retweet_count": 1998,
+            "reply_count": 3021,
+            "quote_count": 251,
+            "retweet": false,
+            "views": 638168,
+            "timestamp": 1723425066,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": [
+                {
+                    "key": "broadcast_url",
+                    "value": {
+                        "string_value": "https://twitter.com/i/broadcasts/1OwGWNZDVZRKQ"
+                    }
+                },
+                {
+                    "key": "broadcast_width",
+                    "value": {
+                        "string_value": "1280"
+                    }
+                },
+                {
+                    "key": "broadcast_state",
+                    "value": {
+                        "string_value": "RUNNING"
+                    }
+                },
+                {
+                    "key": "site",
+                    "value": {
+                        "scribe_key": "publisher_id",
+                        "user_value": {
+                            "id_str": "44196397"
+                        }
+                    }
+                },
+                {
+                    "key": "broadcast_title",
+                    "value": {
+                        "string_value": "Streaming Test"
+                    }
+                },
+                {
+                    "key": "broadcast_source",
+                    "value": {
+                        "string_value": "Producer"
+                    }
+                },
+                {
+                    "key": "broadcast_orientation",
+                    "value": {
+                        "string_value": "0"
+                    }
+                },
+                {
+                    "key": "broadcast_id",
+                    "value": {
+                        "string_value": "1OwGWNZDVZRKQ"
+                    }
+                },
+                {
+                    "key": "broadcast_thumbnail_small",
+                    "value": {
+                        "image_value": {
+                            "height": 202,
+                            "width": 386,
+                            "url": "https://pbs.twimg.com/card_img/1822806495072747520/rVpJaOg3?format=jpg&name=386x202"
+                        }
+                    }
+                },
+                {
+                    "key": "broadcaster_twitter_id",
+                    "value": {
+                        "string_value": "44196397"
+                    }
+                },
+                {
+                    "key": "broadcast_height",
+                    "value": {
+                        "string_value": "720"
+                    }
+                },
+                {
+                    "key": "broadcast_thumbnail_original",
+                    "value": {
+                        "image_value": {
+                            "height": 720,
+                            "width": 1280,
+                            "url": "https://pbs.twimg.com/card_img/1822806495072747520/rVpJaOg3?format=jpg&name=orig"
+                        }
+                    }
+                },
+                {
+                    "key": "broadcaster_username",
+                    "value": {
+                        "string_value": "elonmusk"
+                    }
+                },
+                {
+                    "key": "broadcast_media_key",
+                    "value": {
+                        "string_value": "28_1822802955906809857"
+                    }
+                },
+                {
+                    "key": "broadcast_thumbnail_x_large",
+                    "value": {
+                        "image_value": {
+                            "height": 720,
+                            "width": 1280,
+                            "url": "https://pbs.twimg.com/card_img/1822806495072747520/rVpJaOg3?format=png&name=2048x2048_2_exp"
+                        }
+                    }
+                },
+                {
+                    "key": "broadcaster_display_name",
+                    "value": {
+                        "string_value": "Elon Musk"
+                    }
+                },
+                {
+                    "key": "broadcast_is_high_latency",
+                    "value": {
+                        "boolean_value": true
+                    }
+                },
+                {
+                    "key": "broadcast_thumbnail",
+                    "value": {
+                        "image_value": {
+                            "height": 314,
+                            "width": 600,
+                            "url": "https://pbs.twimg.com/card_img/1822806495072747520/rVpJaOg3?format=jpg&name=600x314"
+                        }
+                    }
+                },
+                {
+                    "key": "broadcast_thumbnail_color",
+                    "value": {}
+                },
+                {
+                    "key": "broadcast_media_id",
+                    "value": {
+                        "string_value": "1822802955906809857"
+                    }
+                },
+                {
+                    "key": "card_url",
+                    "value": {
+                        "scribe_key": "card_url",
+                        "string_value": "https://t.co/zZ6GXctYFu"
+                    }
+                },
+                {
+                    "key": "broadcast_thumbnail_large",
+                    "value": {
+                        "image_value": {
+                            "height": 419,
+                            "width": 800,
+                            "url": "https://pbs.twimg.com/card_img/1822806495072747520/rVpJaOg3?format=jpg&name=800x419"
+                        }
+                    }
+                }
+            ],
+            "expanded_url": "https://x.com/i/broadcasts/1OwGWNZDVZRKQ",
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822802959404835108",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 367,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822800951855477133",
+            "creation_date": "Mon Aug 12 01:03:07 +0000 2024",
+            "text": "Am going to do some system scaling tests tonight &amp; tomorrow in advance of the conversation with @realDonaldTrump",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 33035,
+            "retweet_count": 3090,
+            "reply_count": 2936,
+            "quote_count": 266,
+            "retweet": false,
+            "views": 1278380,
+            "timestamp": 1723424587,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822800951855477133",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 365,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822800186520838531",
+            "creation_date": "Mon Aug 12 01:00:05 +0000 2024",
+            "text": "This is unscripted with no limits on subject matter, so should be highly entertaining!\n\nIf you have specific questions &amp; comments, post them under the chat.",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 7214,
+            "retweet_count": 930,
+            "reply_count": 1551,
+            "quote_count": 59,
+            "retweet": false,
+            "views": 351888,
+            "timestamp": 1723424405,
+            "video_view_count": null,
+            "in_reply_to_status_id": "1822799027580137510",
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822799027580137510",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 124,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822799027580137510",
+            "creation_date": "Mon Aug 12 00:55:28 +0000 2024",
+            "text": "Live conversation on \ud835\udd4f with @realDonaldTrump &amp; me at 8pm ET tomorrow",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 45834,
+            "retweet_count": 8322,
+            "reply_count": 4182,
+            "quote_count": 812,
+            "retweet": false,
+            "views": 2377083,
+            "timestamp": 1723424128,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822799027580137510",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 1590,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822768922996691026",
+            "creation_date": "Sun Aug 11 22:55:51 +0000 2024",
+            "text": "Is there any study contradicting this one?",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 30695,
+            "retweet_count": 5452,
+            "reply_count": 2821,
+            "quote_count": 236,
+            "retweet": false,
+            "views": 7532418,
+            "timestamp": 1723416951,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1822767717188870405",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822768922996691026",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1822767717188870405",
+                "creation_date": "Sun Aug 11 22:51:03 +0000 2024",
+                "text": "Narrative: Whites are the most racist and intolerant group on earth \n\nReality: The exact opposite\ud83d\udc47 https://t.co/y1lxo2FXWw",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GUvFk7KWcAAk6wi.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Thu Jul 28 23:20:28 +0000 2022",
+                    "user_id": "1552795969959636992",
+                    "username": "EndWokeness",
+                    "name": "End Wokeness",
+                    "follower_count": 2866521,
+                    "following_count": 1130,
+                    "favourites_count": 11573,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1563691268793946117/OedvhFeS_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552795969959636992/1720913469",
+                    "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+                    "external_url": null,
+                    "number_of_tweets": 14145,
+                    "bot": false,
+                    "timestamp": 1659050428,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 9237,
+                "retweet_count": 1946,
+                "reply_count": 594,
+                "quote_count": 179,
+                "retweet": false,
+                "views": 7664608,
+                "timestamp": 1723416663,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/y1lxo2fxww",
+                            "expanded_url": "https://twitter.com/EndWokeness/status/1822767717188870405/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822767712348565504",
+                            "indices": [
+                                99,
+                                122
+                            ],
+                            "media_key": "3_1822767712348565504",
+                            "media_url_https": "https://pbs.twimg.com/media/GUvFk7KWcAAk6wi.jpg",
+                            "original_info": {
+                                "width": 1141,
+                                "height": 704,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1141,
+                                        "h": 639
+                                    },
+                                    {
+                                        "x": 437,
+                                        "y": 0,
+                                        "w": 704,
+                                        "h": 704
+                                    },
+                                    {
+                                        "x": 523,
+                                        "y": 0,
+                                        "w": 618,
+                                        "h": 704
+                                    },
+                                    {
+                                        "x": 708,
+                                        "y": 0,
+                                        "w": 352,
+                                        "h": 704
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1141,
+                                        "h": 704
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1141,
+                                    "h": 704
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/y1lxo2FXWw"
+                        }
+                    ]
+                },
+                "conversation_id": "1822767717188870405",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 1612,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 2932,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822764729992929481",
+            "creation_date": "Sun Aug 11 22:39:11 +0000 2024",
+            "text": "How time flies",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 108646,
+            "retweet_count": 6515,
+            "reply_count": 2717,
+            "quote_count": 208,
+            "retweet": false,
+            "views": 9915636,
+            "timestamp": 1723415951,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1822676067762745396",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822764729992929481",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1822676067762745396",
+                "creation_date": "Sun Aug 11 16:46:52 +0000 2024",
+                "text": "How it started                                     How it's going https://t.co/NiWvzL9hER",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GUtx1M2bwAAd8Pc.jpg",
+                    "https://pbs.twimg.com/media/GUtx2tgakAAj67I.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Tue Jun 13 23:51:24 +0000 2017",
+                    "user_id": "874776246592430080",
+                    "username": "ajtourville",
+                    "name": "ALEX",
+                    "follower_count": 74036,
+                    "following_count": 510,
+                    "favourites_count": 151988,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "\ud835\udd4f \ud83c\udde8\ud83c\udde6 \ud83c\udde7\ud83c\uddf7 \ud83c\udded\ud83c\uddf7 ",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1515410865499119620/s1ws6CFZ_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/874776246592430080/1721881069",
+                    "description": "Physics engineer here for the progress of disruptive innovations and ventures\nElon Musk picked my \ud835\udd4f logo design for \ud835\udd4f\nAll-in $TSLA since 08/2019",
+                    "external_url": null,
+                    "number_of_tweets": 44979,
+                    "bot": false,
+                    "timestamp": 1497397884,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 8823,
+                "retweet_count": 617,
+                "reply_count": 196,
+                "quote_count": 74,
+                "retweet": false,
+                "views": 10018150,
+                "timestamp": 1723394812,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/niwvzl9her",
+                            "expanded_url": "https://twitter.com/ajtourville/status/1822676067762745396/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822675632998039552",
+                            "indices": [
+                                66,
+                                89
+                            ],
+                            "media_key": "3_1822675632998039552",
+                            "media_url_https": "https://pbs.twimg.com/media/GUtx1M2bwAAd8Pc.jpg",
+                            "original_info": {
+                                "width": 660,
+                                "height": 820,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 408,
+                                        "w": 660,
+                                        "h": 370
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 160,
+                                        "w": 660,
+                                        "h": 660
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 68,
+                                        "w": 660,
+                                        "h": 752
+                                    },
+                                    {
+                                        "x": 20,
+                                        "y": 0,
+                                        "w": 410,
+                                        "h": 820
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 660,
+                                        "h": 820
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 660,
+                                    "h": 820
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/NiWvzL9hER",
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/niwvzl9her",
+                            "expanded_url": "https://twitter.com/ajtourville/status/1822676067762745396/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822675658943926272",
+                            "indices": [
+                                66,
+                                89
+                            ],
+                            "media_key": "3_1822675658943926272",
+                            "media_url_https": "https://pbs.twimg.com/media/GUtx2tgakAAj67I.jpg",
+                            "original_info": {
+                                "width": 833,
+                                "height": 1250,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 735,
+                                        "w": 833,
+                                        "h": 466
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 417,
+                                        "w": 833,
+                                        "h": 833
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 300,
+                                        "w": 833,
+                                        "h": 950
+                                    },
+                                    {
+                                        "x": 31,
+                                        "y": 0,
+                                        "w": 625,
+                                        "h": 1250
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 833,
+                                        "h": 1250
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 833,
+                                    "h": 1250
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/NiWvzL9hER",
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1822676067762745396",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 270,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 1740,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822764457640055012",
+            "creation_date": "Sun Aug 11 22:38:06 +0000 2024",
+            "text": "Grok 2 beta release soon https://t.co/t6e9RcXPkl",
+            "media_url": [
+                "https://pbs.twimg.com/media/GUvCnMKWIAErtMW.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 62851,
+            "retweet_count": 4863,
+            "reply_count": 4071,
+            "quote_count": 554,
+            "retweet": false,
+            "views": 6966607,
+            "timestamp": 1723415886,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/t6e9rcxpkl",
+                        "expanded_url": "https://twitter.com/elonmusk/status/1822764457640055012/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822764452736802817",
+                        "indices": [
+                            25,
+                            48
+                        ],
+                        "media_key": "3_1822764452736802817",
+                        "media_url_https": "https://pbs.twimg.com/media/GUvCnMKWIAErtMW.jpg",
+                        "original_info": {
+                            "width": 1024,
+                            "height": 1024,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 46,
+                                    "w": 1024,
+                                    "h": 573
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1024,
+                                    "h": 1024
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 898,
+                                    "h": 1024
+                                },
+                                {
+                                    "x": 128,
+                                    "y": 0,
+                                    "w": 512,
+                                    "h": 1024
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1024,
+                                    "h": 1024
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 1024
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/t6e9RcXPkl",
+                        "allow_download_status": {
+                            "allow_download": true
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1822764457640055012",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 982,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822754139929301330",
+            "creation_date": "Sun Aug 11 21:57:06 +0000 2024",
+            "text": "Of course they always say it\u2019s for your own safety \u2026",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 14427,
+            "retweet_count": 1620,
+            "reply_count": 1066,
+            "quote_count": 69,
+            "retweet": false,
+            "views": 955862,
+            "timestamp": 1723413426,
+            "video_view_count": null,
+            "in_reply_to_status_id": "1822753780695535797",
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822753713762738559",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 173,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822753780695535797",
+            "creation_date": "Sun Aug 11 21:55:41 +0000 2024",
+            "text": "https://t.co/MqwSUEhDKG",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "zxx",
+            "favorite_count": 5812,
+            "retweet_count": 714,
+            "reply_count": 228,
+            "quote_count": 26,
+            "retweet": false,
+            "views": 972302,
+            "timestamp": 1723413341,
+            "video_view_count": null,
+            "in_reply_to_status_id": "1822753713762738559",
+            "quoted_status_id": null,
+            "binding_values": [
+                {
+                    "key": "description",
+                    "value": {
+                        "string_value": "Venezuela brings in a new law banning the commercial sale of guns and ammunition, in an attempt to control worsening crime rates."
+                    }
+                },
+                {
+                    "key": "domain",
+                    "value": {
+                        "string_value": "www.bbc.com"
+                    }
+                },
+                {
+                    "key": "site",
+                    "value": {
+                        "scribe_key": "publisher_id",
+                        "user_value": {
+                            "id_str": "742143"
+                        }
+                    }
+                },
+                {
+                    "key": "creator",
+                    "value": {
+                        "user_value": {
+                            "id_str": "742143"
+                        }
+                    }
+                },
+                {
+                    "key": "photo_image_full_size_alt_text",
+                    "value": {
+                        "string_value": "A worker destroys a weapon confiscated by the police during a news conference in Caracas May 18 2012."
+                    }
+                },
+                {
+                    "key": "vanity_url",
+                    "value": {
+                        "scribe_key": "vanity_url",
+                        "string_value": "bbc.com"
+                    }
+                },
+                {
+                    "key": "summary_photo_image_alt_text",
+                    "value": {
+                        "string_value": "A worker destroys a weapon confiscated by the police during a news conference in Caracas May 18 2012."
+                    }
+                },
+                {
+                    "key": "title",
+                    "value": {
+                        "string_value": "Venezuela bans private gun ownership"
+                    }
+                },
+                {
+                    "key": "card_url",
+                    "value": {
+                        "scribe_key": "card_url",
+                        "string_value": "https://t.co/MqwSUEhDKG"
+                    }
+                }
+            ],
+            "expanded_url": "https://www.bbc.com/news/world-latin-america-18288430",
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822753713762738559",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 99,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822753713762738559",
+            "creation_date": "Sun Aug 11 21:55:25 +0000 2024",
+            "text": "First thing a dictator does is ban private ownership of guns. Chavez did this in 2012, so the people couldn\u2019t fight back. https://t.co/7BRlpBAe13",
+            "media_url": [
+                "https://pbs.twimg.com/media/GUu41quasAAsqOi.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 52267,
+            "retweet_count": 13691,
+            "reply_count": 3439,
+            "quote_count": 795,
+            "retweet": false,
+            "views": 3301337,
+            "timestamp": 1723413325,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/7brlpbae13",
+                        "expanded_url": "https://twitter.com/elonmusk/status/1822753713762738559/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822753706343051264",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_key": "3_1822753706343051264",
+                        "media_url_https": "https://pbs.twimg.com/media/GUu41quasAAsqOi.jpg",
+                        "original_info": {
+                            "width": 1179,
+                            "height": 1212,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 552,
+                                    "w": 1179,
+                                    "h": 660
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 33,
+                                    "w": 1179,
+                                    "h": 1179
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1063,
+                                    "h": 1212
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 606,
+                                    "h": 1212
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1179,
+                                    "h": 1212
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1179,
+                                "h": 1212
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/7BRlpBAe13",
+                        "allow_download_status": {
+                            "allow_download": true
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1822753713762738559",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 1291,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822747138276897186",
+            "creation_date": "Sun Aug 11 21:29:17 +0000 2024",
+            "text": "Maybe true, maybe not, but the Google political bias is certainly troubling",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 51242,
+            "retweet_count": 11373,
+            "reply_count": 3516,
+            "quote_count": 351,
+            "retweet": false,
+            "views": 6777207,
+            "timestamp": 1723411757,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1822706204298338615",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822747138276897186",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1822706204298338615",
+                "creation_date": "Sun Aug 11 18:46:38 +0000 2024",
+                "text": "\ud83d\udea8 Did you know that Google's political bias flipped the 2020 presidential election, the 2022 governor races in Arizona and Georgia, and the Senate majority from Republican to Democrat?\n\n@DrREpstein captures, archives, and analyzes Google search results 24/7 through the computers https://t.co/FGA67Xho6W",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GUuMlscaQAAsK5j.png",
+                    "https://pbs.twimg.com/media/GUuMo--bgAAq4C5.jpg"
+                ],
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/vid/avc1/480x270/IX0A3zwZVFBWi19H.mp4?tag=12",
+                        "bitrate": 256000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/vid/avc1/640x360/jqZn9flXnmMzee80.mp4?tag=12",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/vid/avc1/1280x720/M7OLZNrdrxsYJD88.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Tue Jan 15 17:21:44 +0000 2019",
+                    "user_id": "1085225533623783424",
+                    "username": "KanekoaTheGreat",
+                    "name": "KanekoaTheGreat",
+                    "follower_count": 844597,
+                    "following_count": 1835,
+                    "favourites_count": 36389,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Paradise",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1612188077333835776/qxjhM55m_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085225533623783424/1722618224",
+                    "description": "Grow & Monetize Your \ud835\udd4f. \ud83d\udc47",
+                    "external_url": "https://t.co/h7wKXJpuMV",
+                    "number_of_tweets": 17695,
+                    "bot": false,
+                    "timestamp": 1547572904,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 6970,
+                "retweet_count": 2701,
+                "reply_count": 362,
+                "quote_count": 180,
+                "retweet": false,
+                "views": 6987801,
+                "timestamp": 1723401998,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.x.com/fga67xho6w",
+                            "expanded_url": "https://twitter.com/KanekoaTheGreat/status/1822706204298338615/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1822696923696103424",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_key": "7_1822696923696103424",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1822696923696103424/pu/img/P0uhKWRIOLc1ZJkv.jpg",
+                            "original_info": {
+                                "width": 1920,
+                                "height": 1080,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1920,
+                                    "h": 1080
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/FGA67Xho6W",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 318433,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/pl/ucW9_NcK3_6QPijx.m3u8?tag=12",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/vid/avc1/480x270/IX0A3zwZVFBWi19H.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/vid/avc1/640x360/jqZn9flXnmMzee80.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822696923696103424/pu/vid/avc1/1280x720/M7OLZNrdrxsYJD88.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "display_url": "pic.x.com/fga67xho6w",
+                            "expanded_url": "https://twitter.com/KanekoaTheGreat/status/1822706204298338615/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822705053414866944",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_key": "3_1822705053414866944",
+                            "media_url_https": "https://pbs.twimg.com/media/GUuMlscaQAAsK5j.png",
+                            "original_info": {
+                                "width": 1296,
+                                "height": 909,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1296,
+                                        "h": 726
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 909,
+                                        "h": 909
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 797,
+                                        "h": 909
+                                    },
+                                    {
+                                        "x": 64,
+                                        "y": 0,
+                                        "w": 455,
+                                        "h": 909
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1296,
+                                        "h": 909
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1296,
+                                    "h": 909
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/FGA67Xho6W"
+                        },
+                        {
+                            "display_url": "pic.x.com/fga67xho6w",
+                            "expanded_url": "https://twitter.com/KanekoaTheGreat/status/1822706204298338615/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822705109929000960",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_key": "3_1822705109929000960",
+                            "media_url_https": "https://pbs.twimg.com/media/GUuMo--bgAAq4C5.jpg",
+                            "original_info": {
+                                "width": 948,
+                                "height": 1088,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 948,
+                                        "h": 531
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 948,
+                                        "h": 948
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 948,
+                                        "h": 1081
+                                    },
+                                    {
+                                        "x": 81,
+                                        "y": 0,
+                                        "w": 544,
+                                        "h": 1088
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 948,
+                                        "h": 1088
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 948,
+                                    "h": 1088
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/FGA67Xho6W"
+                        }
+                    ]
+                },
+                "conversation_id": "1822706204298338615",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 1152,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 1582,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822639375488057507",
+            "creation_date": "Sun Aug 11 14:21:04 +0000 2024",
+            "text": "RT @SpaceX: Falcon 9 delivers 21 @Starlink satellites to low-Earth orbit from pad 40 in Florida https://t.co/E5SANHcZZh",
+            "media_url": [
+                "https://pbs.twimg.com/media/GUoHXVEaQAACn99.jpg",
+                "https://pbs.twimg.com/media/GUoHZM-bIAAqG37.jpg",
+                "https://pbs.twimg.com/media/GUoHa-5aoAAPu0x.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 1926,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 175,
+            "timestamp": 1723386064,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1822277331249160315",
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/e5sanhczzh",
+                        "expanded_url": "https://twitter.com/SpaceX/status/1822277331249160315/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822277096598814720",
+                        "indices": [
+                            96,
+                            119
+                        ],
+                        "media_key": "3_1822277096598814720",
+                        "media_url_https": "https://pbs.twimg.com/media/GUoHXVEaQAACn99.jpg",
+                        "original_info": {
+                            "width": 3000,
+                            "height": 2000,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 320,
+                                    "w": 3000,
+                                    "h": 1680
+                                },
+                                {
+                                    "x": 1000,
+                                    "y": 0,
+                                    "w": 2000,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 1246,
+                                    "y": 0,
+                                    "w": 1754,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 1825,
+                                    "y": 0,
+                                    "w": 1000,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 3000,
+                                    "h": 2000
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1365
+                            }
+                        },
+                        "source_status_id_str": "1822277331249160315",
+                        "source_user_id_str": "34743251",
+                        "type": "photo",
+                        "url": "https://t.co/E5SANHcZZh"
+                    },
+                    {
+                        "display_url": "pic.x.com/e5sanhczzh",
+                        "expanded_url": "https://twitter.com/SpaceX/status/1822277331249160315/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822277128785960960",
+                        "indices": [
+                            96,
+                            119
+                        ],
+                        "media_key": "3_1822277128785960960",
+                        "media_url_https": "https://pbs.twimg.com/media/GUoHZM-bIAAqG37.jpg",
+                        "original_info": {
+                            "width": 3000,
+                            "height": 2000,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 320,
+                                    "w": 3000,
+                                    "h": 1680
+                                },
+                                {
+                                    "x": 125,
+                                    "y": 0,
+                                    "w": 2000,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 248,
+                                    "y": 0,
+                                    "w": 1754,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 625,
+                                    "y": 0,
+                                    "w": 1000,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 3000,
+                                    "h": 2000
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 2048,
+                                "h": 1365
+                            }
+                        },
+                        "source_status_id_str": "1822277331249160315",
+                        "source_user_id_str": "34743251",
+                        "type": "photo",
+                        "url": "https://t.co/E5SANHcZZh"
+                    },
+                    {
+                        "display_url": "pic.x.com/e5sanhczzh",
+                        "expanded_url": "https://twitter.com/SpaceX/status/1822277331249160315/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822277159366598656",
+                        "indices": [
+                            96,
+                            119
+                        ],
+                        "media_key": "3_1822277159366598656",
+                        "media_url_https": "https://pbs.twimg.com/media/GUoHa-5aoAAPu0x.jpg",
+                        "original_info": {
+                            "width": 2000,
+                            "height": 3000,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 1880,
+                                    "w": 2000,
+                                    "h": 1120
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 1000,
+                                    "w": 2000,
+                                    "h": 2000
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 720,
+                                    "w": 2000,
+                                    "h": 2280
+                                },
+                                {
+                                    "x": 500,
+                                    "y": 0,
+                                    "w": 1500,
+                                    "h": 3000
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2000,
+                                    "h": 3000
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1365,
+                                "h": 2048
+                            }
+                        },
+                        "source_status_id_str": "1822277331249160315",
+                        "source_user_id_str": "34743251",
+                        "type": "photo",
+                        "url": "https://t.co/E5SANHcZZh"
+                    }
+                ]
+            },
+            "conversation_id": "1822639375488057507",
+            "retweet_status": {
+                "tweet_id": "1822277331249160315",
+                "creation_date": "Sat Aug 10 14:22:26 +0000 2024",
+                "text": "Falcon 9 delivers 21 @Starlink satellites to low-Earth orbit from pad 40 in Florida https://t.co/E5SANHcZZh",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GUoHXVEaQAACn99.jpg",
+                    "https://pbs.twimg.com/media/GUoHZM-bIAAqG37.jpg",
+                    "https://pbs.twimg.com/media/GUoHa-5aoAAPu0x.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Thu Apr 23 21:53:30 +0000 2009",
+                    "user_id": "34743251",
+                    "username": "SpaceX",
+                    "name": "SpaceX",
+                    "follower_count": 35200024,
+                    "following_count": 118,
+                    "favourites_count": 490,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Earth",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/34743251/1681251194",
+                    "description": "SpaceX designs, manufactures and launches the world\u2019s most advanced rockets and spacecraft",
+                    "external_url": "https://t.co/VOJ6qEctND",
+                    "number_of_tweets": 8857,
+                    "bot": false,
+                    "timestamp": 1240523610,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": "Business"
+                },
+                "language": "en",
+                "favorite_count": 16999,
+                "retweet_count": 1926,
+                "reply_count": 913,
+                "quote_count": 126,
+                "retweet": false,
+                "views": 9122243,
+                "timestamp": 1723299746,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/e5sanhczzh",
+                            "expanded_url": "https://twitter.com/SpaceX/status/1822277331249160315/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822277096598814720",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "media_key": "3_1822277096598814720",
+                            "media_url_https": "https://pbs.twimg.com/media/GUoHXVEaQAACn99.jpg",
+                            "original_info": {
+                                "width": 3000,
+                                "height": 2000,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 320,
+                                        "w": 3000,
+                                        "h": 1680
+                                    },
+                                    {
+                                        "x": 1000,
+                                        "y": 0,
+                                        "w": 2000,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 1246,
+                                        "y": 0,
+                                        "w": 1754,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 1825,
+                                        "y": 0,
+                                        "w": 1000,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3000,
+                                        "h": 2000
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1365
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/E5SANHcZZh"
+                        },
+                        {
+                            "display_url": "pic.x.com/e5sanhczzh",
+                            "expanded_url": "https://twitter.com/SpaceX/status/1822277331249160315/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822277128785960960",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "media_key": "3_1822277128785960960",
+                            "media_url_https": "https://pbs.twimg.com/media/GUoHZM-bIAAqG37.jpg",
+                            "original_info": {
+                                "width": 3000,
+                                "height": 2000,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 320,
+                                        "w": 3000,
+                                        "h": 1680
+                                    },
+                                    {
+                                        "x": 125,
+                                        "y": 0,
+                                        "w": 2000,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 248,
+                                        "y": 0,
+                                        "w": 1754,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 625,
+                                        "y": 0,
+                                        "w": 1000,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 3000,
+                                        "h": 2000
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1365
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/E5SANHcZZh"
+                        },
+                        {
+                            "display_url": "pic.x.com/e5sanhczzh",
+                            "expanded_url": "https://twitter.com/SpaceX/status/1822277331249160315/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822277159366598656",
+                            "indices": [
+                                84,
+                                107
+                            ],
+                            "media_key": "3_1822277159366598656",
+                            "media_url_https": "https://pbs.twimg.com/media/GUoHa-5aoAAPu0x.jpg",
+                            "original_info": {
+                                "width": 2000,
+                                "height": 3000,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 1880,
+                                        "w": 2000,
+                                        "h": 1120
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 1000,
+                                        "w": 2000,
+                                        "h": 2000
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 720,
+                                        "w": 2000,
+                                        "h": 2280
+                                    },
+                                    {
+                                        "x": 500,
+                                        "y": 0,
+                                        "w": 1500,
+                                        "h": 3000
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 2000,
+                                        "h": 3000
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1365,
+                                    "h": 2048
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/E5SANHcZZh"
+                        }
+                    ]
+                },
+                "conversation_id": "1822277331249160315",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 266,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822449612705472792",
+            "creation_date": "Sun Aug 11 01:47:01 +0000 2024",
+            "text": "RT @MarioNawfal: \ud83d\udea8MUST WATCH: MR. BEAN'S DEFINITIVE DEFENSE OF FREE SPEECH (FULL VIDEO)\n\nRowan Atkinson:\n\n\"The clear problem with the outla\u2026",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 13251,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 667,
+            "timestamp": 1723340821,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1822375229760664018",
+            "extended_entities": null,
+            "conversation_id": "1822449612705472792",
+            "retweet_status": {
+                "tweet_id": "1822375229760664018",
+                "creation_date": "Sat Aug 10 20:51:27 +0000 2024",
+                "text": "\ud83d\udea8MUST WATCH: MR. BEAN'S DEFINITIVE DEFENSE OF FREE SPEECH (FULL VIDEO)\n\nRowan Atkinson:\n\n\"The clear problem with the outlawing of insult - is that too many things can be interpreted as such.\"\n\nSource: @avavidan https://t.co/2lLX1UYRIO",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/480x270/bn5ybnSj7Bouil3Z.mp4?tag=12",
+                        "bitrate": 256000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/640x360/CHaTqH34oDt85j8c.mp4?tag=12",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/1280x720/Eig_MCWOVMVmI_uo.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Thu Oct 22 14:42:25 +0000 2020",
+                    "user_id": "1319287761048723458",
+                    "username": "MarioNawfal",
+                    "name": "Mario Nawfal",
+                    "follower_count": 1599753,
+                    "following_count": 27934,
+                    "favourites_count": 132274,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319287761048723458/1687204248",
+                    "description": "Unfiltered Unbiased Verified 24x7 Breaking News | NO BIAS, NO ECHO CHAMBERS: Host of the Largest Show on \ud835\udd4f | Founder & Investor",
+                    "external_url": "https://t.co/Lru9VAixI8",
+                    "number_of_tweets": 56570,
+                    "bot": false,
+                    "timestamp": 1603377745,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 58661,
+                "retweet_count": 13251,
+                "reply_count": 1683,
+                "quote_count": 1005,
+                "retweet": false,
+                "views": 4872311,
+                "timestamp": 1723323087,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.x.com/2llx1uyrio",
+                            "expanded_url": "https://twitter.com/MarioNawfal/status/1822375229760664018/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1822374504598818816",
+                            "indices": [
+                                211,
+                                234
+                            ],
+                            "media_key": "7_1822374504598818816",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1822374504598818816/pu/img/IJzv5J9rogBm_ahG.jpg",
+                            "original_info": {
+                                "width": 1280,
+                                "height": 720,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/2lLX1UYRIO",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 565196,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/pl/TiwG3tu1bTVhzIp8.m3u8?tag=12&v=42b",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/480x270/bn5ybnSj7Bouil3Z.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/640x360/CHaTqH34oDt85j8c.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822374504598818816/pu/vid/avc1/1280x720/Eig_MCWOVMVmI_uo.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1822375229760664018",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 7932,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822439124546343093",
+            "creation_date": "Sun Aug 11 01:05:21 +0000 2024",
+            "text": "My new T-shirt https://t.co/UoUXkHpIta",
+            "media_url": [
+                "https://pbs.twimg.com/media/GUqauTfbwAA4pE5.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 366966,
+            "retweet_count": 22628,
+            "reply_count": 12608,
+            "quote_count": 1644,
+            "retweet": false,
+            "views": 34527085,
+            "timestamp": 1723338321,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/uouxkhpita",
+                        "expanded_url": "https://twitter.com/elonmusk/status/1822439124546343093/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822439119521562624",
+                        "indices": [
+                            15,
+                            38
+                        ],
+                        "media_key": "3_1822439119521562624",
+                        "media_url_https": "https://pbs.twimg.com/media/GUqauTfbwAA4pE5.jpg",
+                        "original_info": {
+                            "width": 1536,
+                            "height": 2048,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 542,
+                                    "w": 1536,
+                                    "h": 860
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 204,
+                                    "w": 1536,
+                                    "h": 1536
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 97,
+                                    "w": 1536,
+                                    "h": 1751
+                                },
+                                {
+                                    "x": 358,
+                                    "y": 0,
+                                    "w": 1024,
+                                    "h": 2048
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 2048
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1536,
+                                "h": 2048
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/UoUXkHpIta"
+                    }
+                ]
+            },
+            "conversation_id": "1822439124546343093",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 7335,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822416885625004449",
+            "creation_date": "Sat Aug 10 23:36:59 +0000 2024",
+            "text": "If movie dialogue was more accurate https://t.co/gPtZ1hDnSu",
+            "media_url": [
+                "https://pbs.twimg.com/media/GUqGf3nbQAAJTzR.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 84555,
+            "retweet_count": 6115,
+            "reply_count": 3235,
+            "quote_count": 248,
+            "retweet": false,
+            "views": 15441462,
+            "timestamp": 1723333019,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/gptz1hdnsu",
+                        "expanded_url": "https://twitter.com/elonmusk/status/1822416885625004449/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822416881288167424",
+                        "indices": [
+                            36,
+                            59
+                        ],
+                        "media_key": "3_1822416881288167424",
+                        "media_url_https": "https://pbs.twimg.com/media/GUqGf3nbQAAJTzR.jpg",
+                        "original_info": {
+                            "width": 460,
+                            "height": 358,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 460,
+                                    "h": 258
+                                },
+                                {
+                                    "x": 16,
+                                    "y": 0,
+                                    "w": 358,
+                                    "h": 358
+                                },
+                                {
+                                    "x": 38,
+                                    "y": 0,
+                                    "w": 314,
+                                    "h": 358
+                                },
+                                {
+                                    "x": 106,
+                                    "y": 0,
+                                    "w": 179,
+                                    "h": 358
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 460,
+                                    "h": 358
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 460,
+                                "h": 358
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/gPtZ1hDnSu"
+                    }
+                ]
+            },
+            "conversation_id": "1822416885625004449",
+            "retweet_status": null,
+            "quoted_status": null,
+            "bookmark_count": 1867,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822371230214664278",
+            "creation_date": "Sat Aug 10 20:35:33 +0000 2024",
+            "text": "Hoping to do more to help people in Gaza",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 125436,
+            "retweet_count": 12436,
+            "reply_count": 10773,
+            "quote_count": 1583,
+            "retweet": false,
+            "views": 29034589,
+            "timestamp": 1723322133,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1822263866744508502",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822371230214664278",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1822263866744508502",
+                "creation_date": "Sat Aug 10 13:28:56 +0000 2024",
+                "text": "Elon Musk\u2019s Starlink at UAE\u2019s Gaza Field Hospital has helped our facility to provide humanitarian medical assistance to 1000s of innocent people, especially children. Thank you Elon !",
+                "media_url": null,
+                "video_url": null,
+                "user": {
+                    "creation_date": "Thu Dec 08 17:40:27 +0000 2011",
+                    "user_id": "431777800",
+                    "username": "HSajwanization",
+                    "name": "\u062d\u0633\u0646 \u0633\u062c\u0648\u0627\u0646\u064a \ud83c\udde6\ud83c\uddea Hassan Sajwani",
+                    "follower_count": 250199,
+                    "following_count": 637,
+                    "favourites_count": 49906,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Dubai, United Arab Emirates",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1525434442021539842/99GMvtNA_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/431777800/1652526898",
+                    "description": "Hassan Sajwani-  an Emirati posts news, tech, business #counterTerrorism, politics, RPs not endorsements. Patriot #\u0627\u0644\u0644\u0647_\u062b\u0645_\u0627\u0644\u0648\u0637\u0646_\u062b\u0645_\u0631\u0626\u064a\u0633_\u0627\u0644\u062f\u0648\u0644\u0629 Personal account",
+                    "external_url": "https://t.co/OEIWTryjvg",
+                    "number_of_tweets": 137634,
+                    "bot": false,
+                    "timestamp": 1323366027,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 9277,
+                "retweet_count": 1050,
+                "reply_count": 889,
+                "quote_count": 198,
+                "retweet": false,
+                "views": 28694829,
+                "timestamp": 1723296536,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": null,
+                "conversation_id": "1822263866744508502",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 354,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 2993,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822367596739510719",
+            "creation_date": "Sat Aug 10 20:21:07 +0000 2024",
+            "text": "RT @cb_doge: The reason why Elon Musk is constantly targeted by the media. https://t.co/ZaUNtYgyAN",
+            "media_url": [
+                "https://pbs.twimg.com/media/GUpY-uFaIAA_ulK.jpg"
+            ],
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 3211,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 298,
+            "timestamp": 1723321267,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1822367060812599714",
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.x.com/zauntygyan",
+                        "expanded_url": "https://twitter.com/cb_doge/status/1822367060812599714/photo/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "features": {
+                            "large": {
+                                "faces": []
+                            }
+                        },
+                        "id_str": "1822366833770635264",
+                        "indices": [
+                            75,
+                            98
+                        ],
+                        "media_key": "3_1822366833770635264",
+                        "media_url_https": "https://pbs.twimg.com/media/GUpY-uFaIAA_ulK.jpg",
+                        "original_info": {
+                            "width": 1080,
+                            "height": 1080,
+                            "focus_rects": [
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1080,
+                                    "h": 605
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1080,
+                                    "h": 1080
+                                },
+                                {
+                                    "x": 133,
+                                    "y": 0,
+                                    "w": 947,
+                                    "h": 1080
+                                },
+                                {
+                                    "x": 351,
+                                    "y": 0,
+                                    "w": 540,
+                                    "h": 1080
+                                },
+                                {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1080,
+                                    "h": 1080
+                                }
+                            ]
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1080,
+                                "h": 1080
+                            }
+                        },
+                        "source_status_id_str": "1822367060812599714",
+                        "source_user_id_str": "1389913567671975937",
+                        "type": "photo",
+                        "url": "https://t.co/ZaUNtYgyAN",
+                        "allow_download_status": {
+                            "allow_download": true
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1822367596739510719",
+            "retweet_status": {
+                "tweet_id": "1822367060812599714",
+                "creation_date": "Sat Aug 10 20:18:59 +0000 2024",
+                "text": "The reason why Elon Musk is constantly targeted by the media. https://t.co/ZaUNtYgyAN",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GUpY-uFaIAA_ulK.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Wed May 05 12:03:43 +0000 2021",
+                    "user_id": "1389913567671975937",
+                    "username": "cb_doge",
+                    "name": "DogeDesigner",
+                    "follower_count": 750724,
+                    "following_count": 998,
+                    "favourites_count": 87537,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Dogecoin.com",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389913567671975937/1711058670",
+                    "description": "UX/UI & Graphic Designer at Dogecoin & MyDoge Inc./ \ud835\udd4f Creator",
+                    "external_url": "https://t.co/E0fsFaNdeI",
+                    "number_of_tweets": 35296,
+                    "bot": false,
+                    "timestamp": 1620216223,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 19992,
+                "retweet_count": 3211,
+                "reply_count": 1384,
+                "quote_count": 146,
+                "retweet": false,
+                "views": 2635661,
+                "timestamp": 1723321139,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/zauntygyan",
+                            "expanded_url": "https://twitter.com/cb_doge/status/1822367060812599714/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": []
+                                }
+                            },
+                            "id_str": "1822366833770635264",
+                            "indices": [
+                                62,
+                                85
+                            ],
+                            "media_key": "3_1822366833770635264",
+                            "media_url_https": "https://pbs.twimg.com/media/GUpY-uFaIAA_ulK.jpg",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1080,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1080,
+                                        "h": 605
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1080,
+                                        "h": 1080
+                                    },
+                                    {
+                                        "x": 133,
+                                        "y": 0,
+                                        "w": 947,
+                                        "h": 1080
+                                    },
+                                    {
+                                        "x": 351,
+                                        "y": 0,
+                                        "w": 540,
+                                        "h": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1080,
+                                        "h": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/ZaUNtYgyAN",
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1822367060812599714",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 569,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822362101882712378",
+            "creation_date": "Sat Aug 10 19:59:17 +0000 2024",
+            "text": "Messed up",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 129606,
+            "retweet_count": 26038,
+            "reply_count": 7510,
+            "quote_count": 807,
+            "retweet": false,
+            "views": 24679697,
+            "timestamp": 1723319957,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1822271228364632363",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822362101882712378",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1822271228364632363",
+                "creation_date": "Sat Aug 10 13:58:11 +0000 2024",
+                "text": "William Nelson Morgan, a 69-year-old retiree with no criminal history, is the oldest anti-mass migration English riot arrestee to be convicted so far. \n\nHe was sentenced to two years and eight months in prison for refusing to disperse and holding a stick at a library riot in https://t.co/Vhnmm86D7R",
+                "media_url": [
+                    "https://pbs.twimg.com/media/GUoCBjiXMAAyecp.jpg"
+                ],
+                "video_url": null,
+                "user": {
+                    "creation_date": "Mon Sep 29 05:58:06 +0000 2014",
+                    "user_id": "2835451658",
+                    "username": "MrAndyNgo",
+                    "name": "Andy Ng\u00f4 \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                    "follower_count": 1517696,
+                    "following_count": 3087,
+                    "favourites_count": 71914,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "Portland, OR refugee in London",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1687535112",
+                    "description": "NYT bestselling journalist. Senior editor @TPostMillennial. Fact checker @CommunityNotes. Support my journalism & send news tips to: https://t.co/qNoFCtvckk",
+                    "external_url": "https://t.co/g8LZzaVjZV",
+                    "number_of_tweets": 47276,
+                    "bot": false,
+                    "timestamp": 1411970286,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 38766,
+                "retweet_count": 11764,
+                "reply_count": 4532,
+                "quote_count": 1363,
+                "retweet": false,
+                "views": 26487170,
+                "timestamp": 1723298291,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "display_url": "pic.x.com/vhnmm86d7r",
+                            "expanded_url": "https://twitter.com/MrAndyNgo/status/1822271228364632363/photo/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "features": {
+                                "large": {
+                                    "faces": [
+                                        {
+                                            "x": 56,
+                                            "y": 228,
+                                            "h": 357,
+                                            "w": 357
+                                        }
+                                    ]
+                                }
+                            },
+                            "id_str": "1822271224967278592",
+                            "indices": [
+                                276,
+                                299
+                            ],
+                            "media_key": "3_1822271224967278592",
+                            "media_url_https": "https://pbs.twimg.com/media/GUoCBjiXMAAyecp.jpg",
+                            "original_info": {
+                                "width": 510,
+                                "height": 686,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 285,
+                                        "w": 510,
+                                        "h": 286
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 173,
+                                        "w": 510,
+                                        "h": 510
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 105,
+                                        "w": 510,
+                                        "h": 581
+                                    },
+                                    {
+                                        "x": 84,
+                                        "y": 0,
+                                        "w": 343,
+                                        "h": 686
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 510,
+                                        "h": 686
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 510,
+                                    "h": 686
+                                }
+                            },
+                            "type": "photo",
+                            "url": "https://t.co/Vhnmm86D7R"
+                        }
+                    ]
+                },
+                "conversation_id": "1822271228364632363",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 1883,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 2188,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822360569459953741",
+            "creation_date": "Sat Aug 10 19:53:12 +0000 2024",
+            "text": "Yes",
+            "media_url": null,
+            "video_url": null,
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "qst",
+            "favorite_count": 107136,
+            "retweet_count": 20727,
+            "reply_count": 4171,
+            "quote_count": 374,
+            "retweet": false,
+            "views": 31489326,
+            "timestamp": 1723319592,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": "1822268266552717532",
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": null,
+            "extended_entities": null,
+            "conversation_id": "1822360569459953741",
+            "retweet_status": null,
+            "quoted_status": {
+                "tweet_id": "1822268266552717532",
+                "creation_date": "Sat Aug 10 13:46:25 +0000 2024",
+                "text": "Let me get this straight:\n\nKeir Starmer is releasing violent criminals from prison just to replace them with people who commit thought crimes on @X.\n\nAnd he is spending police resources investigating and going after people for retweets and Facebook posts when there is a shitload",
+                "media_url": null,
+                "video_url": null,
+                "user": {
+                    "creation_date": "Tue Apr 20 00:38:57 +0000 2010",
+                    "user_id": "134976379",
+                    "username": "MsMelChen",
+                    "name": "Melissa Chen",
+                    "follower_count": 253799,
+                    "following_count": 3234,
+                    "favourites_count": 40722,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "London, England",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1396088800678268929/1B42F_nx_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/134976379/1586894840",
+                    "description": "VP @strategyrisks | Board + co-founder @IdeasB2 | Board @envprogress | \ud83c\uddf8\ud83c\uddec \ud83c\uddfa\ud83c\uddf8 \ud83c\uddec\ud83c\udde7 | \u270d\ufe0f The Spectator & elsewhere | Email: melissa@thespectator.com",
+                    "external_url": "https://t.co/sUzA0b5a7D",
+                    "number_of_tweets": 22234,
+                    "bot": false,
+                    "timestamp": 1271723937,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 48942,
+                "retweet_count": 10806,
+                "reply_count": 3010,
+                "quote_count": 704,
+                "retweet": false,
+                "views": 32831927,
+                "timestamp": 1723297585,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": null,
+                "conversation_id": "1822268266552717532",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 1528,
+                "source": null,
+                "community_note": null
+            },
+            "bookmark_count": 1648,
+            "source": null,
+            "community_note": null
+        },
+        {
+            "tweet_id": "1822358934587388182",
+            "creation_date": "Sat Aug 10 19:46:42 +0000 2024",
+            "text": "RT @historyinmemes: Bee Gees acapella of \"How deep is your love\" might be better than the original version (1998) https://t.co/JmHA34jjIl",
+            "media_url": null,
+            "video_url": [
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/308x270/JX454B5NrXXcID80.mp4?tag=12",
+                    "bitrate": 256000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/410x360/CvmIBSlgSJdjLQoH.mp4?tag=12",
+                    "bitrate": 832000,
+                    "content_type": "video/mp4"
+                },
+                {
+                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/820x720/wkA-xsnCxnrQzlvF.mp4?tag=12",
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4"
+                }
+            ],
+            "user": {
+                "creation_date": "Tue Jun 02 20:12:29 +0000 2009",
+                "user_id": "44196397",
+                "username": "elonmusk",
+                "name": "Elon Musk",
+                "follower_count": 193769888,
+                "following_count": 693,
+                "favourites_count": 66465,
+                "is_private": false,
+                "is_verified": false,
+                "is_blue_verified": true,
+                "location": "",
+                "profile_pic_url": "https://pbs.twimg.com/profile_images/1815749056821346304/jS8I28PL_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1722660499",
+                "description": "",
+                "external_url": null,
+                "number_of_tweets": 49187,
+                "bot": false,
+                "timestamp": 1243973549,
+                "has_nft_avatar": false,
+                "category": null,
+                "default_profile": false,
+                "default_profile_image": false,
+                "listed_count": null,
+                "verified_type": null
+            },
+            "language": "en",
+            "favorite_count": 0,
+            "retweet_count": 17109,
+            "reply_count": 0,
+            "quote_count": 0,
+            "retweet": true,
+            "views": 567,
+            "timestamp": 1723319202,
+            "video_view_count": null,
+            "in_reply_to_status_id": null,
+            "quoted_status_id": null,
+            "binding_values": null,
+            "expanded_url": null,
+            "retweet_tweet_id": "1822291816684888477",
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false,
+                            "graphql_source_user": {
+                                "user_results": {
+                                    "result": {
+                                        "__typename": "User",
+                                        "rest_id": "855481986290524160",
+                                        "is_blue_verified": true,
+                                        "profile_image_shape": "Circle",
+                                        "affiliates_highlighted_label": {},
+                                        "legacy": {
+                                            "can_dm": true,
+                                            "can_media_tag": true,
+                                            "advertiser_account_service_levels": [
+                                                "analytics"
+                                            ],
+                                            "advertiser_account_type": "promotable_user",
+                                            "analytics_type": "disabled",
+                                            "created_at": "Fri Apr 21 18:02:54 +0000 2017",
+                                            "description": "Daily history lessons. Education through memes!",
+                                            "entities": {
+                                                "description": {
+                                                    "hashtags": [],
+                                                    "symbols": [],
+                                                    "urls": [],
+                                                    "user_mentions": []
+                                                }
+                                            },
+                                            "fast_followers_count": 0,
+                                            "favourites_count": 1358,
+                                            "followers_count": 5350417,
+                                            "friends_count": 242,
+                                            "geo_enabled": true,
+                                            "has_custom_timelines": false,
+                                            "has_extended_profile": true,
+                                            "id_str": "855481986290524160",
+                                            "is_translator": false,
+                                            "location": "",
+                                            "media_count": 13185,
+                                            "name": "Historic Vids",
+                                            "normal_followers_count": 5350417,
+                                            "pinned_tweet_ids_str": [
+                                                "1822707749329002964"
+                                            ],
+                                            "profile_background_color": "F5F8FA",
+                                            "profile_banner_url": "https://pbs.twimg.com/profile_banners/855481986290524160/1651700840",
+                                            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1648334723725361152/ev7V1230_normal.jpg",
+                                            "profile_interstitial_type": "",
+                                            "profile_link_color": "1DA1F2",
+                                            "protected": false,
+                                            "screen_name": "historyinmemes",
+                                            "statuses_count": 14491,
+                                            "translator_type_enum": "None",
+                                            "verified": false,
+                                            "withheld_in_countries": []
+                                        },
+                                        "super_follow_eligible": true,
+                                        "super_followed_by": false,
+                                        "super_following": false,
+                                        "private_super_following": false,
+                                        "exclusive_tweet_following": false
+                                    }
+                                }
+                            }
+                        },
+                        "display_url": "pic.x.com/jmha34jjil",
+                        "expanded_url": "https://twitter.com/historyinmemes/status/1822291816684888477/video/1",
+                        "ext_media_availability": {
+                            "status": "Available"
+                        },
+                        "id_str": "1822194962269696000",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_key": "7_1822194962269696000",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1822194962269696000/pu/img/-juXSA3UidueAErF.jpg",
+                        "original_info": {
+                            "width": 1080,
+                            "height": 946,
+                            "focus_rects": []
+                        },
+                        "sizes": {
+                            "large": {
+                                "w": 1080,
+                                "h": 946
+                            }
+                        },
+                        "source_status_id_str": "1822291816684888477",
+                        "source_user_id_str": "855481986290524160",
+                        "type": "video",
+                        "url": "https://t.co/JmHA34jjIl",
+                        "video_info": {
+                            "aspect_ratio": [
+                                540,
+                                473
+                            ],
+                            "duration_millis": 55733,
+                            "variants": [
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/pl/25JNQemulVmHMPsu.m3u8?tag=12&v=78c",
+                                    "content_type": "application/x-mpegURL"
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/308x270/JX454B5NrXXcID80.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 256000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/410x360/CvmIBSlgSJdjLQoH.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 832000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/820x720/wkA-xsnCxnrQzlvF.mp4?tag=12",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 2176000
+                                }
+                            ]
+                        },
+                        "allow_download_status": {
+                            "allow_download": true
+                        }
+                    }
+                ]
+            },
+            "conversation_id": "1822358934587388182",
+            "retweet_status": {
+                "tweet_id": "1822291816684888477",
+                "creation_date": "Sat Aug 10 15:20:00 +0000 2024",
+                "text": "Bee Gees acapella of \"How deep is your love\" might be better than the original version (1998) https://t.co/JmHA34jjIl",
+                "media_url": null,
+                "video_url": [
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/308x270/JX454B5NrXXcID80.mp4?tag=12",
+                        "bitrate": 256000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/410x360/CvmIBSlgSJdjLQoH.mp4?tag=12",
+                        "bitrate": 832000,
+                        "content_type": "video/mp4"
+                    },
+                    {
+                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/820x720/wkA-xsnCxnrQzlvF.mp4?tag=12",
+                        "bitrate": 2176000,
+                        "content_type": "video/mp4"
+                    }
+                ],
+                "user": {
+                    "creation_date": "Fri Apr 21 18:02:54 +0000 2017",
+                    "user_id": "855481986290524160",
+                    "username": "historyinmemes",
+                    "name": "Historic Vids",
+                    "follower_count": 5350417,
+                    "following_count": 242,
+                    "favourites_count": 1358,
+                    "is_private": false,
+                    "is_verified": false,
+                    "is_blue_verified": true,
+                    "location": "",
+                    "profile_pic_url": "https://pbs.twimg.com/profile_images/1648334723725361152/ev7V1230_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/855481986290524160/1651700840",
+                    "description": "Daily history lessons. Education through memes!",
+                    "external_url": null,
+                    "number_of_tweets": 14491,
+                    "bot": false,
+                    "timestamp": 1492797774,
+                    "has_nft_avatar": false,
+                    "category": null,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "listed_count": null,
+                    "verified_type": null
+                },
+                "language": "en",
+                "favorite_count": 97633,
+                "retweet_count": 17109,
+                "reply_count": 1585,
+                "quote_count": 1409,
+                "retweet": false,
+                "views": 5983836,
+                "timestamp": 1723303200,
+                "video_view_count": null,
+                "in_reply_to_status_id": null,
+                "quoted_status_id": null,
+                "binding_values": null,
+                "expanded_url": null,
+                "retweet_tweet_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "display_url": "pic.x.com/jmha34jjil",
+                            "expanded_url": "https://twitter.com/historyinmemes/status/1822291816684888477/video/1",
+                            "ext_media_availability": {
+                                "status": "Available"
+                            },
+                            "id_str": "1822194962269696000",
+                            "indices": [
+                                94,
+                                117
+                            ],
+                            "media_key": "7_1822194962269696000",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1822194962269696000/pu/img/-juXSA3UidueAErF.jpg",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 946,
+                                "focus_rects": []
+                            },
+                            "sizes": {
+                                "large": {
+                                    "w": 1080,
+                                    "h": 946
+                                }
+                            },
+                            "type": "video",
+                            "url": "https://t.co/JmHA34jjIl",
+                            "video_info": {
+                                "aspect_ratio": [
+                                    540,
+                                    473
+                                ],
+                                "duration_millis": 55733,
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/pl/25JNQemulVmHMPsu.m3u8?tag=12&v=78c",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/308x270/JX454B5NrXXcID80.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 256000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/410x360/CvmIBSlgSJdjLQoH.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1822194962269696000/pu/vid/avc1/820x720/wkA-xsnCxnrQzlvF.mp4?tag=12",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 2176000
+                                    }
+                                ]
+                            },
+                            "allow_download_status": {
+                                "allow_download": true
+                            }
+                        }
+                    ]
+                },
+                "conversation_id": "1822291816684888477",
+                "retweet_status": null,
+                "quoted_status": null,
+                "bookmark_count": 18338,
+                "source": null,
+                "community_note": null
+            },
+            "quoted_status": null,
+            "bookmark_count": 0,
+            "source": null,
+            "community_note": null
+        }
+    ],
+    "continuation_token": "DAABCgABGUvpQh8__-sKAAIZSlHLtVcxFggAAwAAAAIAAA"
+}

@@ -1,0 +1,1986 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "167-162"
+    },
+    "errors": [],
+    "results": 29,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 2660,
+                "referee": "Markus Schmidt, Germany",
+                "timezone": "UTC",
+                "date": "2018-12-19T19:30:00+00:00",
+                "timestamp": 1545247800,
+                "periods": {
+                    "first": 1545247800,
+                    "second": 1545251400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weser-Stadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2018,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 11071,
+                "referee": "Robert Hartmann, Germany",
+                "timezone": "UTC",
+                "date": "2018-01-13T14:30:00+00:00",
+                "timestamp": 1515853800,
+                "periods": {
+                    "first": 1515853800,
+                    "second": 1515857400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weser-Stadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 16722,
+                "referee": "Daniel Siebert, Germany",
+                "timezone": "UTC",
+                "date": "2017-05-13T13:30:00+00:00",
+                "timestamp": 1494682200,
+                "periods": {
+                    "first": 1494682200,
+                    "second": 1494685800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weser-Stadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2016,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 5
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 5
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 57417,
+                "referee": "Tobias Stieler, Germany",
+                "timezone": "UTC",
+                "date": "2017-10-25T18:45:00+00:00",
+                "timestamp": 1508957100,
+                "periods": {
+                    "first": 1508957100,
+                    "second": 1508960700
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weser-Stadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 81,
+                "name": "DFB Pokal",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/81.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "2nd Round"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 194751,
+                "referee": "Benjamin Brand, Germany",
+                "timezone": "UTC",
+                "date": "2016-02-13T14:30:00+00:00",
+                "timestamp": 1455373800,
+                "periods": {
+                    "first": 1455373800,
+                    "second": 1455377400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weser-Stadion",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2015,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 194885,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-30T13:30:00+00:00",
+                "timestamp": 1409405400,
+                "periods": {
+                    "first": 1409405400,
+                    "second": 1409409000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weserstadion (Bremen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Regular Season - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195451,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-04-19T13:30:00+00:00",
+                "timestamp": 1397914200,
+                "periods": {
+                    "first": 1397914200,
+                    "second": 1397917800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weserstadion (Bremen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2013,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195767,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2013-05-04T13:30:00+00:00",
+                "timestamp": 1367674200,
+                "periods": {
+                    "first": 1367674200,
+                    "second": 1367677800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weserstadion (Bremen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2012,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195974,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2012-02-11T14:30:00+00:00",
+                "timestamp": 1328970600,
+                "periods": {
+                    "first": 1328970600,
+                    "second": 1328974200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weserstadion (Bremen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2011,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 196252,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2011-01-15T14:30:00+00:00",
+                "timestamp": 1295101800,
+                "periods": {
+                    "first": 1295101800,
+                    "second": 1295105400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Weserstadion (Bremen)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2010,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 209082,
+                "referee": "M. Petersen",
+                "timezone": "UTC",
+                "date": "2020-01-26T14:30:00+00:00",
+                "timestamp": 1580049000,
+                "periods": {
+                    "first": 1580049000,
+                    "second": 1580052600
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2019,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 587219,
+                "referee": "D. Schlager",
+                "timezone": "UTC",
+                "date": "2020-10-25T17:00:00+00:00",
+                "timestamp": 1603645200,
+                "periods": {
+                    "first": 1603645200,
+                    "second": 1603648800
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Regular Season - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871397,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2023-04-02T15:30:00+00:00",
+                "timestamp": 1680449400,
+                "periods": {
+                    "first": 1680449400,
+                    "second": 1680453000
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1048941,
+                "referee": "C. Dingert",
+                "timezone": "UTC",
+                "date": "2023-10-07T16:30:00+00:00",
+                "timestamp": 1696696200,
+                "periods": {
+                    "first": 1696696200,
+                    "second": 1696699800
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2023,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224168,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-02-15T00:00:00+00:00",
+                "timestamp": 1739577600,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 755,
+                    "name": "wohninvest WESERSTADION",
+                    "city": "Bremen"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 2804,
+                "referee": "Bastian Dankert, Germany",
+                "timezone": "UTC",
+                "date": "2019-05-11T13:30:00+00:00",
+                "timestamp": 1557581400,
+                "periods": {
+                    "first": 1557581400,
+                    "second": 1557585000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "WIRSOL Rhein-Neckar-Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2018,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 11220,
+                "referee": "Guido Winkmann, Germany",
+                "timezone": "UTC",
+                "date": "2017-08-19T13:30:00+00:00",
+                "timestamp": 1503149400,
+                "periods": {
+                    "first": 1503149400,
+                    "second": 1503153000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "WIRSOL Rhein-Neckar-Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2017,
+                "round": "Regular Season - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 16867,
+                "referee": "Benjamin Cortus, Germany",
+                "timezone": "UTC",
+                "date": "2016-12-21T19:00:00+00:00",
+                "timestamp": 1482346800,
+                "periods": {
+                    "first": 1482346800,
+                    "second": 1482350400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "WIRSOL Rhein-Neckar-Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2016,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 194601,
+                "referee": "Jochen Drees, Germany",
+                "timezone": "UTC",
+                "date": "2015-09-13T13:30:00+00:00",
+                "timestamp": 1442151000,
+                "periods": {
+                    "first": 1442151000,
+                    "second": 1442154600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "WIRSOL Rhein-Neckar-Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2015,
+                "round": "Regular Season - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195040,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-02-04T19:00:00+00:00",
+                "timestamp": 1423076400,
+                "periods": {
+                    "first": 1423076400,
+                    "second": 1423080000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2014,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195299,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2013-11-30T14:30:00+00:00",
+                "timestamp": 1385821800,
+                "periods": {
+                    "first": 1385821800,
+                    "second": 1385825400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2013,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195618,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2012-12-02T14:30:00+00:00",
+                "timestamp": 1354458600,
+                "periods": {
+                    "first": 1354458600,
+                    "second": 1354462200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2012,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 195823,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2011-08-27T13:30:00+00:00",
+                "timestamp": 1314451800,
+                "periods": {
+                    "first": 1314451800,
+                    "second": 1314455400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2011,
+                "round": "Regular Season - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 196098,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2010-08-21T13:30:00+00:00",
+                "timestamp": 1282397400,
+                "periods": {
+                    "first": 1282397400,
+                    "second": 1282401000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2010,
+                "round": "Regular Season - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 208924,
+                "referee": "S. Stegemann",
+                "timezone": "UTC",
+                "date": "2019-08-24T13:30:00+00:00",
+                "timestamp": 1566653400,
+                "periods": {
+                    "first": 1566653400,
+                    "second": 1566657000
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2019,
+                "round": "Regular Season - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 587366,
+                "referee": "R. Schr\u00f6der",
+                "timezone": "UTC",
+                "date": "2021-02-21T17:00:00+00:00",
+                "timestamp": 1613926800,
+                "periods": {
+                    "first": 1613926800,
+                    "second": 1613930400
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2020,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871239,
+                "referee": "B. Cortus",
+                "timezone": "UTC",
+                "date": "2022-10-07T18:30:00+00:00",
+                "timestamp": 1665167400,
+                "periods": {
+                    "first": 1665167400,
+                    "second": 1665171000
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2022,
+                "round": "Regular Season - 9"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1049093,
+                "referee": "M. J\u00f6llenbeck",
+                "timezone": "UTC",
+                "date": "2024-03-03T16:30:00+00:00",
+                "timestamp": 1709483400,
+                "periods": {
+                    "first": 1709483400,
+                    "second": 1709487000
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2023,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1224014,
+                "referee": "Tobias Reichel, Germany",
+                "timezone": "UTC",
+                "date": "2024-09-29T15:30:00+00:00",
+                "timestamp": 1727623800,
+                "periods": {
+                    "first": 1727623800,
+                    "second": 1727627400
+                },
+                "venue": {
+                    "id": 724,
+                    "name": "PreZero Arena",
+                    "city": "Sinsheim"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 78,
+                "name": "Bundesliga",
+                "country": "Germany",
+                "logo": "https://media.api-sports.io/football/leagues/78.png",
+                "flag": "https://media.api-sports.io/flags/de.svg",
+                "season": 2024,
+                "round": "Regular Season - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 167,
+                    "name": "1899 Hoffenheim",
+                    "logo": "https://media.api-sports.io/football/teams/167.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 162,
+                    "name": "Werder Bremen",
+                    "logo": "https://media.api-sports.io/football/teams/162.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

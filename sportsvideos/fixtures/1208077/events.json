@@ -1,0 +1,498 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1208077"
+    },
+    "errors": [],
+    "results": 22,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 3,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 129711,
+                "name": "B. Johnson"
+            },
+            "assist": {
+                "id": 152849,
+                "name": "M. van de Ven"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 34,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 545,
+                "name": "N. Mazraoui"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 39,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 886,
+                "name": "D. Dalot"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Holding"
+        },
+        {
+            "time": {
+                "elapsed": 42,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 1485,
+                "name": "B. Fernandes"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Red Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 45,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 19220,
+                "name": "M. Mount"
+            },
+            "assist": {
+                "id": 284322,
+                "name": "K. Mainoo"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 45,
+                "extra": 1
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 129711,
+                "name": "B. Johnson"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 45,
+                "extra": 4
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 19220,
+                "name": "M. Mount"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 747,
+                "name": "Casemiro"
+            },
+            "assist": {
+                "id": 70100,
+                "name": "J. Zirkzee"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 19235,
+                "name": "D. Spence"
+            },
+            "assist": {
+                "id": 204039,
+                "name": "D. Udogie"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 47,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 30435,
+                "name": "D. Kulusevski"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 54,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 19235,
+                "name": "D. Spence"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 55,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 2467,
+                "name": "L. Martinez"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 51494,
+                "name": "M. Ugarte"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 73,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 174,
+                "name": "C. Eriksen"
+            },
+            "assist": {
+                "id": 51494,
+                "name": "M. Ugarte"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 73,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 288006,
+                "name": "R. Hojlund"
+            },
+            "assist": {
+                "id": 909,
+                "name": "M. Rashford"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 73,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 47519,
+                "name": "P. Porro"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 380690,
+                "name": "M. Moore"
+            },
+            "assist": {
+                "id": 129711,
+                "name": "B. Johnson"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 237129,
+                "name": "P. M. Sarr"
+            },
+            "assist": {
+                "id": 18784,
+                "name": "J. Maddison"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 347316,
+                "name": "L. Bergvall"
+            },
+            "assist": {
+                "id": 1166,
+                "name": "T. Werner"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 18883,
+                "name": "D. Solanke"
+            },
+            "assist": {
+                "id": 237129,
+                "name": "P. M. Sarr"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 81,
+                "extra": null
+            },
+            "team": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png"
+            },
+            "player": {
+                "id": 162498,
+                "name": "R. Dragusin"
+            },
+            "assist": {
+                "id": 152849,
+                "name": "M. van de Ven"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 85,
+                "extra": null
+            },
+            "team": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png"
+            },
+            "player": {
+                "id": 157997,
+                "name": "A. Diallo"
+            },
+            "assist": {
+                "id": 19220,
+                "name": "M. Mount"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        }
+    ]
+}

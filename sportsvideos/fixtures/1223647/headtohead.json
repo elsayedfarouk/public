@@ -1,0 +1,1170 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "511-502"
+    },
+    "errors": [],
+    "results": 17,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 21541,
+                "referee": "Davide Massa, Italy",
+                "timezone": "UTC",
+                "date": "2016-11-20T14:00:00+00:00",
+                "timestamp": 1479650400,
+                "periods": {
+                    "first": 1479650400,
+                    "second": 1479654000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Carlo Castellani",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2016,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 29332,
+                "referee": "Massimiliano Irrati, Italy",
+                "timezone": "UTC",
+                "date": "2019-05-05T10:30:00+00:00",
+                "timestamp": 1557052200,
+                "periods": {
+                    "first": 1557052200,
+                    "second": 1557055800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Carlo Castellani",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2018,
+                "round": "Regular Season - 35"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 196717,
+                "referee": "Antonio Damato, Italy",
+                "timezone": "UTC",
+                "date": "2016-04-10T10:30:00+00:00",
+                "timestamp": 1460284200,
+                "periods": {
+                    "first": 1460284200,
+                    "second": 1460287800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Carlo Castellani",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2015,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 197129,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-05-10T16:00:00+00:00",
+                "timestamp": 1431273600,
+                "periods": {
+                    "first": 1431273600,
+                    "second": 1431277200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadio Carlo Castellani (Empoli)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2014,
+                "round": "Regular Season - 35"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 731715,
+                "referee": "J. Sacchi",
+                "timezone": "UTC",
+                "date": "2021-11-27T14:00:00+00:00",
+                "timestamp": 1638021600,
+                "periods": {
+                    "first": 1638021600,
+                    "second": 1638025200
+                },
+                "venue": {
+                    "id": 896,
+                    "name": "Stadio Carlo Castellani",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2021,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 881794,
+                "referee": "M. Marchetti",
+                "timezone": "UTC",
+                "date": "2022-08-21T16:30:00+00:00",
+                "timestamp": 1661099400,
+                "periods": {
+                    "first": 1661099400,
+                    "second": 1661103000
+                },
+                "venue": {
+                    "id": 896,
+                    "name": "Stadio Carlo Castellani",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1052494,
+                "referee": "L. Pairetto",
+                "timezone": "UTC",
+                "date": "2024-02-18T14:00:00+00:00",
+                "timestamp": 1708264800,
+                "periods": {
+                    "first": 1708264800,
+                    "second": 1708268400
+                },
+                "venue": {
+                    "id": 20109,
+                    "name": "Stadio Carlo Castellani \u2013 Computer Gross Arena",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2023,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1223647,
+                "referee": "Gianluca Aureliano, Italy",
+                "timezone": "UTC",
+                "date": "2024-09-29T16:00:00+00:00",
+                "timestamp": 1727625600,
+                "periods": {
+                    "first": 1727625600,
+                    "second": 1727629200
+                },
+                "venue": {
+                    "id": 20109,
+                    "name": "Stadio Carlo Castellani \u2013 Computer Gross Arena",
+                    "city": "Empoli"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2024,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 21349,
+                "referee": "Paolo Silvio Mazzoleni, Italy",
+                "timezone": "UTC",
+                "date": "2017-04-15T13:00:00+00:00",
+                "timestamp": 1492261200,
+                "periods": {
+                    "first": 1492261200,
+                    "second": 1492264800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Florence"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2016,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 29143,
+                "referee": "Piero Giacomelli, Italy",
+                "timezone": "UTC",
+                "date": "2018-12-16T14:00:00+00:00",
+                "timestamp": 1544968800,
+                "periods": {
+                    "first": 1544968800,
+                    "second": 1544972400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Florence"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2018,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 196528,
+                "referee": "Luca Banti, Italy",
+                "timezone": "UTC",
+                "date": "2015-11-22T14:00:00+00:00",
+                "timestamp": 1448200800,
+                "periods": {
+                    "first": 1448200800,
+                    "second": 1448204400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Florence"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2015,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 196939,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-12-21T14:00:00+00:00",
+                "timestamp": 1419170400,
+                "periods": {
+                    "first": 1419170400,
+                    "second": 1419174000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadio Artemio Franchi (Firenze)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2014,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 731885,
+                "referee": "L. Massimi",
+                "timezone": "UTC",
+                "date": "2022-04-03T10:30:00+00:00",
+                "timestamp": 1648981800,
+                "periods": {
+                    "first": 1648981800,
+                    "second": 1648985400
+                },
+                "venue": {
+                    "id": 902,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Firenze"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2021,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 882001,
+                "referee": "A. Prontera",
+                "timezone": "UTC",
+                "date": "2023-02-19T14:00:00+00:00",
+                "timestamp": 1676815200,
+                "periods": {
+                    "first": 1676815200,
+                    "second": 1676818800
+                },
+                "venue": {
+                    "id": 902,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Firenze"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2022,
+                "round": "Regular Season - 23"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1052335,
+                "referee": "F. Dionisi",
+                "timezone": "UTC",
+                "date": "2023-10-23T18:45:00+00:00",
+                "timestamp": 1698086700,
+                "periods": {
+                    "first": 1698086700,
+                    "second": 1698090300
+                },
+                "venue": {
+                    "id": 902,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Firenze"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2023,
+                "round": "Regular Season - 9"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1223927,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-04-27T00:00:00+00:00",
+                "timestamp": 1745712000,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 902,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Firenze"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2024,
+                "round": "Regular Season - 34"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1308635,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2024-12-04T00:00:00+00:00",
+                "timestamp": 1733270400,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 902,
+                    "name": "Stadio Artemio Franchi",
+                    "city": "Firenze"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 137,
+                "name": "Coppa Italia",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/137.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2024,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 502,
+                    "name": "Fiorentina",
+                    "logo": "https://media.api-sports.io/football/teams/502.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 511,
+                    "name": "Empoli",
+                    "logo": "https://media.api-sports.io/football/teams/511.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

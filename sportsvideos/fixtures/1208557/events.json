@@ -1,0 +1,366 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1208557"
+    },
+    "errors": [],
+    "results": 16,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 36,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 383780,
+                "name": "M. Jauregizar"
+            },
+            "assist": {
+                "id": 332308,
+                "name": "U. Gomez"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 182772,
+                "name": "J. Sanchez"
+            },
+            "assist": {
+                "id": 319572,
+                "name": "V. Barco"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 55,
+                "extra": null
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 195923,
+                "name": "J. A. Carmona"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 59,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 47007,
+                "name": "I. Ruiz de Galarreta"
+            },
+            "assist": {
+                "id": 47418,
+                "name": "M. Vesga"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 59,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 47291,
+                "name": "G. Guruzeta"
+            },
+            "assist": {
+                "id": 332308,
+                "name": "U. Gomez"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 59,
+                "extra": null
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 1650,
+                "name": "Suso"
+            },
+            "assist": {
+                "id": 2778,
+                "name": "K. Iheanacho"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 47273,
+                "name": "Y. Berchiche"
+            },
+            "assist": {
+                "id": 47275,
+                "name": "O. de Marcos"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 437643,
+                "name": "P. Canales"
+            },
+            "assist": {
+                "id": 30510,
+                "name": "A. Berenguer"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 284241,
+                "name": "M. Mejia"
+            },
+            "assist": {
+                "id": 162126,
+                "name": "Peque"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 47329,
+                "name": "A. Pedrosa"
+            },
+            "assist": {
+                "id": 195923,
+                "name": "J. A. Carmona"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 82,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 183848,
+                "name": "J. Agirrezabala"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Red Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 85,
+                "extra": null
+            },
+            "team": {
+                "id": 531,
+                "name": "Athletic Club",
+                "logo": "https://media.api-sports.io/football/teams/531.png"
+            },
+            "player": {
+                "id": 312468,
+                "name": "A. Padilla"
+            },
+            "assist": {
+                "id": 183799,
+                "name": "N. Williams"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 86,
+                "extra": null
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 2054,
+                "name": "J. Navas"
+            },
+            "assist": {
+                "id": 21004,
+                "name": "L. Agoume"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 3
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 312468,
+                "name": "A. Padilla"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Own Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 6
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 133110,
+                "name": "T. Nianzou"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 7
+            },
+            "team": {
+                "id": 536,
+                "name": "Sevilla",
+                "logo": "https://media.api-sports.io/football/teams/536.png"
+            },
+            "player": {
+                "id": 47329,
+                "name": "A. Pedrosa"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        }
+    ]
+}

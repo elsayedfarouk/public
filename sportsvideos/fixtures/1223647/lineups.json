@@ -1,0 +1,513 @@
+{
+    "get": "fixtures/lineups",
+    "parameters": {
+        "fixture": "1223647"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 511,
+                "name": "Empoli",
+                "logo": "https://media.api-sports.io/football/teams/511.png",
+                "colors": {
+                    "player": {
+                        "primary": "0066ff",
+                        "number": "bfc367",
+                        "border": "0066ff"
+                    },
+                    "goalkeeper": {
+                        "primary": "c8f461",
+                        "number": "1f4352",
+                        "border": "c8f461"
+                    }
+                }
+            },
+            "formation": "3-1-4-2",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 81012,
+                        "name": "Devis V\u00e1squez",
+                        "number": 23,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 318053,
+                        "name": "Saba Goglichidze",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 14329,
+                        "name": "Ardian Ismajli",
+                        "number": 34,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 180510,
+                        "name": "Mattia Viti",
+                        "number": 21,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 31021,
+                        "name": "Alberto Grassi",
+                        "number": 5,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30845,
+                        "name": "Emmanuel Gyasi",
+                        "number": 11,
+                        "pos": "M",
+                        "grid": "4:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 138777,
+                        "name": "Faustino Anjorin",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": "4:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30932,
+                        "name": "Liam Henderson",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30775,
+                        "name": "Giuseppe Pezzella",
+                        "number": 3,
+                        "pos": "M",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 215,
+                        "name": "Sebastiano Esposito",
+                        "number": 99,
+                        "pos": "F",
+                        "grid": "5:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 263481,
+                        "name": "Lorenzo Colombo",
+                        "number": 29,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 39271,
+                        "name": "Ola Solbakken",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 287374,
+                        "name": "Emmanuel Ekong",
+                        "number": 19,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 123,
+                        "name": "Pietro Pellegri",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30391,
+                        "name": "Federico Brancolini",
+                        "number": 98,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 393947,
+                        "name": "Jacopo Seghetti",
+                        "number": 12,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 422152,
+                        "name": "Lorenzo Tosto",
+                        "number": 31,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 388547,
+                        "name": "Luca Marianucci",
+                        "number": 35,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 6931,
+                        "name": "Liberato Cacace",
+                        "number": 13,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 56560,
+                        "name": "Youssef Maleh",
+                        "number": 93,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 858,
+                        "name": "Mattia De Sciglio",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 340700,
+                        "name": "Jacopo Fazzini",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 21585,
+                        "name": "Junior Sambia",
+                        "number": 7,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 31555,
+                        "name": "Nicolas Haas",
+                        "number": 32,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383002,
+                        "name": "Ismael Konate",
+                        "number": 90,
+                        "pos": "F",
+                        "grid": null
+                    }
+                }
+            ],
+            "coach": {
+                "id": 2438,
+                "name": "R. D'Aversa",
+                "photo": "https://media.api-sports.io/football/coachs/2438.png"
+            }
+        },
+        {
+            "team": {
+                "id": 502,
+                "name": "Fiorentina",
+                "logo": "https://media.api-sports.io/football/teams/502.png",
+                "colors": {
+                    "player": {
+                        "primary": "ff1818",
+                        "number": "ffffff",
+                        "border": "ff1818"
+                    },
+                    "goalkeeper": {
+                        "primary": "f5ef61",
+                        "number": "5e3269",
+                        "border": "f5ef61"
+                    }
+                }
+            },
+            "formation": "4-2-3-1",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 882,
+                        "name": "David De Gea",
+                        "number": 43,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 41144,
+                        "name": "Dod\u00f4",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": "2:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 396637,
+                        "name": "Pietro Comuzzo",
+                        "number": 15,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 31642,
+                        "name": "Luca Ranieri",
+                        "number": 6,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30422,
+                        "name": "Robin Gosens",
+                        "number": 21,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 286475,
+                        "name": "Edoardo Bove",
+                        "number": 4,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1852,
+                        "name": "Danilo Cataldi",
+                        "number": 32,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30431,
+                        "name": "Andrea Colpani",
+                        "number": 23,
+                        "pos": "M",
+                        "grid": "4:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2799,
+                        "name": "Albert Gu\u00f0mundsson",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30789,
+                        "name": "Christian Kouam\u00e9",
+                        "number": 99,
+                        "pos": "M",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 877,
+                        "name": "Moise Kean",
+                        "number": 20,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 22229,
+                        "name": "Jonathan Ikon\u00e9",
+                        "number": 11,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1265,
+                        "name": "Yacine Adli",
+                        "number": 29,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 6010,
+                        "name": "Lucas Beltr\u00e1n",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30394,
+                        "name": "Pietro Terracciano",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383267,
+                        "name": "Tommaso Martinelli",
+                        "number": 30,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 136087,
+                        "name": "Fabiano Parisi",
+                        "number": 65,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 342022,
+                        "name": "Michael Kayode",
+                        "number": 33,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 421807,
+                        "name": "Matias Moreno",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 6000,
+                        "name": "Lucas Mart\u00ednez Quarta",
+                        "number": 28,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30396,
+                        "name": "Cristiano Biraghi",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 314231,
+                        "name": "Amir Richardson",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 30810,
+                        "name": "Rolando Mandragora",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 31507,
+                        "name": "Riccardo Sottil",
+                        "number": 7,
+                        "pos": "F",
+                        "grid": null
+                    }
+                }
+            ],
+            "coach": {
+                "id": 18433,
+                "name": "R. Palladino",
+                "photo": "https://media.api-sports.io/football/coachs/18433.png"
+            }
+        }
+    ]
+}

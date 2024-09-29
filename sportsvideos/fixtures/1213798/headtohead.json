@@ -1,0 +1,1850 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "96-80"
+    },
+    "errors": [],
+    "results": 27,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 35598,
+                "referee": "Beno\u00eet Bastien, France",
+                "timezone": "UTC",
+                "date": "2018-04-01T19:00:00+00:00",
+                "timestamp": 1522609200,
+                "periods": {
+                    "first": 1522609200,
+                    "second": 1522612800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Parc Olympique Lyonnais",
+                    "city": "Lyon"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2017,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 37818,
+                "referee": "T. L\u00e9onard",
+                "timezone": "UTC",
+                "date": "2019-03-03T16:00:00+00:00",
+                "timestamp": 1551628800,
+                "periods": {
+                    "first": 1551628800,
+                    "second": 1551632400
+                },
+                "venue": {
+                    "id": 666,
+                    "name": "Groupama Stadium",
+                    "city": "D\u00e9cines-Charpieu"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2018,
+                "round": "Regular Season - 27"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 5,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 93237,
+                "referee": "Beno\u00eet Bastien, France",
+                "timezone": "UTC",
+                "date": "2017-03-12T16:00:00+00:00",
+                "timestamp": 1489334400,
+                "periods": {
+                    "first": 1489334400,
+                    "second": 1489338000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Parc Olympique Lyonnais",
+                    "city": "Lyon"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2016,
+                "round": "Regular Season - 29"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 157620,
+                "referee": "A. Gautier",
+                "timezone": "UTC",
+                "date": "2020-01-26T14:00:00+00:00",
+                "timestamp": 1580047200,
+                "periods": {
+                    "first": 1580047200,
+                    "second": 1580050800
+                },
+                "venue": {
+                    "id": 666,
+                    "name": "Groupama Stadium",
+                    "city": "D\u00e9cines-Charpieu"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185646,
+                "referee": "Nicolas Rainville, France",
+                "timezone": "UTC",
+                "date": "2015-10-23T18:30:00+00:00",
+                "timestamp": 1445625000,
+                "periods": {
+                    "first": 1445625000,
+                    "second": 1445628600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Municipal de Gerland",
+                    "city": "Lyon"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2015,
+                "round": "Regular Season - 11"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186122,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-01-11T16:00:00+00:00",
+                "timestamp": 1420992000,
+                "periods": {
+                    "first": 1420992000,
+                    "second": 1420995600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de Gerland (Lyon)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2014,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186464,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2013-12-05T20:00:00+00:00",
+                "timestamp": 1386273600,
+                "periods": {
+                    "first": 1386273600,
+                    "second": 1386277200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de Gerland (Lyon)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2013,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 187003,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2013-04-14T15:00:00+00:00",
+                "timestamp": 1365951600,
+                "periods": {
+                    "first": 1365951600,
+                    "second": 1365955200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de Gerland (Lyon)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2012,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 187224,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2011-12-04T20:00:00+00:00",
+                "timestamp": 1323028800,
+                "periods": {
+                    "first": 1323028800,
+                    "second": 1323032400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de Gerland (Lyon)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2011,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 187612,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2010-12-12T16:00:00+00:00",
+                "timestamp": 1292169600,
+                "periods": {
+                    "first": 1292169600,
+                    "second": 1292173200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de Gerland (Lyon)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2010,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 285675,
+                "referee": "T. L\u00e9onard",
+                "timezone": "UTC",
+                "date": "2019-12-18T17:45:00+00:00",
+                "timestamp": 1576691100,
+                "periods": {
+                    "first": 1576691100,
+                    "second": 1576694700
+                },
+                "venue": {
+                    "id": 666,
+                    "name": "Groupama Stadium",
+                    "city": "D\u00e9cines-Charpieu"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 65,
+                "name": "Coupe de la Ligue",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/65.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Round of 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871565,
+                "referee": "R. Buquet",
+                "timezone": "UTC",
+                "date": "2022-10-07T19:00:00+00:00",
+                "timestamp": 1665169200,
+                "periods": {
+                    "first": 1665169200,
+                    "second": 1665172800
+                },
+                "venue": {
+                    "id": 666,
+                    "name": "Groupama Stadium",
+                    "city": "D\u00e9cines-Charpieu"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1045011,
+                "referee": "P. Gaillouste",
+                "timezone": "UTC",
+                "date": "2023-12-10T16:05:00+00:00",
+                "timestamp": 1702224300,
+                "periods": {
+                    "first": 1702224300,
+                    "second": 1702227900
+                },
+                "venue": {
+                    "id": 666,
+                    "name": "Groupama Stadium",
+                    "city": "D\u00e9cines-Charpieu"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2023,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1213903,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-01-19T00:00:00+00:00",
+                "timestamp": 1737244800,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 666,
+                    "name": "Groupama Stadium",
+                    "city": "D\u00e9cines-Charpieu"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2024,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 35726,
+                "referee": "Francois Letexier, France",
+                "timezone": "UTC",
+                "date": "2017-12-20T19:50:00+00:00",
+                "timestamp": 1513799400,
+                "periods": {
+                    "first": 1513799400,
+                    "second": 1513803000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2017,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 37722,
+                "referee": "R. Buquet",
+                "timezone": "UTC",
+                "date": "2019-01-16T18:00:00+00:00",
+                "timestamp": 1547661600,
+                "periods": {
+                    "first": 1547661600,
+                    "second": 1547665200
+                },
+                "venue": {
+                    "id": 682,
+                    "name": "Stadium de Toulouse",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2018,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 93423,
+                "referee": "Beno\u00eet Millot, France",
+                "timezone": "UTC",
+                "date": "2016-10-29T15:00:00+00:00",
+                "timestamp": 1477753200,
+                "periods": {
+                    "first": 1477753200,
+                    "second": 1477756800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2016,
+                "round": "Regular Season - 11"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 157528,
+                "referee": "K. Abed",
+                "timezone": "UTC",
+                "date": "2019-11-02T19:00:00+00:00",
+                "timestamp": 1572721200,
+                "periods": {
+                    "first": 1572721200,
+                    "second": 1572724800
+                },
+                "venue": {
+                    "id": 682,
+                    "name": "Stadium de Toulouse",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185886,
+                "referee": "Clement Turpin, France",
+                "timezone": "UTC",
+                "date": "2016-04-23T15:30:00+00:00",
+                "timestamp": 1461425400,
+                "periods": {
+                    "first": 1461425400,
+                    "second": 1461429000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2015,
+                "round": "Regular Season - 35"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185941,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-08-16T18:00:00+00:00",
+                "timestamp": 1408212000,
+                "periods": {
+                    "first": 1408212000,
+                    "second": 1408215600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal (Toulouse)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2014,
+                "round": "Regular Season - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186644,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-04-23T16:30:00+00:00",
+                "timestamp": 1398270600,
+                "periods": {
+                    "first": 1398270600,
+                    "second": 1398274200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal (Toulouse)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2013,
+                "round": "Regular Season - 34"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186823,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2012-11-25T16:00:00+00:00",
+                "timestamp": 1353859200,
+                "periods": {
+                    "first": 1353859200,
+                    "second": 1353862800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal (Toulouse)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2012,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 187384,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2012-04-18T16:30:00+00:00",
+                "timestamp": 1334766600,
+                "periods": {
+                    "first": 1334766600,
+                    "second": 1334770200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal (Toulouse)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2011,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 187773,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2011-05-01T15:00:00+00:00",
+                "timestamp": 1304262000,
+                "periods": {
+                    "first": 1304262000,
+                    "second": 1304265600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadium Municipal (Toulouse)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2010,
+                "round": "Regular Season - 33"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871779,
+                "referee": "F. Letexier",
+                "timezone": "UTC",
+                "date": "2023-04-14T19:00:00+00:00",
+                "timestamp": 1681498800,
+                "periods": {
+                    "first": 1681498800,
+                    "second": 1681502400
+                },
+                "venue": {
+                    "id": 682,
+                    "name": "Stadium de Toulouse",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1045107,
+                "referee": "J. Stinat",
+                "timezone": "UTC",
+                "date": "2024-03-15T20:00:00+00:00",
+                "timestamp": 1710532800,
+                "periods": {
+                    "first": 1710532800,
+                    "second": 1710536400
+                },
+                "venue": {
+                    "id": 682,
+                    "name": "Stadium de Toulouse",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2023,
+                "round": "Regular Season - 26"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1213798,
+                "referee": "Gael Angoula, France",
+                "timezone": "UTC",
+                "date": "2024-09-29T13:00:00+00:00",
+                "timestamp": 1727614800,
+                "periods": {
+                    "first": 1727614800,
+                    "second": 1727618400
+                },
+                "venue": {
+                    "id": 682,
+                    "name": "Stadium de Toulouse",
+                    "city": "Toulouse"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2024,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Toulouse",
+                    "logo": "https://media.api-sports.io/football/teams/96.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 80,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/football/teams/80.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "get": "fixtures/lineups",
+    "parameters": {
+        "fixture": "1224014"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png",
+                "colors": {
+                    "player": {
+                        "primary": "efeef4",
+                        "number": "162c66",
+                        "border": "efeef4"
+                    },
+                    "goalkeeper": {
+                        "primary": "517648",
+                        "number": "ffffff",
+                        "border": "517648"
+                    }
+                }
+            },
+            "formation": "3-4-1-2",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 702,
+                        "name": "Oliver Baumann",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25366,
+                        "name": "Kevin Akpoguma",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 719,
+                        "name": "Florian Grillitsch",
+                        "number": 11,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 270,
+                        "name": "Stanley N'Soki",
+                        "number": 34,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 709,
+                        "name": "Pavel Kade\u0159\u00e1bek",
+                        "number": 3,
+                        "pos": "M",
+                        "grid": "3:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 279907,
+                        "name": "Umut Tohumcu",
+                        "number": 17,
+                        "pos": "M",
+                        "grid": "3:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 325975,
+                        "name": "Tom Bischof",
+                        "number": 7,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7327,
+                        "name": "Alexander Prass",
+                        "number": 22,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 66019,
+                        "name": "Adam Hlo\u017eek",
+                        "number": 23,
+                        "pos": "F",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7691,
+                        "name": "Mergim Berisha",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": "5:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25242,
+                        "name": "Marius B\u00fclter",
+                        "number": 21,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 327861,
+                        "name": "Tim Drexler",
+                        "number": 4,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 127631,
+                        "name": "Valentin Gendrey",
+                        "number": 15,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 177665,
+                        "name": "Anton Stach",
+                        "number": 16,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 387973,
+                        "name": "Max Moerstedt",
+                        "number": 33,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 22,
+                        "name": "Jacob Bruun Larsen",
+                        "number": 29,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 163066,
+                        "name": "Luca Philipp",
+                        "number": 37,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 304686,
+                        "name": "Arthur Chaves",
+                        "number": 35,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 718,
+                        "name": "Dennis Geiger",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 28382,
+                        "name": "Haris Tabakovi\u0107",
+                        "number": 26,
+                        "pos": "F",
+                        "grid": null
+                    }
+                }
+            ],
+            "coach": {
+                "id": 7611,
+                "name": "P. Matarazzo",
+                "photo": "https://media.api-sports.io/football/coachs/7611.png"
+            }
+        },
+        {
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png",
+                "colors": {
+                    "player": {
+                        "primary": "ffffff",
+                        "number": "72c6ba",
+                        "border": "ffffff"
+                    },
+                    "goalkeeper": {
+                        "primary": "f3e04f",
+                        "number": "10110e",
+                        "border": "f3e04f"
+                    }
+                }
+            },
+            "formation": "3-4-2-1",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 7288,
+                        "name": "Michael Zetterer",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 289460,
+                        "name": "Juli\u00e1n Malatini",
+                        "number": 22,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2916,
+                        "name": "Niklas Stark",
+                        "number": 4,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 15874,
+                        "name": "Anthony Jung",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 26319,
+                        "name": "Felix Agu",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": "3:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 15592,
+                        "name": "Jens Stage",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": "3:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 38798,
+                        "name": "Senne Lynen",
+                        "number": 14,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 128853,
+                        "name": "Derrick K\u00f6hn",
+                        "number": 19,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 973,
+                        "name": "Mitchell Weiser",
+                        "number": 8,
+                        "pos": "F",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7562,
+                        "name": "Romano Schmid",
+                        "number": 20,
+                        "pos": "F",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25464,
+                        "name": "Marvin Ducksch",
+                        "number": 7,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 25011,
+                        "name": "Amos Pieper",
+                        "number": 5,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 8673,
+                        "name": "Olivier Deman",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 193720,
+                        "name": "Skelly Alvero",
+                        "number": 28,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 334334,
+                        "name": "Keke Topp",
+                        "number": 42,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7073,
+                        "name": "Marco Gr\u00fcll",
+                        "number": 17,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 329578,
+                        "name": "Mio Backhaus",
+                        "number": 30,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1124,
+                        "name": "Oliver Burke",
+                        "number": 15,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 216770,
+                        "name": "Isak Hansen Aar\u00f8en",
+                        "number": 21,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 716,
+                        "name": "Leonardo Bittencourt",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                }
+            ],
+            "coach": {
+                "id": 1348,
+                "name": "O. Werner",
+                "photo": "https://media.api-sports.io/football/coachs/1348.png"
+            }
+        }
+    ]
+}

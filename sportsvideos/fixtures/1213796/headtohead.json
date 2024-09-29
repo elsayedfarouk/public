@@ -1,0 +1,1442 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "83-1063"
+    },
+    "errors": [],
+    "results": 21,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 35602,
+                "referee": "Stephan Klossner, Switzerland",
+                "timezone": "UTC",
+                "date": "2018-04-01T15:00:00+00:00",
+                "timestamp": 1522594800,
+                "periods": {
+                    "first": 1522594800,
+                    "second": 1522598400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de la Beaujoire",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2017,
+                "round": "Regular Season - 31"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 37768,
+                "referee": "F. Schneider",
+                "timezone": "UTC",
+                "date": "2019-01-30T20:00:00+00:00",
+                "timestamp": 1548878400,
+                "periods": {
+                    "first": 1548878400,
+                    "second": 1548882000
+                },
+                "venue": {
+                    "id": 662,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2018,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 93470,
+                "referee": "Amaury Delerue, France",
+                "timezone": "UTC",
+                "date": "2016-09-21T17:00:00+00:00",
+                "timestamp": 1474477200,
+                "periods": {
+                    "first": 1474477200,
+                    "second": 1474480800
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de la Beaujoire",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2016,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 157542,
+                "referee": "C. Turpin",
+                "timezone": "UTC",
+                "date": "2019-11-10T16:05:00+00:00",
+                "timestamp": 1573401900,
+                "periods": {
+                    "first": 1573401900,
+                    "second": 1573405500
+                },
+                "venue": {
+                    "id": 662,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185742,
+                "referee": "Stephane Lannoy, France",
+                "timezone": "UTC",
+                "date": "2016-01-10T13:00:00+00:00",
+                "timestamp": 1452430800,
+                "periods": {
+                    "first": 1452430800,
+                    "second": 1452434400
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de la Beaujoire",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2015,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186061,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-11-23T13:00:00+00:00",
+                "timestamp": 1416747600,
+                "periods": {
+                    "first": 1416747600,
+                    "second": 1416751200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau (Nantes)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2014,
+                "round": "Regular Season - 14"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186672,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2014-05-10T19:00:00+00:00",
+                "timestamp": 1399748400,
+                "periods": {
+                    "first": 1399748400,
+                    "second": 1399752000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau (Nantes)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2013,
+                "round": "Regular Season - 37"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 571510,
+                "referee": "A. Gautier",
+                "timezone": "UTC",
+                "date": "2020-09-20T15:00:00+00:00",
+                "timestamp": 1600614000,
+                "periods": {
+                    "first": 1600614000,
+                    "second": 1600617600
+                },
+                "venue": {
+                    "id": 662,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2020,
+                "round": "Regular Season - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 604039,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2020-08-15T16:00:00+00:00",
+                "timestamp": 1597507200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Moreau D\u00e9farges",
+                    "city": "La Baule-Escoublac"
+                },
+                "status": {
+                    "long": "Match Postponed",
+                    "short": "PST",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 667,
+                "name": "Friendlies Clubs",
+                "country": "World",
+                "logo": "https://media.api-sports.io/football/leagues/667.png",
+                "flag": null,
+                "season": 2020,
+                "round": "Club Friendlies 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 718728,
+                "referee": "F. Letexier",
+                "timezone": "UTC",
+                "date": "2022-05-21T19:00:00+00:00",
+                "timestamp": 1653159600,
+                "periods": {
+                    "first": 1653159600,
+                    "second": 1653163200
+                },
+                "venue": {
+                    "id": 662,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2021,
+                "round": "Regular Season - 38"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1213796,
+                "referee": "Abdelatif Kherradji, France",
+                "timezone": "UTC",
+                "date": "2024-09-29T15:00:00+00:00",
+                "timestamp": 1727622000,
+                "periods": {
+                    "first": 1727622000,
+                    "second": 1727625600
+                },
+                "venue": {
+                    "id": 662,
+                    "name": "Stade de la Beaujoire - Louis Fonteneau",
+                    "city": "Nantes"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2024,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 35749,
+                "referee": "Francois Letexier, France",
+                "timezone": "UTC",
+                "date": "2017-12-03T14:00:00+00:00",
+                "timestamp": 1512309600,
+                "periods": {
+                    "first": 1512309600,
+                    "second": 1512313200
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint Etienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2017,
+                "round": "Regular Season - 16"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 37701,
+                "referee": "A. Delerue",
+                "timezone": "UTC",
+                "date": "2018-11-30T19:45:00+00:00",
+                "timestamp": 1543607100,
+                "periods": {
+                    "first": 1543607100,
+                    "second": 1543610700
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint-\u00c8tienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2018,
+                "round": "Regular Season - 15"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 93208,
+                "referee": "Clement Turpin, France",
+                "timezone": "UTC",
+                "date": "2017-04-09T15:00:00+00:00",
+                "timestamp": 1491750000,
+                "periods": {
+                    "first": 1491750000,
+                    "second": 1491753600
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint Etienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2016,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 157612,
+                "referee": "A. Ustaritz",
+                "timezone": "UTC",
+                "date": "2020-01-12T14:00:00+00:00",
+                "timestamp": 1578837600,
+                "periods": {
+                    "first": 1578837600,
+                    "second": 1578841200
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint-\u00c8tienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Regular Season - 20"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185603,
+                "referee": "Beno\u00eet Millot, France",
+                "timezone": "UTC",
+                "date": "2015-09-20T15:00:00+00:00",
+                "timestamp": 1442761200,
+                "periods": {
+                    "first": 1442761200,
+                    "second": 1442764800
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint Etienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2015,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186236,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2015-04-12T12:00:00+00:00",
+                "timestamp": 1428840000,
+                "periods": {
+                    "first": 1428840000,
+                    "second": 1428843600
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Geoffroy-Guichard (Saint-\u00c8tienne)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2014,
+                "round": "Regular Season - 32"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 186486,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2013-12-21T16:00:00+00:00",
+                "timestamp": 1387641600,
+                "periods": {
+                    "first": 1387641600,
+                    "second": 1387645200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Geoffroy-Guichard (Saint-\u00c8tienne)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2013,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 571698,
+                "referee": "E. Wattellier",
+                "timezone": "UTC",
+                "date": "2021-02-03T20:00:00+00:00",
+                "timestamp": 1612382400,
+                "periods": {
+                    "first": 1612382400,
+                    "second": 1612386000
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint-\u00c8tienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2020,
+                "round": "Regular Season - 23"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 718539,
+                "referee": "C. Turpin",
+                "timezone": "UTC",
+                "date": "2021-12-22T20:00:00+00:00",
+                "timestamp": 1640203200,
+                "periods": {
+                    "first": 1640203200,
+                    "second": 1640206800
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint-\u00c8tienne"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2021,
+                "round": "Regular Season - 19"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1213904,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-01-19T00:00:00+00:00",
+                "timestamp": 1737244800,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": 676,
+                    "name": "Stade Geoffroy-Guichard",
+                    "city": "Saint-\u00c8tienne"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2024,
+                "round": "Regular Season - 18"
+            },
+            "teams": {
+                "home": {
+                    "id": 1063,
+                    "name": "Saint Etienne",
+                    "logo": "https://media.api-sports.io/football/teams/1063.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 83,
+                    "name": "Nantes",
+                    "logo": "https://media.api-sports.io/football/teams/83.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

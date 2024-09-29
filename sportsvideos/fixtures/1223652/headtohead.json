@@ -1,0 +1,286 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "497-517"
+    },
+    "errors": [],
+    "results": 4,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 731703,
+                "referee": "G. Aureliano",
+                "timezone": "UTC",
+                "date": "2021-11-07T11:30:00+00:00",
+                "timestamp": 1636284600,
+                "periods": {
+                    "first": 1636284600,
+                    "second": 1636288200
+                },
+                "venue": {
+                    "id": 948,
+                    "name": "Stadio Pierluigi Penzo",
+                    "city": "Venezia"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2021,
+                "round": "Regular Season - 12"
+            },
+            "teams": {
+                "home": {
+                    "id": 517,
+                    "name": "Venezia",
+                    "logo": "https://media.api-sports.io/football/teams/517.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 497,
+                    "name": "AS Roma",
+                    "logo": "https://media.api-sports.io/football/teams/497.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1223834,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-02-09T00:00:00+00:00",
+                "timestamp": 1739059200,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stadio Pier Luigi Penzo",
+                    "city": "Venezia"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2024,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 517,
+                    "name": "Venezia",
+                    "logo": "https://media.api-sports.io/football/teams/517.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 497,
+                    "name": "AS Roma",
+                    "logo": "https://media.api-sports.io/football/teams/497.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 731951,
+                "referee": "S. Sozza",
+                "timezone": "UTC",
+                "date": "2022-05-14T18:45:00+00:00",
+                "timestamp": 1652553900,
+                "periods": {
+                    "first": 1652553900,
+                    "second": 1652557500
+                },
+                "venue": {
+                    "id": 910,
+                    "name": "Stadio Olimpico",
+                    "city": "Roma"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2021,
+                "round": "Regular Season - 37"
+            },
+            "teams": {
+                "home": {
+                    "id": 497,
+                    "name": "AS Roma",
+                    "logo": "https://media.api-sports.io/football/teams/497.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 517,
+                    "name": "Venezia",
+                    "logo": "https://media.api-sports.io/football/teams/517.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1223652,
+                "referee": "Rosario Abisso, Italy",
+                "timezone": "UTC",
+                "date": "2024-09-29T13:00:00+00:00",
+                "timestamp": 1727614800,
+                "periods": {
+                    "first": 1727614800,
+                    "second": 1727618400
+                },
+                "venue": {
+                    "id": 910,
+                    "name": "Stadio Olimpico",
+                    "city": "Roma"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 135,
+                "name": "Serie A",
+                "country": "Italy",
+                "logo": "https://media.api-sports.io/football/leagues/135.png",
+                "flag": "https://media.api-sports.io/flags/it.svg",
+                "season": 2024,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 497,
+                    "name": "AS Roma",
+                    "logo": "https://media.api-sports.io/football/teams/497.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 517,
+                    "name": "Venezia",
+                    "logo": "https://media.api-sports.io/football/teams/517.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

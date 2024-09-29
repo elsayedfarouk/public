@@ -1,0 +1,1238 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "77-93"
+    },
+    "errors": [],
+    "results": 18,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 37884,
+                "referee": "Karim Abed, France",
+                "timezone": "UTC",
+                "date": "2019-04-28T13:00:00+00:00",
+                "timestamp": 1556456400,
+                "periods": {
+                    "first": 1556456400,
+                    "second": 1556460000
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond-Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2018,
+                "round": "Regular Season - 34"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 157628,
+                "referee": "A. Delerue",
+                "timezone": "UTC",
+                "date": "2020-02-01T19:00:00+00:00",
+                "timestamp": 1580583600,
+                "periods": {
+                    "first": 1580583600,
+                    "second": 1580587200
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond-Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185605,
+                "referee": "Tony Chapron, France",
+                "timezone": "UTC",
+                "date": "2015-09-22T17:00:00+00:00",
+                "timestamp": 1442941200,
+                "periods": {
+                    "first": 1442941200,
+                    "second": 1442944800
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond-Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2015,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 341065,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2011-08-26T18:00:00+00:00",
+                "timestamp": 1314381600,
+                "periods": {
+                    "first": 1314381600,
+                    "second": 1314385200
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Jean Bouin (Angers)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 62,
+                "name": "Ligue 2",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/62.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2011,
+                "round": "Regular Season - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 341473,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2011-04-23T17:00:00+00:00",
+                "timestamp": 1303578000,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Jean Bouin, Angers (Angers)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 62,
+                "name": "Ligue 2",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/62.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2010,
+                "round": "Regular Season - 7"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 571494,
+                "referee": "B. Bastien",
+                "timezone": "UTC",
+                "date": "2020-09-13T13:00:00+00:00",
+                "timestamp": 1600002000,
+                "periods": {
+                    "first": 1600002000,
+                    "second": 1600005600
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond-Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2020,
+                "round": "Regular Season - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 718621,
+                "referee": "M. Lesage",
+                "timezone": "UTC",
+                "date": "2022-03-13T14:00:00+00:00",
+                "timestamp": 1647180000,
+                "periods": {
+                    "first": 1647180000,
+                    "second": 1647183600
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond-Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2021,
+                "round": "Regular Season - 28"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871511,
+                "referee": "J. Pignard",
+                "timezone": "UTC",
+                "date": "2022-08-31T17:00:00+00:00",
+                "timestamp": 1661965200,
+                "periods": {
+                    "first": 1661965200,
+                    "second": 1661968800
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond-Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1213800,
+                "referee": "Eric Wattellier, France",
+                "timezone": "UTC",
+                "date": "2024-09-29T15:00:00+00:00",
+                "timestamp": 1727622000,
+                "periods": {
+                    "first": 1727622000,
+                    "second": 1727625600
+                },
+                "venue": {
+                    "id": 634,
+                    "name": "Stade Raymond Kopa",
+                    "city": "Angers"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2024,
+                "round": "Regular Season - 6"
+            },
+            "teams": {
+                "home": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 37650,
+                "referee": "E. Wattellier",
+                "timezone": "UTC",
+                "date": "2018-10-20T18:00:00+00:00",
+                "timestamp": 1540058400,
+                "periods": {
+                    "first": 1540058400,
+                    "second": 1540062000
+                },
+                "venue": {
+                    "id": 674,
+                    "name": "Stade Auguste-Delaune II",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2018,
+                "round": "Regular Season - 10"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 157540,
+                "referee": "H. Ben El Hadj",
+                "timezone": "UTC",
+                "date": "2019-11-09T19:00:00+00:00",
+                "timestamp": 1573326000,
+                "periods": {
+                    "first": 1573326000,
+                    "second": 1573329600
+                },
+                "venue": {
+                    "id": 674,
+                    "name": "Stade Auguste-Delaune II",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2019,
+                "round": "Regular Season - 13"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 185782,
+                "referee": "Antony Gautier, France",
+                "timezone": "UTC",
+                "date": "2016-02-03T18:00:00+00:00",
+                "timestamp": 1454522400,
+                "periods": {
+                    "first": 1454522400,
+                    "second": 1454526000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Auguste-Delaune",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2015,
+                "round": "Regular Season - 24"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 341227,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2012-01-28T13:30:00+00:00",
+                "timestamp": 1327757400,
+                "periods": {
+                    "first": 1327757400,
+                    "second": 1327761000
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Auguste-Delaune II (Reims)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 62,
+                "name": "Ligue 2",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/62.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2011,
+                "round": "Regular Season - 21"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 341647,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2010-11-05T19:00:00+00:00",
+                "timestamp": 1288983600,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Auguste-Delaune II (Reims)",
+                    "city": null
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 62,
+                "name": "Ligue 2",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/62.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2010,
+                "round": "Regular Season - 25"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 571700,
+                "referee": "A. Petit",
+                "timezone": "UTC",
+                "date": "2021-02-03T18:00:00+00:00",
+                "timestamp": 1612375200,
+                "periods": {
+                    "first": 1612375200,
+                    "second": 1612378800
+                },
+                "venue": {
+                    "id": 674,
+                    "name": "Stade Auguste-Delaune II",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2020,
+                "round": "Regular Season - 23"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 718519,
+                "referee": "J. Hamel",
+                "timezone": "UTC",
+                "date": "2021-12-05T14:00:00+00:00",
+                "timestamp": 1638712800,
+                "periods": {
+                    "first": 1638712800,
+                    "second": 1638716400
+                },
+                "venue": {
+                    "id": 674,
+                    "name": "Stade Auguste-Delaune II",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2021,
+                "round": "Regular Season - 17"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 871828,
+                "referee": "F. Batta",
+                "timezone": "UTC",
+                "date": "2023-05-21T13:00:00+00:00",
+                "timestamp": 1684674000,
+                "periods": {
+                    "first": 1684674000,
+                    "second": 1684677600
+                },
+                "venue": {
+                    "id": 674,
+                    "name": "Stade Auguste-Delaune II",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2022,
+                "round": "Regular Season - 36"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1213942,
+                "referee": null,
+                "timezone": "UTC",
+                "date": "2025-02-16T00:00:00+00:00",
+                "timestamp": 1739664000,
+                "periods": {
+                    "first": null,
+                    "second": null
+                },
+                "venue": {
+                    "id": null,
+                    "name": "Stade Auguste-Delaune",
+                    "city": "Reims"
+                },
+                "status": {
+                    "long": "Time to be defined",
+                    "short": "TBD",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 61,
+                "name": "Ligue 1",
+                "country": "France",
+                "logo": "https://media.api-sports.io/football/leagues/61.png",
+                "flag": "https://media.api-sports.io/flags/fr.svg",
+                "season": 2024,
+                "round": "Regular Season - 22"
+            },
+            "teams": {
+                "home": {
+                    "id": 93,
+                    "name": "Reims",
+                    "logo": "https://media.api-sports.io/football/teams/93.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 77,
+                    "name": "Angers",
+                    "logo": "https://media.api-sports.io/football/teams/77.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

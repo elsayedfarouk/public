@@ -1,0 +1,520 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1223646"
+    },
+    "errors": [],
+    "results": 23,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 43,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 1649,
+                "name": "P. Cutrone"
+            },
+            "assist": {
+                "id": 263699,
+                "name": "A. Fadera"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 25349,
+                "name": "O. Duda"
+            },
+            "assist": {
+                "id": 42007,
+                "name": "D. Silva"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 59421,
+                "name": "D. Mosquera"
+            },
+            "assist": {
+                "id": 867,
+                "name": "G. Kastanos"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 48,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 333116,
+                "name": "R. Belahyane"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 51,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 137,
+                "name": "S. Roberto"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 53,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 2822,
+                "name": "D. Lazovic"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Penalty",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 61,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 194837,
+                "name": "T. Suslov"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 194837,
+                "name": "T. Suslov"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 194837,
+                "name": "T. Suslov"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Red Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 66,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 30526,
+                "name": "G. Magnani"
+            },
+            "assist": {
+                "id": 162703,
+                "name": "C. Tengstedt"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 72,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 1649,
+                "name": "P. Cutrone"
+            },
+            "assist": {
+                "id": 350037,
+                "name": "N. Paz"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 75,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 342063,
+                "name": "D. Coppola"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 343287,
+                "name": "D. Rocha Livramento"
+            },
+            "assist": {
+                "id": 2822,
+                "name": "D. Lazovic"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 162266,
+                "name": "L. Da Cunha"
+            },
+            "assist": {
+                "id": 31624,
+                "name": "G. Strefezza"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 30509,
+                "name": "A. Belotti"
+            },
+            "assist": {
+                "id": 1649,
+                "name": "P. Cutrone"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 81,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 288699,
+                "name": "M. Perrone"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 84,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 59421,
+                "name": "D. Mosquera"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 85,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 30780,
+                "name": "L. Mazzitelli"
+            },
+            "assist": {
+                "id": 263699,
+                "name": "A. Fadera"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 88,
+                "extra": null
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 395761,
+                "name": "M. Lambourde"
+            },
+            "assist": {
+                "id": 125715,
+                "name": "F. Daniliuc"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 89,
+                "extra": null
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 30509,
+                "name": "A. Belotti"
+            },
+            "assist": {
+                "id": 30780,
+                "name": "L. Mazzitelli"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 1
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": null,
+                "name": "A. Jasim"
+            },
+            "assist": {
+                "id": 288699,
+                "name": "M. Perrone"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 2
+            },
+            "team": {
+                "id": 895,
+                "name": "Como",
+                "logo": "https://media.api-sports.io/football/teams/895.png"
+            },
+            "player": {
+                "id": 30506,
+                "name": "D. Baselli"
+            },
+            "assist": {
+                "id": 350037,
+                "name": "N. Paz"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 4
+            },
+            "team": {
+                "id": 504,
+                "name": "Verona",
+                "logo": "https://media.api-sports.io/football/teams/504.png"
+            },
+            "player": {
+                "id": 395761,
+                "name": "M. Lambourde"
+            },
+            "assist": {
+                "id": 296560,
+                "name": "J. Tchatchoua"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        }
+    ]
+}

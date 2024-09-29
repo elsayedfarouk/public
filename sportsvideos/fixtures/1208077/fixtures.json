@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 1208077,
+        "referee": "Chris Kavanagh, England",
+        "timezone": "Europe/London",
+        "date": "2024-09-29T16:30:00+01:00",
+        "timestamp": 1727623800,
+        "periods": {
+            "first": 1727623800,
+            "second": 1727627400
+        },
+        "venue": {
+            "id": 556,
+            "name": "Old Trafford",
+            "city": "Manchester"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 39,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb.svg",
+        "season": 2024,
+        "round": "Regular Season - 6"
+    },
+    "teams": {
+        "home": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png",
+            "winner": false
+        },
+        "away": {
+            "id": 47,
+            "name": "Tottenham",
+            "logo": "https://media.api-sports.io/football/teams/47.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 0,
+        "away": 3
+    },
+    "score": {
+        "halftime": {
+            "home": 0,
+            "away": 1
+        },
+        "fulltime": {
+            "home": 0,
+            "away": 3
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1224014"
+    },
+    "errors": [],
+    "results": 25,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 5,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 25242,
+                "name": "M. Bulter"
+            },
+            "assist": {
+                "id": 7691,
+                "name": "M. Berisha"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 8,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 25242,
+                "name": "M. Bulter"
+            },
+            "assist": {
+                "id": 279907,
+                "name": "U. Tohumcu"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 10,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 279907,
+                "name": "U. Tohumcu"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 12,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 66019,
+                "name": "A. Hlozek"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 18,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 270,
+                "name": "S. Nsoki"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Red Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 21,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 289460,
+                "name": "J. Malatini"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 22,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 128853,
+                "name": "D. Kohn"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Holding"
+        },
+        {
+            "time": {
+                "elapsed": 26,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 15592,
+                "name": "J. Stage"
+            },
+            "assist": {
+                "id": 25464,
+                "name": "M. Ducksch"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 27,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 327861,
+                "name": "T. Drexler"
+            },
+            "assist": {
+                "id": 7691,
+                "name": "M. Berisha"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 39,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 15592,
+                "name": "J. Stage"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 45,
+                "extra": 3
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": null,
+                "name": "P. Matarazzo"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 177665,
+                "name": "A. Stach"
+            },
+            "assist": {
+                "id": 719,
+                "name": "F. Grillitsch"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 127631,
+                "name": "V. Gendrey"
+            },
+            "assist": {
+                "id": 7327,
+                "name": "A. Prass"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 49,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 15592,
+                "name": "J. Stage"
+            },
+            "assist": {
+                "id": 973,
+                "name": "M. Weiser"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 58,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 25011,
+                "name": "A. Pieper"
+            },
+            "assist": {
+                "id": 2916,
+                "name": "N. Stark"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 69,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 387973,
+                "name": "M. Moerstedt"
+            },
+            "assist": {
+                "id": 25242,
+                "name": "M. Bulter"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 73,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 15592,
+                "name": "J. Stage"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 22,
+                "name": "J. Bruun Larsen"
+            },
+            "assist": {
+                "id": 709,
+                "name": "P. Kaderabek"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 8673,
+                "name": "O. Deman"
+            },
+            "assist": {
+                "id": 128853,
+                "name": "D. Kohn"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 334334,
+                "name": "K. Topp"
+            },
+            "assist": {
+                "id": 7562,
+                "name": "R. Schmid"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 193720,
+                "name": "S. Alvero"
+            },
+            "assist": {
+                "id": 38798,
+                "name": "S. Lynen"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 177665,
+                "name": "A. Stach"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Unsportsmanlike conduct"
+        },
+        {
+            "time": {
+                "elapsed": 88,
+                "extra": null
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 7073,
+                "name": "M. Grull"
+            },
+            "assist": {
+                "id": 25464,
+                "name": "M. Ducksch"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 3
+            },
+            "team": {
+                "id": 167,
+                "name": "1899 Hoffenheim",
+                "logo": "https://media.api-sports.io/football/teams/167.png"
+            },
+            "player": {
+                "id": 327861,
+                "name": "T. Drexler"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Holding"
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 4
+            },
+            "team": {
+                "id": 162,
+                "name": "Werder Bremen",
+                "logo": "https://media.api-sports.io/football/teams/162.png"
+            },
+            "player": {
+                "id": 334334,
+                "name": "K. Topp"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Delay of game"
+        }
+    ]
+}

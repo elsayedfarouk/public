@@ -1,0 +1,388 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1213800"
+    },
+    "errors": [],
+    "results": 17,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 9,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 33321,
+                "name": "K. Nakamura"
+            },
+            "assist": {
+                "id": 19546,
+                "name": "C. Kipre"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 25,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 1942,
+                "name": "J. Ito"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 43,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 33321,
+                "name": "K. Nakamura"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Holding"
+        },
+        {
+            "time": {
+                "elapsed": 44,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 8451,
+                "name": "Buta"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 48,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 334429,
+                "name": "O. Diakite"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 62,
+                "extra": null
+            },
+            "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+            },
+            "player": {
+                "id": 3177,
+                "name": "F. El Melali"
+            },
+            "assist": {
+                "id": 21618,
+                "name": "J. Allevinah"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 62,
+                "extra": null
+            },
+            "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+            },
+            "player": {
+                "id": 174660,
+                "name": "L. Rao-Lisoa"
+            },
+            "assist": {
+                "id": 20850,
+                "name": "C. Arcus"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 69,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 352990,
+                "name": "A. Salama"
+            },
+            "assist": {
+                "id": 334429,
+                "name": "O. Diakite"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 69,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 389322,
+                "name": "N. Sangui"
+            },
+            "assist": {
+                "id": 8451,
+                "name": "Buta"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 69,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 386481,
+                "name": "M. Diakhon"
+            },
+            "assist": {
+                "id": 33321,
+                "name": "K. Nakamura"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 75,
+                "extra": null
+            },
+            "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+            },
+            "player": {
+                "id": 20537,
+                "name": "I. Niane"
+            },
+            "assist": {
+                "id": 103,
+                "name": "J. Aholou"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 76,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 8966,
+                "name": "T. Teuma"
+            },
+            "assist": {
+                "id": 384489,
+                "name": "Y. Fofana"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 79,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 3080,
+                "name": "M. Munetsi"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+            },
+            "player": {
+                "id": 21145,
+                "name": "P. Capelle"
+            },
+            "assist": {
+                "id": 20692,
+                "name": "H. Abdelli"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+            },
+            "player": {
+                "id": 174708,
+                "name": "Y. Belkhdim"
+            },
+            "assist": {
+                "id": 20554,
+                "name": "H. Belkebla"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 83,
+                "extra": null
+            },
+            "team": {
+                "id": 93,
+                "name": "Reims",
+                "logo": "https://media.api-sports.io/football/teams/93.png"
+            },
+            "player": {
+                "id": 1300,
+                "name": "M. Daramy"
+            },
+            "assist": {
+                "id": 1942,
+                "name": "J. Ito"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 84,
+                "extra": null
+            },
+            "team": {
+                "id": 77,
+                "name": "Angers",
+                "logo": "https://media.api-sports.io/football/teams/77.png"
+            },
+            "player": {
+                "id": 3175,
+                "name": "Z. Ferhat"
+            },
+            "assist": {
+                "id": 3177,
+                "name": "F. El Melali"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 1224014,
+        "referee": "Tobias Reichel, Germany",
+        "timezone": "Europe/London",
+        "date": "2024-09-29T16:30:00+01:00",
+        "timestamp": 1727623800,
+        "periods": {
+            "first": 1727623800,
+            "second": 1727627400
+        },
+        "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 78,
+        "name": "Bundesliga",
+        "country": "Germany",
+        "logo": "https://media.api-sports.io/football/leagues/78.png",
+        "flag": "https://media.api-sports.io/flags/de.svg",
+        "season": 2024,
+        "round": "Regular Season - 5"
+    },
+    "teams": {
+        "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+        },
+        "away": {
+            "id": 162,
+            "name": "Werder Bremen",
+            "logo": "https://media.api-sports.io/football/teams/162.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 3,
+        "away": 4
+    },
+    "score": {
+        "halftime": {
+            "home": 3,
+            "away": 3
+        },
+        "fulltime": {
+            "home": 3,
+            "away": 4
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

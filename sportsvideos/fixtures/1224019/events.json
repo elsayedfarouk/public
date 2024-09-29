@@ -1,0 +1,432 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1224019"
+    },
+    "errors": [],
+    "results": 19,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 25,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 81573,
+                "name": "O. Marmoush"
+            },
+            "assist": {
+                "id": 1809,
+                "name": "Tuta"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 31,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 106851,
+                "name": "S. Machino"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Penalty",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 35,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 162414,
+                "name": "A. Amenda"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 46,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 14,
+                "name": "M. Dahoud"
+            },
+            "assist": {
+                "id": 162414,
+                "name": "A. Amenda"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 47,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 202696,
+                "name": "I. Matanovic"
+            },
+            "assist": {
+                "id": 81573,
+                "name": "O. Marmoush"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 50,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 106851,
+                "name": "S. Machino"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 51,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 26525,
+                "name": "F. Porath"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 60,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 260898,
+                "name": "N. Remberg"
+            },
+            "assist": {
+                "id": 70514,
+                "name": "A. Gigovic"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 81573,
+                "name": "O. Marmoush"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 67,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 424,
+                "name": "S. Skrzybski"
+            },
+            "assist": {
+                "id": 26525,
+                "name": "F. Porath"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 68,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 339887,
+                "name": "C. Y. Uzun"
+            },
+            "assist": {
+                "id": 90594,
+                "name": "J. Dina Ebimbe"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 68,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 16,
+                "name": "M. Gotze"
+            },
+            "assist": {
+                "id": 202696,
+                "name": "I. Matanovic"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 70,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 26238,
+                "name": "R. Koch"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 74,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 1809,
+                "name": "Tuta"
+            },
+            "assist": {
+                "id": 81573,
+                "name": "O. Marmoush"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 24887,
+                "name": "J. Arp"
+            },
+            "assist": {
+                "id": 106851,
+                "name": "S. Machino"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 191,
+                "name": "Holstein Kiel",
+                "logo": "https://media.api-sports.io/football/teams/191.png"
+            },
+            "player": {
+                "id": 40984,
+                "name": "T. Puchacz"
+            },
+            "assist": {
+                "id": 48345,
+                "name": "C. Johansson"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 335094,
+                "name": "H. Larsson"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 83,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 161922,
+                "name": "A. Knauff"
+            },
+            "assist": {
+                "id": 276670,
+                "name": "F. Chaibi"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 86,
+                "extra": null
+            },
+            "team": {
+                "id": 169,
+                "name": "Eintracht Frankfurt",
+                "logo": "https://media.api-sports.io/football/teams/169.png"
+            },
+            "player": {
+                "id": 21587,
+                "name": "E. Skhiri"
+            },
+            "assist": {
+                "id": 335094,
+                "name": "H. Larsson"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 1299010,
+        "referee": "Slavko Vin\u010di\u0107, Slovenia",
+        "timezone": "Europe/London",
+        "date": "2024-10-01T20:00:00+01:00",
+        "timestamp": 1727809200,
+        "periods": {
+            "first": 1727809200,
+            "second": 1727812800
+        },
+        "venue": {
+            "id": 494,
+            "name": "Emirates Stadium",
+            "city": "London"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2024,
+        "round": "League Stage - 2"
+    },
+    "teams": {
+        "home": {
+            "id": 42,
+            "name": "Arsenal",
+            "logo": "https://media.api-sports.io/football/teams/42.png",
+            "winner": true
+        },
+        "away": {
+            "id": 85,
+            "name": "Paris Saint Germain",
+            "logo": "https://media.api-sports.io/football/teams/85.png",
+            "winner": false
+        }
+    },
+    "goals": {
+        "home": 2,
+        "away": 0
+    },
+    "score": {
+        "halftime": {
+            "home": 2,
+            "away": 0
+        },
+        "fulltime": {
+            "home": 2,
+            "away": 0
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

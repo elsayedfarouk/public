@@ -1,0 +1,218 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "197-228"
+    },
+    "errors": [],
+    "results": 3,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 368801,
+                "referee": "O. Grinfeld",
+                "timezone": "UTC",
+                "date": "2019-11-28T20:00:00+00:00",
+                "timestamp": 1574971200,
+                "periods": {
+                    "first": 1574971200,
+                    "second": 1574974800
+                },
+                "venue": {
+                    "id": 1293,
+                    "name": "Est\u00e1dio Jos\u00e9 Alvalade",
+                    "city": "Lisboa"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 3,
+                "name": "UEFA Europa League",
+                "country": "World",
+                "logo": "https://media.api-sports.io/football/leagues/3.png",
+                "flag": null,
+                "season": 2019,
+                "round": "Group Stage - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 228,
+                    "name": "Sporting CP",
+                    "logo": "https://media.api-sports.io/football/teams/228.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 368689,
+                "referee": "I. Kru\u017eliak",
+                "timezone": "UTC",
+                "date": "2019-09-19T16:55:00+00:00",
+                "timestamp": 1568912100,
+                "periods": {
+                    "first": 1568912100,
+                    "second": 1568915700
+                },
+                "venue": {
+                    "id": 1143,
+                    "name": "Philips Stadion",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 3,
+                "name": "UEFA Europa League",
+                "country": "World",
+                "logo": "https://media.api-sports.io/football/leagues/3.png",
+                "flag": null,
+                "season": 2019,
+                "round": "Group Stage - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 228,
+                    "name": "Sporting CP",
+                    "logo": "https://media.api-sports.io/football/teams/228.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1299008,
+                "referee": "Marco Guida, Italy",
+                "timezone": "UTC",
+                "date": "2024-10-01T19:00:00+00:00",
+                "timestamp": 1727809200,
+                "periods": {
+                    "first": 1727809200,
+                    "second": 1727812800
+                },
+                "venue": {
+                    "id": 1143,
+                    "name": "Philips Stadion",
+                    "city": "Eindhoven"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 2,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https://media.api-sports.io/football/leagues/2.png",
+                "flag": null,
+                "season": 2024,
+                "round": "League Stage - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 197,
+                    "name": "PSV Eindhoven",
+                    "logo": "https://media.api-sports.io/football/teams/197.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 228,
+                    "name": "Sporting CP",
+                    "logo": "https://media.api-sports.io/football/teams/228.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

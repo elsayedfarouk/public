@@ -1,0 +1,82 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "505-598"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 1299007,
+                "referee": "Felix Zwayer, Germany",
+                "timezone": "UTC",
+                "date": "2024-10-01T19:00:00+00:00",
+                "timestamp": 1727809200,
+                "periods": {
+                    "first": 1727809200,
+                    "second": 1727812800
+                },
+                "venue": {
+                    "id": 907,
+                    "name": "Stadio Giuseppe Meazza",
+                    "city": "Milano"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 2,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https://media.api-sports.io/football/leagues/2.png",
+                "flag": null,
+                "season": 2024,
+                "round": "League Stage - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 505,
+                    "name": "Inter",
+                    "logo": "https://media.api-sports.io/football/teams/505.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 598,
+                    "name": "FK Crvena Zvezda",
+                    "logo": "https://media.api-sports.io/football/teams/598.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

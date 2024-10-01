@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 1299008,
+        "referee": "Marco Guida, Italy",
+        "timezone": "Europe/London",
+        "date": "2024-10-01T20:00:00+01:00",
+        "timestamp": 1727809200,
+        "periods": {
+            "first": 1727809200,
+            "second": 1727812800
+        },
+        "venue": {
+            "id": 1143,
+            "name": "Philips Stadion",
+            "city": "Eindhoven"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/2.png",
+        "flag": null,
+        "season": 2024,
+        "round": "League Stage - 2"
+    },
+    "teams": {
+        "home": {
+            "id": 197,
+            "name": "PSV Eindhoven",
+            "logo": "https://media.api-sports.io/football/teams/197.png",
+            "winner": null
+        },
+        "away": {
+            "id": 228,
+            "name": "Sporting CP",
+            "logo": "https://media.api-sports.io/football/teams/228.png",
+            "winner": null
+        }
+    },
+    "goals": {
+        "home": 1,
+        "away": 1
+    },
+    "score": {
+        "halftime": {
+            "home": 1,
+            "away": 0
+        },
+        "fulltime": {
+            "home": 1,
+            "away": 1
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

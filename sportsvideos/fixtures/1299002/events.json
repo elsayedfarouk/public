@@ -1,0 +1,454 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1299002"
+    },
+    "errors": [],
+    "results": 20,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 11,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 322984,
+                "name": "S. Baidoo"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Var",
+            "detail": "Goal Disallowed - offside",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 15,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 85914,
+                "name": "J. Le Cardinal"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 18,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 329715,
+                "name": "O. Gloukh"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Unsportsmanlike conduct"
+        },
+        {
+            "time": {
+                "elapsed": 24,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 277191,
+                "name": "A. Sima"
+            },
+            "assist": {
+                "id": 22264,
+                "name": "L. Ajorque"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 26,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 3333,
+                "name": "M. Haidara"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        },
+        {
+            "time": {
+                "elapsed": 60,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 302869,
+                "name": "D. Nene"
+            },
+            "assist": {
+                "id": 334729,
+                "name": "B. Clark"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 60,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 5973,
+                "name": "N. Capaldo"
+            },
+            "assist": {
+                "id": 162189,
+                "name": "M. Bidstrup"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 62,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 322984,
+                "name": "S. Baidoo"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Holding"
+        },
+        {
+            "time": {
+                "elapsed": 63,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 41323,
+                "name": "M. Balde"
+            },
+            "assist": {
+                "id": 2214,
+                "name": "R. Del Castillo"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 63,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 22258,
+                "name": "J. Martin"
+            },
+            "assist": {
+                "id": 30405,
+                "name": "E. Fernandes"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 66,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 24147,
+                "name": "M. Camara"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 277191,
+                "name": "A. Sima"
+            },
+            "assist": {
+                "id": 20558,
+                "name": "H. Magnetti"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 74,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 20780,
+                "name": "M. Pereira Lage"
+            },
+            "assist": {
+                "id": 277191,
+                "name": "A. Sima"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 74,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 326068,
+                "name": "K. Doumbia"
+            },
+            "assist": {
+                "id": 24147,
+                "name": "M. Camara"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 75,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 20780,
+                "name": "M. Pereira Lage"
+            },
+            "assist": {
+                "id": 41323,
+                "name": "M. Balde"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 310187,
+                "name": "S. Bajcetic"
+            },
+            "assist": {
+                "id": 329265,
+                "name": "L. Morgalla"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 334178,
+                "name": "H. Blank"
+            },
+            "assist": {
+                "id": 322984,
+                "name": "S. Baidoo"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 77,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 302915,
+                "name": "M. Diambou"
+            },
+            "assist": {
+                "id": 179843,
+                "name": "L. Gourna-Douath"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 84,
+                "extra": null
+            },
+            "team": {
+                "id": 106,
+                "name": "Stade Brestois 29",
+                "logo": "https://media.api-sports.io/football/teams/106.png"
+            },
+            "player": {
+                "id": 84082,
+                "name": "R. Faivre"
+            },
+            "assist": {
+                "id": 22264,
+                "name": "L. Ajorque"
+            },
+            "type": "subst",
+            "detail": "Substitution 5",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 86,
+                "extra": null
+            },
+            "team": {
+                "id": 571,
+                "name": "Red Bull Salzburg",
+                "logo": "https://media.api-sports.io/football/teams/571.png"
+            },
+            "player": {
+                "id": 362564,
+                "name": "A. Daghim"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Roughing"
+        }
+    ]
+}

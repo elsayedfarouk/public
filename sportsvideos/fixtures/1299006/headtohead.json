@@ -1,0 +1,82 @@
+{
+    "get": "fixtures/headtohead",
+    "parameters": {
+        "h2h": "165-247"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 1299006,
+                "referee": "Jose Maria Sanchez Martinez, Spain",
+                "timezone": "UTC",
+                "date": "2024-10-01T19:00:00+00:00",
+                "timestamp": 1727809200,
+                "periods": {
+                    "first": 1727809200,
+                    "second": 1727812800
+                },
+                "venue": {
+                    "id": 19381,
+                    "name": "SIGNAL IDUNA PARK",
+                    "city": "Dortmund"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 2,
+                "name": "UEFA Champions League",
+                "country": "World",
+                "logo": "https://media.api-sports.io/football/leagues/2.png",
+                "flag": null,
+                "season": 2024,
+                "round": "League Stage - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 165,
+                    "name": "Borussia Dortmund",
+                    "logo": "https://media.api-sports.io/football/teams/165.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 247,
+                    "name": "Celtic",
+                    "logo": "https://media.api-sports.io/football/teams/247.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 7,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 5,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 7,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,450 @@
+{
+    "get": "fixtures/lineups",
+    "parameters": {
+        "fixture": "1299009"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 656,
+                "name": "Slovan Bratislava",
+                "logo": "https://media.api-sports.io/football/teams/656.png",
+                "colors": {
+                    "player": {
+                        "primary": "709cbe",
+                        "number": "16182d",
+                        "border": "709cbe"
+                    },
+                    "goalkeeper": {
+                        "primary": "d72427",
+                        "number": "ffffff",
+                        "border": "d72427"
+                    }
+                }
+            },
+            "formation": "4-2-3-1",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 1378,
+                        "name": "Dominik Tak\u00e1\u010d",
+                        "number": 71,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2975,
+                        "name": "C\u00e9sar Blackman",
+                        "number": 28,
+                        "pos": "D",
+                        "grid": "2:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 51171,
+                        "name": "Guram Kashia",
+                        "number": 4,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 61149,
+                        "name": "Kenan Bajri\u0107",
+                        "number": 12,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 25374,
+                        "name": "Kevin Wimmer",
+                        "number": 6,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 105321,
+                        "name": "Danylo Ignatenko",
+                        "number": 77,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 68198,
+                        "name": "Kyriakos Savvidis",
+                        "number": 88,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 56132,
+                        "name": "Tigran Barseghyan",
+                        "number": 11,
+                        "pos": "M",
+                        "grid": "4:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 14677,
+                        "name": "Marko Toli\u0107",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 42316,
+                        "name": "Vladim\u00edr Weiss",
+                        "number": 7,
+                        "pos": "M",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 61156,
+                        "name": "David Strelec",
+                        "number": 13,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 131516,
+                        "name": "Sharani Zuberu",
+                        "number": 23,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 7786,
+                        "name": "J\u00falius Sz\u0151ke",
+                        "number": 37,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 66245,
+                        "name": "Luk\u00e1\u0161 Pauschek",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 383041,
+                        "name": "Nino Marcelli",
+                        "number": 18,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1213,
+                        "name": "R\u00f3bert Mak",
+                        "number": 21,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 128446,
+                        "name": "Martin Trnovsk\u00fd",
+                        "number": 31,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 308907,
+                        "name": "Adam Hrdina",
+                        "number": 35,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 61146,
+                        "name": "Jurij Medved\u011bv",
+                        "number": 17,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 137471,
+                        "name": "Siemen Voet",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 76975,
+                        "name": "Alen Mustafi\u0107",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 289661,
+                        "name": "Artur Gajdo\u0161",
+                        "number": 26,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 281323,
+                        "name": "Idjessi Metsoko",
+                        "number": 93,
+                        "pos": "F",
+                        "grid": null
+                    }
+                }
+            ],
+            "coach": {
+                "id": 185,
+                "name": "V. Weiss",
+                "photo": "https://media.api-sports.io/football/coachs/185.png"
+            }
+        },
+        {
+            "team": {
+                "id": 50,
+                "name": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "colors": {
+                    "player": {
+                        "primary": "abd1f5",
+                        "number": "004e85",
+                        "border": "abd1f5"
+                    },
+                    "goalkeeper": {
+                        "primary": "83001d",
+                        "number": "ffffff",
+                        "border": "83001d"
+                    }
+                }
+            },
+            "formation": "4-2-3-1",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 25004,
+                        "name": "Stefan Ortega",
+                        "number": 18,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 284230,
+                        "name": "Rico Lewis",
+                        "number": 82,
+                        "pos": "D",
+                        "grid": "2:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 5,
+                        "name": "Manuel Akanji",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 626,
+                        "name": "John Stones",
+                        "number": 5,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 129033,
+                        "name": "Jo\u0161ko Gvardiol",
+                        "number": 24,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 41621,
+                        "name": "Matheus Nunes",
+                        "number": 27,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 633,
+                        "name": "\u0130lkay G\u00fcndo\u011fan",
+                        "number": 19,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1422,
+                        "name": "J\u00e9r\u00e9my Doku",
+                        "number": 11,
+                        "pos": "M",
+                        "grid": "4:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 631,
+                        "name": "Phil Foden",
+                        "number": 47,
+                        "pos": "M",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 266657,
+                        "name": "Savinho",
+                        "number": 26,
+                        "pos": "M",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 1100,
+                        "name": "Erling Haaland",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 567,
+                        "name": "R\u00faben Dias",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 158697,
+                        "name": "James McAtee",
+                        "number": 87,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 627,
+                        "name": "Kyle Walker",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 19187,
+                        "name": "Jack Grealish",
+                        "number": 10,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 617,
+                        "name": "Ederson",
+                        "number": 31,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 19197,
+                        "name": "Scott Carson",
+                        "number": 33,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 2291,
+                        "name": "Mateo Kova\u010di\u0107",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 636,
+                        "name": "Bernardo Silva",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": null
+                    }
+                }
+            ],
+            "coach": {
+                "id": 4,
+                "name": "Pep Guardiola",
+                "photo": "https://media.api-sports.io/football/coachs/4.png"
+            }
+        }
+    ]
+}

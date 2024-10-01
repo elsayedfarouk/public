@@ -1,0 +1,344 @@
+{
+    "get": "fixtures/events",
+    "parameters": {
+        "fixture": "1299008"
+    },
+    "errors": [],
+    "results": 15,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "time": {
+                "elapsed": 15,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 37890,
+                "name": "J. Schouten"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 22,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 233,
+                "name": "Mauro Junior"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 32,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 262845,
+                "name": "E. Quaresma"
+            },
+            "assist": {
+                "id": 354753,
+                "name": "O. Diomande"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 52,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 41892,
+                "name": "D. Braganca"
+            },
+            "assist": {
+                "id": 154839,
+                "name": "G. Catamo"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 53,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 419582,
+                "name": "G. Quenda"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Handling"
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 162037,
+                "name": "M. Tillman"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Tripping"
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 770,
+                "name": "R. Karsdorp"
+            },
+            "assist": {
+                "id": 233,
+                "name": "Mauro Junior"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 65,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 544,
+                "name": "N. Lang"
+            },
+            "assist": {
+                "id": 161897,
+                "name": "I. Saibari"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 78,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 102851,
+                "name": "R. Ledezma"
+            },
+            "assist": {
+                "id": 36905,
+                "name": "G. Til"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 419916,
+                "name": "C. Harder"
+            },
+            "assist": {
+                "id": 41194,
+                "name": "N. Santos"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 80,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 51776,
+                "name": "M. Araujo"
+            },
+            "assist": {
+                "id": 41112,
+                "name": "Trincao"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 84,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 41892,
+                "name": "D. Braganca"
+            },
+            "assist": {
+                "id": 51776,
+                "name": "M. Araujo"
+            },
+            "type": "Goal",
+            "detail": "Normal Goal",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 86,
+                "extra": null
+            },
+            "team": {
+                "id": 228,
+                "name": "Sporting CP",
+                "logo": "https://media.api-sports.io/football/teams/228.png"
+            },
+            "player": {
+                "id": 41892,
+                "name": "D. Braganca"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Holding"
+        },
+        {
+            "time": {
+                "elapsed": 87,
+                "extra": null
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 544,
+                "name": "N. Lang"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Unsportsmanlike conduct"
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 2
+            },
+            "team": {
+                "id": 197,
+                "name": "PSV Eindhoven",
+                "logo": "https://media.api-sports.io/football/teams/197.png"
+            },
+            "player": {
+                "id": 73868,
+                "name": "R. Pepi"
+            },
+            "assist": {
+                "id": 290549,
+                "name": "J. Bakayoko"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        }
+    ]
+}
